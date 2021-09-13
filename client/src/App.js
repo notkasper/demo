@@ -1,5 +1,7 @@
 import { useEffect } from 'react';
 import request from 'superagent';
+import Header from './header';
+import Content from './content';
 
 const App = () => {
   const load = async () => {
@@ -13,9 +15,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <img className="App-logo" alt="logo" />
-      </header>
+      <Header />
+      <Content />
     </div>
   );
 };
