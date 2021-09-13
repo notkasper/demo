@@ -7,12 +7,20 @@ import request from 'superagent';
 import Select from '@material-ui/core/Select';
 import InsertDriveFileOutlinedIcon from '@material-ui/icons/InsertDriveFileOutlined';
 import MenuItem from '@material-ui/core/MenuItem';
+import CircularProgress from '@material-ui/core/CircularProgress';
 
 const Title = styled.h1`
   color: #19196c;
   font-family: myriad-pro, sans-serif;
   margin: 0;
   font-size: 32px;
+`;
+
+const Subtitle = styled.h1`
+  color: #19196c;
+  font-family: myriad-pro, sans-serif;
+  margin: 0;
+  font-size: 16px;
 `;
 
 const Crumb = styled.p`
@@ -29,14 +37,18 @@ const Text = styled.p`
 
 const Content = () => {
   const [crops, setCrops] = useState([]);
+  const [loading, setLoading] = useState(false);
   const [selectedCrop, setSelectedCrop] = useState(0);
+  const [areaYieldPath, setAreaYieldPath] = useState(0);
 
   const load = async () => {
+    setLoading(true);
     let response = await request.get('api/v1/crops');
     setCrops(response.body.data);
 
     response = await request.get('api/v1/areaYield');
-    console.log(JSON.stringify(response.body));
+    setAreaYieldPath(response.body.data);
+    setLoading(false);
   };
 
   useEffect(() => {
@@ -56,18 +68,19 @@ const Content = () => {
         <Crumb style={{ marginLeft: '1.5rem' }}>&gt;</Crumb>
       </div>
       <Title>Rural benchmark</Title>
-      <div style={{ display: 'flex', height: '32px', margin: '1rem 0' }}>
+      <div style={{ display: 'flex', height: '32px', margin: '1rem 0 2rem 0' }}>
         <div style={{ borderRadius: '100%', backgroundColor: '#FD6400', width: '32px', color: 'white' }}>
           <InsertDriveFileOutlinedIcon style={{ marginLeft: '4px', marginTop: '4px' }} />
         </div>
         <Text style={{ marginTop: '5px', marginLeft: '10px' }}>Download report</Text>
       </div>
-      <Card>
-        <CardContent>
-          <Title>Graphs!</Title>
+      {loading ? null : (
+        <>
+          <Subtitle>Select crop</Subtitle>
           <Select
             labelId="demo-simple-select-label"
             id="demo-simple-select"
+            style={{ marginBottom: '1rem' }}
             value={selectedCrop}
             onChange={handleCropChange}
           >
@@ -75,6 +88,19 @@ const Content = () => {
               <MenuItem value={10}>{crop}</MenuItem>
             ))}
           </Select>
+        </>
+      )}
+      <Card>
+        <CardContent>
+          {loading ? (
+            <CircularProgress />
+          ) : (
+            <>
+              <Subtitle>Area / Yield</Subtitle>
+
+              <img src={areaYieldPath} alt="graph of area vs yield" />
+            </>
+          )}
         </CardContent>
       </Card>
     </Container>

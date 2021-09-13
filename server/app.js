@@ -46,7 +46,7 @@ const start = async () => {
   app.use(cors());
 
   // Set static folder (build folder)
-  app.use('/', express.static(path.join(__dirname, './build')));
+  app.use('/', express.static(path.join(__dirname, './static')));
 
   app.get('/api/v1/test', (req, res) => res.status(200).send({ message: 'OK' }));
   app.get('/api/v1/crops', yield.getCrops);

@@ -18,7 +18,7 @@ myline = numpy.linspace(1, 22, 100)
 
 plt.scatter(x, y)
 plt.plot(myline, mymodel(myline))
-plt.savefig('area-yield.png')
+plt.savefig('../static/area-yield.png')
 
 output = {"filename": "area-yield.png"}
 print(json.dumps(output))

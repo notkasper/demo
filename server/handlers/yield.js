@@ -40,15 +40,16 @@ const getproposals = async (req, res) => {
   res.status(200).send({ data: proposals });
 };
 
+const delay = 500;
+
 const getAreaYieldGraph = async (req, res) => {
   spawn('python', ['./engine/polynomial_model.py', 7, 3]);
 
   // super ugly temporary workaround
   setTimeout(() => {
     filename = 'area-yield.png';
-    filepath = path.join(__dirname, `../engine/${filename}`);
-    res.status(200).sendFile(filepath);
-  }, 2000);
+    res.status(200).send({ data: filename });
+  }, delay);
 };
 
 module.exports = { getCrops, getproposals, getAreaYieldGraph };
