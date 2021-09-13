@@ -19,6 +19,7 @@ const StyledLink = styled.a`
   padding: 0 12px;
   :hover {
     cursor: pointer;
+    color: #fd6400;
   }
 `;
 

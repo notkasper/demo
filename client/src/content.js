@@ -8,6 +8,10 @@ import Select from '@material-ui/core/Select';
 import InsertDriveFileOutlinedIcon from '@material-ui/icons/InsertDriveFileOutlined';
 import MenuItem from '@material-ui/core/MenuItem';
 import CircularProgress from '@material-ui/core/CircularProgress';
+import Accordion from '@material-ui/core/Accordion';
+import AccordionSummary from '@material-ui/core/AccordionSummary';
+import AccordionDetails from '@material-ui/core/AccordionDetails';
+import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 const Title = styled.h1`
   color: #19196c;
@@ -32,6 +36,25 @@ const Crumb = styled.p`
 
 const Text = styled.p`
   font-family: Myriad-Light;
+  font-size: 1rem;
+`;
+
+const GreenHighlight = styled.span`
+  color: #36b065;
+  font-weight: bold;
+  font-family: Myriad-Light;
+  font-size: 1rem;
+`;
+
+const Neutral = styled.span`
+  font-family: Myriad-Light;
+  font-size: 1rem;
+`;
+
+const BlueHighlight = styled.span`
+  color: #19196c;
+  font-family: Myriad-Light;
+  font-weight: bold;
   font-size: 1rem;
 `;
 
@@ -80,7 +103,7 @@ const Content = () => {
           <Select
             labelId="demo-simple-select-label"
             id="demo-simple-select"
-            style={{ marginBottom: '1rem' }}
+            style={{ marginBottom: '1rem', minWidth: '10rem' }}
             value={selectedCrop}
             onChange={handleCropChange}
           >
@@ -96,9 +119,17 @@ const Content = () => {
             <CircularProgress />
           ) : (
             <>
+              <Subtitle>Statistics</Subtitle>
+              <Neutral>Based on your proposals, you are classified as a </Neutral>
+              <BlueHighlight>medium </BlueHighlight>
+              <Neutral>sized farm for crop: </Neutral>
+              <BlueHighlight>{crops[selectedCrop]}</BlueHighlight>
               <Subtitle>Area / Yield</Subtitle>
-
-              <img src={areaYieldPath} alt="graph of area vs yield" />
+              <Neutral>Your yield is </Neutral>
+              <GreenHighlight>slightly higher </GreenHighlight>
+              <Neutral>than the average of comparable farms.</Neutral>
+              <div />
+              <img src={areaYieldPath} alt="graph of area vs yield" style={{ width: '50%', height: 'auto' }} />
             </>
           )}
         </CardContent>
