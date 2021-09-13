@@ -1,0 +1,1001 @@
+Proposal code,Origin period season sequence,Period,Rabobank Region,Crop,Crop naic code,Crop naic description,Area,Yield,Cost,Price,Financial information sequence,Last updated,Esport date and time
+1,3,8/28/2021,Joaquín Suárez,Diospyros mespiliformis Hochst. ex A. DC.,48,"",7342,7486,489.833,1.6526,126.2921,8/16/2021,12/25/2020
+2,1,3/30/2021,Gongrong,Castilleja hyperborea Pennell,28,"",3989,58579,3679.278,4.1718,182.5891,10/31/2020,9/3/2021
+3,3,4/22/2021,Rešetari,Monarda L.,35,"",354,87002,1801.162,1.8462,195.4203,8/17/2021,10/10/2020
+4,1,9/6/2021,Luzon,Caulanthus inflatus S. Watson,89,"",3468,28628,3443.916,2.7856,190.3842,8/31/2021,7/4/2021
+5,1,10/1/2020,Montpellier,Mecardonia acuminata (Walter) Small var. microphylla (Raf.) Pennell,49,"",1052,33351,2224.386,2.9816,183.9488,3/4/2021,7/25/2021
+6,3,11/24/2020,Järfälla,Acacia retusa (Jacq.) Howard,93,"",1180,57047,2649.005,0.4641,110.8701,3/10/2021,1/2/2021
+7,0,2/4/2021,Старо Нагоричане,Arctostaphylos bakeri Eastw. ssp. sublaevis P.V. Wells,93,"",3437,17999,1708.101,1.3789,136.4408,10/16/2020,9/25/2020
+8,2,10/13/2020,Wiwilí,Trifolium striatum L.,26,"",7747,14679,404.233,1.4841,136.3879,3/6/2021,10/23/2020
+9,0,5/24/2021,Tuchola,Ipomoea aquatica Forssk.,24,"",2124,98333,3188.957,0.5147,176.9973,7/5/2021,10/19/2020
+10,3,12/29/2020,Efkarpía,Spathoglottis Blume,140,"",899,14328,2759.461,1.7352,179.6495,7/4/2021,3/22/2021
+11,2,8/1/2021,Metz,Desmodium cubense Griseb.,76,"",4951,96204,1371.701,4.6767,174.5976,4/7/2021,3/29/2021
+12,3,4/18/2021,Varberg,Salvia engelmannii A. Gray,4,"",1043,77919,413.248,3.8439,147.0332,12/8/2020,3/15/2021
+13,2,5/27/2021,Sorodot,Draba porsildii G. Mulligan,56,"",1562,30838,2431.013,0.1685,182.1975,10/19/2020,8/10/2021
+14,2,5/7/2021,Kristinestad,Yucca reverchonii Trel.,53,"",8034,64660,2789.064,0.1082,162.6189,4/26/2021,1/1/2021
+15,0,7/30/2021,Esik,"Heuchera parvifolia Nutt. ex Torr. & A. Gray var. arizonica Rosend., Butters & Lakela",25,"",850,19641,4401.604,2.574,133.3281,1/1/2021,3/30/2021
+16,1,9/13/2020,Kamieniec,Triticosecale rimpaui C. Yen & J.L. Yang,140,"",6842,95967,913.084,4.5222,199.0418,10/29/2020,5/6/2021
+17,3,9/30/2020,Tours,Rosa ×harisonii Rivers,92,"",6444,12428,375.208,2.0724,157.7265,2/19/2021,5/23/2021
+18,2,5/7/2021,Lazaro Cardenas,Leptochloa panicoides (J. Presl) Hitchc.,6,"",253,53417,4561.324,1.2862,132.2751,5/19/2021,11/28/2020
+19,3,6/14/2021,Ipaba,Pentzia incana (Thunb.) Kuntze,114,"",5339,99120,3908.652,3.5622,116.9779,7/10/2021,1/13/2021
+20,3,11/18/2020,Santa Cecilia,Delphinium carolinianum Walter ssp. vimineum (D. Don) Warnock,108,"",9967,78918,3553.9,4.7456,125.5045,5/10/2021,5/9/2021
+21,2,2/20/2021,Palopat,Cynosciadium digitatum DC.,90,"",3861,67914,442.787,4.3344,151.2317,12/15/2020,1/23/2021
+22,2,5/21/2021,Tugu,Lycopodiella cernua (L.) Pic. Serm.,150,"",3729,32826,3770.056,1.2975,113.7495,6/12/2021,7/21/2021
+23,4,10/6/2020,Alpedrinha,Iris spuria L.,8,"",606,45676,82.479,3.5119,180.7687,3/16/2021,12/22/2020
+24,4,2/2/2021,Hāgere Hiywet,Collema flaccidum (Ach.) Ach.,36,"",1288,17357,2545.636,1.9215,195.5415,7/26/2021,10/10/2020
+25,3,10/16/2020,Waekolong,Quercus lyrata Walter,2,"",7075,15383,890.81,4.8499,100.24,1/22/2021,12/11/2020
+26,2,6/19/2021,Reszel,Stylocline intertexta Morefield,19,"",9802,88246,2111.258,3.0485,147.99,5/2/2021,4/23/2021
+27,0,6/15/2021,Halmstad,Podranea Sprague,76,"",679,37370,3378.082,4.5631,152.2625,6/23/2021,11/29/2020
+28,3,6/1/2021,Bentiu,Liatris cokeri Pyne & Stucky,32,"",8193,64638,2994.441,4.4687,138.0125,12/12/2020,11/11/2020
+29,1,8/24/2021,Kladruby,Lobelia laxiflora Kunth,133,"",8391,13682,2182.292,2.8537,146.7398,7/11/2021,7/22/2021
+30,3,3/28/2021,Sośnie,Lupinus parviflorus Nutt. ex Hook. & Arn. ssp. parviflorus,38,"",5862,14642,3854.545,1.5095,102.3857,10/30/2020,11/1/2020
+31,4,7/14/2021,Manosque,Lupinus caespitosus Nutt. var. utahensis (S. Watson) Cox,56,"",8697,34681,2434.908,3.2067,191.8287,4/22/2021,10/18/2020
+32,0,7/12/2021,Puhja,Wedelia reticulata DC.,12,"",8040,58224,4897.618,2.0747,125.8116,9/18/2020,2/6/2021
+33,2,6/30/2021,Bagong Sikat,Cynanchum northropiae (Schltr.) Alain,7,"",6862,88734,104.107,1.1211,113.5006,2/26/2021,7/3/2021
+34,3,7/25/2021,Mafinga,Begonia decandra Pav. ex A. DC.,52,"",9493,61997,1526.388,1.0788,133.6804,2/16/2021,7/24/2021
+35,2,8/24/2021,Jarry,Pentalinon luteum (L.) B.F. Hansen & Wunderlin,111,"",4266,91680,1357.502,1.8224,149.6828,10/21/2020,1/16/2021
+36,4,3/18/2021,Mandalt,Aconitum lycoctonum L.,123,"",5219,87277,746.711,1.5308,182.0646,5/4/2021,7/12/2021
+37,0,2/25/2021,Helsingborg,Myriophyllum verticillatum L.,7,"",3292,9547,1844.187,1.7273,195.0421,10/11/2020,11/17/2020
+38,1,12/22/2020,Yorosso,Cedrela odorata L.,9,"",3213,24130,673.88,1.6489,160.9307,1/12/2021,2/6/2021
+39,0,10/26/2020,Içara,Galactia volubilis (L.) Britton,42,"",8360,20469,1417.237,2.5931,140.0724,4/6/2021,2/21/2021
+40,1,5/7/2021,Ghayl Bā Wazīr,Rhynchospora recognita (Gale) Kral,92,"",8547,5126,205.509,3.9528,195.0416,3/13/2021,1/18/2021
+41,2,10/27/2020,Hexi,Cladonia chlorophaea (Flörke ex Sommerf.) Spreng.,16,"",6460,5321,4757.036,4.226,111.9888,10/3/2020,9/8/2021
+42,1,12/12/2020,San Miguel,Salvia dorrii (Kellogg) Abrams ssp. mearnsii (Britton) E.M. McClint.,77,"",8474,42669,3654.14,0.2965,179.3121,3/13/2021,5/30/2021
+43,3,10/17/2020,Courbevoie,Succisella G. Beck,65,"",8649,51856,2704.097,2.0907,147.1872,3/10/2021,5/10/2021
+44,4,5/22/2021,Pātan,"Flaveria macdougalii Theroux, Pinkava & Keil",5,"",1953,73361,3468.29,0.349,120.2919,10/9/2020,9/25/2020
+45,4,10/21/2020,Hengshui,Viguiera parishii Greene,88,"",9302,61883,4041.234,0.5297,106.6781,9/19/2020,12/19/2020
+46,1,12/4/2020,Tiabaya,Spermacoce tetraquetra A. Rich.,43,"",9297,58637,3261.47,3.692,180.5767,11/20/2020,8/31/2021
+47,4,8/10/2021,Jinshan,Sphagnum girgensohnii Russow,63,"",3365,95258,4703.19,0.3141,197.5926,5/5/2021,5/26/2021
+48,1,2/21/2021,Kinamayan,Solanum xanti A. Gray,144,"",2001,53091,2679.519,3.7193,132.2901,9/27/2020,3/1/2021
+49,0,10/11/2020,Gubo,Syagrus Mart.,20,"",9093,18624,2428.089,2.5791,156.1123,1/1/2021,5/14/2021
+50,1,4/4/2021,Chamouny,Malvella leprosa (Ortega) Krapov.,38,"",9827,73496,4714.997,4.4167,167.7163,9/21/2020,3/20/2021
+51,1,6/23/2021,Karnobat,Scutellaria ovata Hill ssp. venosa Epling,98,"",2271,95752,2315.706,4.8532,187.3823,11/29/2020,12/4/2020
+52,4,6/10/2021,Zafar,Mimosa L.,39,"",9042,25420,1497.567,2.406,128.9515,1/28/2021,3/3/2021
+53,3,10/3/2020,Longka,Phlox stansburyi (Torr.) A. Heller,78,"",7362,15525,694.798,1.8668,179.2812,12/9/2020,12/5/2020
+54,2,8/11/2021,At-Bashi,Adesmia microphylla Hook. & Arn.,10,"",1622,12613,3134.562,2.9306,119.9614,2/2/2021,2/12/2021
+55,1,10/13/2020,Yuexi,Fimbristylis globulosa (Retz.) Kunth,52,"",6992,64444,2306.895,2.1278,106.354,7/21/2021,3/2/2021
+56,1,3/10/2021,Port Saint John’s,Crepis bakeri Greene ssp. bakeri,79,"",831,52825,2006.048,3.7804,199.524,6/5/2021,2/2/2021
+57,0,12/1/2020,Nîmes,Erythroxylum novogranatense (Morris) Hieron. var. novogranatense,51,"",2973,60400,4864.745,1.3755,164.7171,4/11/2021,9/7/2021
+58,1,8/18/2021,Tambak,Lecanora vegae Malme,128,"",4168,83484,2384.862,2.2617,115.357,12/21/2020,10/7/2020
+59,4,2/22/2021,Strasbourg,Allophylus L.,84,"",366,34590,823.22,4.5875,139.4991,1/1/2021,9/9/2021
+60,2,1/31/2021,Quintãs,Normandina pulchella (Borrer) Nyl.,28,"",7014,37184,1064.801,2.6809,142.2218,5/3/2021,1/22/2021
+61,4,4/10/2021,Lewoluo,Artemisia tilesii Ledeb. ssp. unalaschcensis (Besser) Hultén,15,"",7722,97339,570.927,0.1284,184.2611,10/18/2020,8/23/2021
+62,1,3/27/2021,Cidamar,Pityopsis falcata (Pursh) Nutt.,89,"",2715,29242,61.702,4.8561,179.3625,11/17/2020,3/23/2021
+63,0,1/19/2021,Manevychi,Linnaea L.,18,"",3687,87773,397.337,4.7196,169.0965,1/19/2021,3/13/2021
+64,3,6/21/2021,København,Atriplex corrugata S. Watson,51,"",729,81992,1363.872,4.097,118.9104,10/12/2020,11/18/2020
+65,1,9/7/2021,Koh Tao,Myroxylon L. f.,113,"",4741,66076,4355.34,0.4962,119.6605,8/14/2021,4/7/2021
+66,0,3/18/2021,Mandal,Dodonaea viscosa (L.) Jacq.,93,"",8666,30174,236.515,1.6483,167.9753,9/6/2021,2/27/2021
+67,1,11/20/2020,Xiaoya,Thermopsis californica S. Watson var. argentata (Greene) C.J. Chen & B.L. Turner,67,"",4000,72906,3558.071,3.9242,146.9294,11/8/2020,1/21/2021
+68,3,2/14/2021,Valuyki,Ceanothus maritimus Hoover,113,"",954,29423,1531.354,1.431,131.97,5/7/2021,10/4/2020
+69,3,5/19/2021,Cimanggu,Trigonella corniculata (L.) L.,1,"",7753,4243,1076.853,3.0842,170.6242,2/2/2021,6/13/2021
+70,4,7/6/2021,Gakem,Eriogonum pulchrum Eastw.,117,"",8579,41940,2454.323,0.8735,135.9127,11/14/2020,6/7/2021
+71,3,6/15/2021,Thoen,Timmia austriaca Hedw.,42,"",923,47068,755.217,0.0424,144.9339,11/15/2020,6/10/2021
+72,2,1/25/2021,Mogilany,Carex leptalea Wahlenb. ssp. leptalea,87,"",7946,76138,3920.155,0.446,165.6021,8/13/2021,9/22/2020
+73,1,9/18/2020,Tierp,Parmeliella pannosa (Sw.) Nyl.,4,"",4338,61927,699.51,4.1027,166.172,12/13/2020,7/8/2021
+74,2,7/21/2021,Trollhättan,Populus simonii Carrière [excluded],52,"",6531,26418,3221.15,0.8003,158.9394,9/19/2020,5/5/2021
+75,0,3/6/2021,Zhuanqiang,Lupinus odoratus A. Heller,108,"",3634,69940,1278.962,0.3326,116.2095,2/2/2021,7/31/2021
+76,2,10/28/2020,Januszkowice,Ardisia solanacea Roxb.,128,"",204,39548,1879.093,0.4054,154.8414,3/9/2021,12/16/2020
+77,0,7/20/2021,Rangxi,Microlychnus A. Funk,16,"",117,72041,4474.471,2.2778,157.3675,4/9/2021,9/26/2020
+78,0,2/5/2021,Vantaa,Cladina terrae-novae (Ahti) Hale & W.L. Culb.,146,"",1556,78008,4639.122,2.4736,142.2173,12/31/2020,7/26/2021
+79,1,5/30/2021,Otuke,Pohlia annotina (Hedw.) Lindb.,64,"",2862,36257,3036.082,3.701,167.9074,4/6/2021,6/23/2021
+80,3,6/27/2021,Gjegjan,Coprosma pubens A. Gray,78,"",4552,15812,15.129,1.6278,191.1244,1/22/2021,11/27/2020
+81,2,4/10/2021,Lagayan,Cheilanthes fendleri Hook.,115,"",5838,27994,1043.682,4.9424,117.3125,9/11/2021,9/7/2021
+82,3,7/31/2021,Boca Chica,Orthotrichum keeverae H.A. Crum & L.E. Anderson,130,"",7779,95879,4330.453,1.2049,129.2117,3/15/2021,7/13/2021
+83,0,8/30/2021,Hepingyizu,Lecanora glaucopsina Nyl.,138,"",7375,61050,3397.437,1.5099,186.6146,5/4/2021,9/19/2020
+84,4,4/1/2021,Eguia,Japewia subaurifera Muhr & Tønsberg,96,"",5777,50878,4372.716,3.4415,101.0692,10/4/2020,4/4/2021
+85,2,6/9/2021,Si’erbao,Rhizocarpon vernicomoideum Fink,55,"",4270,70151,3055.536,3.4735,155.9552,1/22/2021,8/30/2021
+86,1,2/17/2021,Balpyk Bī,Boerhavia erecta L.,48,"",3626,10082,2249.971,0.6805,159.9657,10/14/2020,8/10/2021
+87,2,10/21/2020,Carson City,Euphrasia nemorosa (Pers.) Wallr.,135,"",7445,87620,1069.948,1.5852,153.526,12/21/2020,1/11/2021
+88,3,11/16/2020,Baugo,Bestia Broth.,56,"",3469,74460,2297.757,1.7087,163.6128,9/8/2021,8/13/2021
+89,0,4/4/2021,Ongi,Triphora Nutt.,9,"",2548,22313,2156.712,0.3358,150.1913,7/20/2021,10/21/2020
+90,1,5/20/2021,Goianira,Potentilla glandulosa Lindl. ssp. hansenii (Greene) D.D. Keck,75,"",8973,25544,485.306,1.7581,122.3937,4/10/2021,4/18/2021
+91,2,5/14/2021,Fylí,Grusonia grahamii (Engelm.) H. Rob.,66,"",3023,84346,4624.921,3.8568,182.1422,3/30/2021,6/22/2021
+92,2,9/5/2021,Zevgolateió,Batis maritima L.,100,"",7886,27399,3264.346,2.541,175.8726,10/4/2020,10/22/2020
+93,2,8/2/2021,Heshui,Porpidia albocaerulescens (Wulfen) Hertel & Knoph,110,"",3363,70339,8.565,0.8619,148.2811,7/28/2021,11/23/2020
+94,4,2/25/2021,Liqiao,Pyrenula tenuisepta R.C. Harris,17,"",5926,37462,2219.282,4.2704,133.2959,11/20/2020,9/30/2020
+95,4,8/8/2021,Xijiang,Rubus leviculus L.H. Bailey,149,"",8010,29616,4967.55,1.662,114.1335,10/4/2020,10/20/2020
+96,2,8/29/2021,Ta Phraya,Silene scaposa B.L. Rob. var. lobata C.L. Hitchc. & Maguire,67,"",7443,65418,3314.025,4.8759,121.6894,4/1/2021,11/29/2020
+97,3,4/10/2021,Banjar Kajanan,Hydrangea arborescens L.,115,"",204,74394,2023.778,3.6765,177.9487,6/24/2021,8/24/2021
+98,4,9/6/2021,Sobreira,Porina lectissima (Fr.) Zahlbr.,80,"",8936,50651,2475.718,0.7664,113.9612,9/21/2020,11/1/2020
+99,4,4/3/2021,Vaasa,Tetrapterys inaequalis Cav.,64,"",6875,53981,672.401,2.0692,133.9433,4/10/2021,8/7/2021
+100,3,2/13/2021,Hernández,Fibraurea tinctoria Lour.,116,"",133,9594,2837.776,4.8517,123.9078,11/24/2020,8/19/2021
+101,3,9/14/2020,Oranjestad,Lupinus uncialis S. Watson,43,"",5546,35173,2769.418,3.5358,134.6188,11/17/2020,1/30/2021
+102,0,10/31/2020,Kilkenny,Megalospora porphyritis (Tuck.) R.C. Harris,104,"",1369,22139,2519.73,4.2788,145.3915,6/12/2021,5/4/2021
+103,4,12/29/2020,Gonghe,Potentilla hippiana Lehm. var. hippiana,63,"",1646,95131,2509.478,0.9891,105.4272,7/9/2021,6/25/2021
+104,4,9/3/2021,Danxia,Eltroplectris calcarata (Sw.) Garay & H.R. Sweet,92,"",9452,93286,1500.126,1.811,116.0165,9/26/2020,1/4/2021
+105,0,7/4/2021,Cayenne,Astragalus racemosus Pursh var. longisetus M.E. Jones,75,"",5865,24242,1732.483,2.6072,124.6929,5/8/2021,8/17/2021
+106,1,11/13/2020,Silva Jardim,Lobelia appendiculata A. DC. var. appendiculata,60,"",2130,59043,446.056,1.1723,100.9797,9/5/2021,2/15/2021
+107,0,9/11/2021,Two Hills,Codariocalyx gyroides (Roxb. ex Link) Hassk.,69,"",6152,8618,120.331,2.4439,163.9637,5/30/2021,12/5/2020
+108,2,11/12/2020,Malešići,Peganum L.,108,"",4738,54965,3369.534,3.6342,134.4216,4/19/2021,3/18/2021
+109,4,10/21/2020,Ténenkou,Lecidea virginiensis Calk. & Nyl.,18,"",161,16766,3177.926,0.4592,196.0315,12/7/2020,5/15/2021
+110,1,6/10/2021,Gunungkencana,Malcolmia maritima (L.) W.T. Aiton,144,"",7115,48419,491.906,1.6392,166.3743,2/5/2021,10/11/2020
+111,4,10/27/2020,Las Lomas,Coryphantha macromeris (Engelm.) Lem. var. macromeris,150,"",1417,86743,868.68,2.8156,146.3116,12/26/2020,11/7/2020
+112,2,6/1/2021,Woken,Sadleria pallida Hook. & Arn.,132,"",5609,24420,559.499,2.8756,180.821,5/13/2021,7/2/2021
+113,0,1/30/2021,Ingenio La Esperanza,Alternanthera crucis (Moq.) Boldingh,88,"",2222,67669,2408.506,2.6696,137.1232,3/14/2021,3/23/2021
+114,4,3/24/2021,Adiaké,Gilia leptantha Parish ssp. leptantha,143,"",888,72547,2242.26,2.4068,167.5474,4/23/2021,4/13/2021
+115,0,5/3/2021,Mempawah,Poa bulbosa L.,9,"",3715,22531,1232.005,1.6232,199.011,6/24/2021,11/22/2020
+116,2,2/12/2021,Ourovéni,Camissonia palmeri (S. Watson) P.H. Raven,138,"",9677,77586,117.514,4.0807,134.0034,4/28/2021,11/6/2020
+117,3,5/12/2021,Guanyao,Lessingia germanorum Cham.,143,"",2548,55899,862.924,3.4138,123.8221,3/19/2021,5/29/2021
+118,0,8/8/2021,Město Albrechtice,Arthonia glaucomaria (Nyl.) Nyl.,96,"",8397,55502,1855.956,0.371,131.0898,1/2/2021,5/18/2021
+119,0,12/27/2020,Wyśmierzyce,Lepidospartum squamatum (A. Gray) A. Gray,143,"",476,87589,3074.225,3.4315,115.5428,1/24/2021,3/14/2021
+120,0,2/7/2021,Sevilla,Carex backii Boott,135,"",3322,95362,515.364,2.8726,133.7488,10/17/2020,2/26/2021
+121,1,3/6/2021,Jinzhuang,Plagiobothrys scouleri (Hook. & Arn.) I.M. Johnst. var. hispidulus (Greene) Dorn,126,"",6215,3577,149.097,3.1786,118.2232,3/14/2021,5/9/2021
+122,3,1/10/2021,Duraykīsh,Psychotria hathewayi Fosberg var. hathewayi,26,"",2141,28716,4528.212,3.8242,149.5112,7/18/2021,5/4/2021
+123,3,6/25/2021,A dos Cunhados,"Escobaria orcuttii Boed. var. koenigii Castetter, Pierce & Schwerin",78,"",2874,61543,3603.269,0.878,134.3845,12/19/2020,6/8/2021
+124,3,2/2/2021,Santa Fe,Brachyelytrum erectum (Schreb. ex Spreng.) P. Beauv.,24,"",8429,94209,3375.256,1.6733,128.0769,12/3/2020,1/15/2021
+125,2,6/6/2021,Lanuza,Eriochloa polystachya Kunth,1,"",138,68712,1189.387,0.1232,143.8308,4/20/2021,6/29/2021
+126,0,8/16/2021,Muke,Persea americana Mill. var. drymifolia (Schltdl. & Cham.) S.F. Blake,110,"",893,15938,3975.243,2.4655,121.4213,2/6/2021,3/6/2021
+127,4,9/20/2020,Woodstock,Eriophorum russeolum Fr. ex Hartm. var. majus Sommier,5,"",8959,25996,4907.961,2.7054,158.0565,12/18/2020,5/29/2021
+128,2,12/14/2020,Serebryanyye Prudy,Psychotria hexandra H. Mann ssp. oahuensis O. Deg. & Fosberg var. hosakana Fosberg,119,"",5168,90505,4343.665,0.6523,191.0577,2/19/2021,9/11/2021
+129,1,10/7/2020,Humaitá,Proserpinaca palustris L.,108,"",396,14163,157.901,1.8579,120.9541,5/25/2021,12/27/2020
+130,0,9/2/2021,Sang-e Māshah,Galactia wrightii A. Gray var. mollissima Kearney & Peebles,109,"",1764,45820,3122.136,4.8641,153.7279,12/8/2020,10/16/2020
+131,2,8/8/2021,San Pedro,Heuchera americana L. var. americana,26,"",1726,19330,1944.508,4.3082,188.2341,8/14/2021,12/29/2020
+132,4,2/14/2021,San-Pédro,Philadelphus ernestii Hu,77,"",5412,70937,4701.115,0.1189,175.348,2/10/2021,1/25/2021
+133,4,9/2/2021,Yuetang,Ceanothus ×bakeri Greene ex McMinn (pro sp.),44,"",9223,2581,729.602,0.6724,163.9553,4/9/2021,11/15/2020
+134,4,7/8/2021,Casigua El Cubo,Euclidium W.T. Aiton,94,"",8522,88208,2677.402,4.7533,174.1456,5/27/2021,11/7/2020
+135,2,2/4/2021,Wenquan,Platanthera dilatata (Pursh) Lindl. ex Beck,93,"",1207,51631,1965.011,3.1634,178.5629,5/1/2021,2/12/2021
+136,0,7/5/2021,Raposos,Brighamia rockii H. St. John,84,"",5569,16863,720.333,3.1176,120.5401,9/8/2021,10/18/2020
+137,3,1/5/2021,Stara Pazova,Codariocalyx Hassk.,121,"",7452,60499,3846.103,3.1423,118.4194,2/4/2021,1/9/2021
+138,1,3/9/2021,Göteborg,Castilleja ambigua Hook. & Arn. ssp. ambigua,93,"",9605,5691,2378.579,2.8437,153.2366,3/26/2021,6/24/2021
+139,3,8/30/2021,At Samat,Mimosa schomburgkii Benth.,129,"",6098,71444,1332.173,3.8038,148.6057,12/8/2020,6/20/2021
+140,2,4/9/2021,Leifeng,Maranta leuconeura E. Morren,72,"",2159,47423,4322.792,0.4586,166.2276,5/14/2021,6/12/2021
+141,1,2/14/2021,Seattle,Thelypteris puberula (Baker) Morton var. sonorensis A.R. Sm.,106,"",8096,41152,643.939,0.1615,146.8216,1/26/2021,8/16/2021
+142,3,6/8/2021,Turgun,Navarretia viscidula Benth.,104,"",2134,65396,4156.279,3.4833,114.8292,4/11/2021,5/2/2021
+143,2,4/9/2021,Fenggang,Alstroemeria pulchella L. f.,65,"",2783,43496,3294.415,3.1839,184.6103,7/19/2021,6/27/2021
+144,3,7/6/2021,Oster,Tilia ×europaea L. (pro sp.),82,"",4126,14647,4186.167,3.1665,144.7853,4/28/2021,6/23/2021
+145,3,5/24/2021,Garang,Lupinus leucophyllus Douglas ex Lindl. ssp. leucophyllus var. belliae C.P. Sm.,42,"",2517,47848,3982.562,3.5792,181.2764,9/22/2020,7/28/2021
+146,1,8/8/2021,Sawo,Symphyotrichum ontarionis (Wiegand) G.L. Nesom,144,"",6819,29572,4743.077,4.1828,158.7474,10/18/2020,9/27/2020
+147,4,11/28/2020,Bardalah,Dalea lanata Spreng. var. terminalis (M.E. Jones) Barneby,137,"",8268,78621,3040.149,2.976,127.6465,12/20/2020,2/17/2021
+148,4,5/13/2021,Miliangju,Phlox hendersonii (E.E. Nelson) Cronquist,125,"",6512,84046,2848.654,3.8441,165.1487,7/11/2021,6/29/2021
+149,2,10/6/2020,Diriomo,Lemna aequinoctialis Welw.,67,"",412,93418,3884.929,1.8568,122.898,8/11/2021,7/5/2021
+150,4,11/10/2020,Zhongshangang,Crataegus phaenopyrum (L. f.) Medik.,106,"",7653,73053,910.564,3.0061,191.4859,4/29/2021,8/13/2021
+151,3,10/16/2020,Comé,Helianthus atrorubens L.,133,"",7101,14126,3752.556,0.2666,166.4618,8/23/2021,7/1/2021
+152,0,9/23/2020,Сарај,Carex planostachys Kunze,106,"",3122,39303,2410.389,1.5974,132.035,7/13/2021,2/9/2021
+153,2,2/28/2021,Āsmār,Arctostaphylos edmundsii J.T. Howell,73,"",2734,87689,1390.966,0.9029,171.5801,7/27/2021,1/4/2021
+154,3,4/2/2021,Oslo,Limnophila aromatica Merrill,15,"",6919,83507,141.001,3.0654,109.1185,11/28/2020,6/6/2021
+155,0,12/1/2020,Bordeaux,Lindsaea quadrangularis Raddi,125,"",4373,23585,3493.328,4.1175,184.7734,3/19/2021,12/16/2020
+156,3,5/21/2021,Baranoa,Polytrichum sexangulare Brid.,110,"",4473,45108,3804.407,3.1426,110.0731,6/3/2021,5/12/2021
+157,1,3/6/2021,Jdaidet el Matn,Moricandia DC.,54,"",4181,38140,1531.146,3.325,194.9887,2/9/2021,6/12/2021
+158,2,2/15/2021,Heilangkou,Hackelia floribunda (Lehm.) I.M. Johnst.,119,"",2579,2722,4108.15,2.8521,190.5518,3/1/2021,2/10/2021
+159,4,10/10/2020,Chajarí,Poa cita Edgar,46,"",926,60576,3064.896,0.8059,135.8709,2/3/2021,12/28/2020
+160,3,7/18/2021,Kuishan,Tortula cainii H.A. Crum & L.E. Anderson,48,"",7787,52916,528.093,2.6074,115.1743,9/26/2020,7/1/2021
+161,3,12/13/2020,Varniai,Paspalum coryphaeum Trin.,68,"",6810,83321,4577.954,3.2421,143.9494,9/7/2021,4/3/2021
+162,4,12/23/2020,Chastyye,Draba cusickii B.L. Rob. ex O.E. Schulz,137,"",4245,27724,3358.399,1.4435,197.0678,12/6/2020,11/17/2020
+163,1,10/10/2020,Cibuah,Jaffueliobryum raui (Austin) Thér.,4,"",3966,27282,4097.97,1.7808,118.4633,12/30/2020,3/15/2021
+164,0,9/17/2020,Severoural’sk,Mimulus suksdorfii A. Gray,56,"",6911,68686,1700.44,1.6352,171.7412,1/22/2021,2/21/2021
+165,3,3/30/2021,Santa Vitória do Palmar,Eriogonum hookeri S. Watson,148,"",7627,15492,2491.498,0.7416,142.1682,6/3/2021,1/7/2021
+166,2,4/14/2021,Valledupar,Seligeria recurvata (Hedw.) Bruch & Schimp.,64,"",2832,67704,3396.633,0.9234,109.2732,5/13/2021,9/8/2021
+167,2,6/9/2021,Sezimovo Ústí,Sporobolus vaginiflorus (Torr. ex A. Gray) Alph. Wood,95,"",5699,16749,869.554,1.3994,134.6422,5/4/2021,9/15/2020
+168,3,12/8/2020,Lisia Góra,Chrysactinia mexicana A. Gray,134,"",5342,41678,2000.041,3.1432,163.9239,10/7/2020,3/4/2021
+169,3,12/21/2020,Gumaus,Coenogonium disjunctum Nyl.,123,"",3698,16323,453.555,0.4984,129.0773,1/17/2021,11/20/2020
+170,4,10/25/2020,Hushi,Pyrenula thelomorpha Tuck.,145,"",2725,5121,4447.028,1.8811,173.8116,3/15/2021,12/20/2020
+171,3,7/26/2021,Säter,Coprosma J.R. Forst. & G. Forst.,0,"",4518,64768,4031.068,1.5162,140.9371,5/28/2021,6/20/2021
+172,1,12/14/2020,Falköping,Chorizanthe corrugata (Torr.) Torr. & A. Gray,126,"",5004,87913,4391.437,3.5253,193.3046,11/30/2020,2/3/2021
+173,4,4/13/2021,Kumai,Cryptantha virgata (Porter) Payson,118,"",7807,47998,2213.338,1.0077,132.037,2/11/2021,9/14/2020
+174,0,4/25/2021,Wright,Leymus triticoides (Buckley) Pilg.,74,"",1206,4100,1948.619,3.8945,121.5626,11/19/2020,12/15/2020
+175,1,5/11/2021,Mijiang,Penstemon patens (M.E. Jones) N.H. Holmgren,20,"",3597,24015,206.272,2.5455,107.1,10/4/2020,8/22/2021
+176,0,12/2/2020,Jingzhu,Parmotrema crinitum (Ach.) M. Choisy,31,"",9813,34271,1368.903,1.0958,198.4544,11/6/2020,8/3/2021
+177,1,3/28/2021,Yuty,Iliamna Greene,17,"",385,97392,4454.643,1.41,138.9193,5/18/2021,12/5/2020
+178,2,6/12/2021,Sekartaji,Avicennia germinans (L.) L.,45,"",1665,51871,1200.246,1.8846,125.2309,10/31/2020,4/7/2021
+179,2,11/19/2020,Velykyy Klyuchiv,Townsendia texensis Larsen,110,"",5766,28354,4099.56,3.7674,126.0297,1/16/2021,2/6/2021
+180,1,1/6/2021,Oktyabr’sk,Hemigraphis alternata (Burm. f.) T. Anderson,123,"",7739,26303,831.861,0.5299,119.1225,10/1/2020,10/3/2020
+181,1,1/4/2021,Itaperuçu,Asplenium macraei Hook. & Grev.,88,"",6680,28044,2455.855,3.1599,108.7949,7/29/2021,5/5/2021
+182,4,1/14/2021,Prostřední Bečva,Ditrichum rhynchostegium Kindb.,135,"",2521,42876,1070.183,3.1095,190.0746,10/10/2020,1/14/2021
+183,4,8/19/2021,Gainesville,Aneilema R. Br.,68,"",8738,33511,2795.498,3.6754,153.3411,7/9/2021,9/26/2020
+184,4,7/10/2021,Lughaye,Calodendrum capense Thunb.,113,"",2659,66192,3410.148,2.4256,132.1559,4/1/2021,4/26/2021
+185,2,10/25/2020,Sadabe,Pseudolmedia spuria (Sw.) Griseb.,9,"",8893,34054,1233.699,4.1967,182.3132,5/18/2021,2/16/2021
+186,4,6/20/2021,Strängnäs,Caloplaca arenaria (Pers.) Müll. Arg.,123,"",9272,94812,674.317,4.3786,178.01,4/20/2021,3/22/2021
+187,3,4/24/2021,La Virgen,Caloplaca feracissima H. Magn.,124,"",8025,17910,2396.014,1.8725,137.4876,10/9/2020,7/31/2021
+188,1,12/17/2020,Huamali,Diellia unisora W.H. Wagner,4,"",4026,60597,707.67,4.8329,142.2098,2/22/2021,4/20/2021
+189,0,7/15/2021,Mê Linh,Physalis subulata Rydb. var. neomexicana (Rydb.) Waterf. ex Kartesz & Gandhi,29,"",4638,96237,660.181,2.4156,171.2631,6/18/2021,2/1/2021
+190,4,1/9/2021,Villa Florida,Carex nigromarginata Schwein.,109,"",4089,75347,1249.445,2.3603,174.6918,4/16/2021,7/8/2021
+191,2,4/22/2021,Krajan Satu,Eutrochium maculatum (L.) E.E. Lamont,42,"",228,57764,1159.326,1.465,121.7899,6/6/2021,4/18/2021
+192,2,1/3/2021,Kap Choeng,Melothria pendula L.,77,"",793,84246,3136.185,1.6965,102.5368,11/27/2020,9/18/2020
+193,0,6/27/2021,Arauco,Placynthium petersii (Nyl.) Burnham,1,"",2100,61930,4346.214,2.9027,116.9851,5/31/2021,2/24/2021
+194,3,4/5/2021,Gereneng,Blechum pyramidatum (Lam.) Urb.,99,"",1708,98201,940.403,1.7947,125.4801,7/29/2021,12/26/2020
+195,2,10/10/2020,Wenjiao,Cryptantha insolita (J.F. Macbr.) Payson,74,"",2974,64073,876.802,4.2464,144.3991,1/4/2021,12/2/2020
+196,0,2/21/2021,Pasiragung,Harrimanella hypnoides (L.) Coville,59,"",1206,97614,4144.282,3.5428,143.0145,4/19/2021,7/11/2021
+197,0,9/10/2021,Kawit,Artemisia arbuscula Nutt. ssp. thermopola Beetle,92,"",964,8737,4021.039,4.0087,188.4949,5/27/2021,6/6/2021
+198,0,9/10/2021,Gandu,Machaeranthera gracilis (Nutt.) Shinners,50,"",5740,26663,989.794,0.6805,119.9783,6/18/2021,5/7/2021
+199,2,4/28/2021,Baku,Stellaria L.,80,"",7784,36763,175.753,0.7435,106.545,12/31/2020,6/3/2021
+200,4,9/25/2020,Tcholliré,Xyris chapmanii Bridges & Orzell,144,"",1491,9660,331.075,4.5933,142.5114,9/6/2021,6/19/2021
+201,2,2/14/2021,Kaberamaido,Galium kamtschaticum Steller ex Schult. & Schult. f.,120,"",6976,17420,2178.778,2.872,196.027,11/27/2020,8/2/2021
+202,3,6/9/2021,Yanyang,Phoebanthus tenuifolius (Torr. & A. Gray) S.F. Blake,5,"",7625,10168,2433.889,0.2488,154.8655,5/18/2021,1/6/2021
+203,2,9/23/2020,Klichaw,Isoetes occidentalis L.F. Hend.,98,"",7844,16389,4397.486,4.755,187.017,7/23/2021,12/3/2020
+204,4,3/1/2021,Parabon,Graptophyllum pictum (L.) Griffith,33,"",9810,18581,1712.685,1.4819,163.9923,9/19/2020,7/21/2021
+205,3,12/31/2020,Simpang,Brassica oleracea L. var. italica Plenck,146,"",6681,92500,2255.455,2.0193,150.1844,4/4/2021,3/5/2021
+206,0,4/3/2021,Norrtälje,Eriastrum abramsii (Elmer) H. Mason,119,"",7172,63366,798.904,0.3584,101.6153,11/24/2020,10/14/2020
+207,2,12/23/2020,Kobuleti,Silene multinervia S. Watson,25,"",9312,16240,4718.3,1.8273,188.6058,7/20/2021,3/26/2021
+208,4,5/18/2021,Qianzhou,Diplacus aurantiacus (W. Curtis) Jeps. ssp. australis (McMinn) R.M. Beeks,92,"",2811,62511,2938.862,0.6546,170.6743,5/20/2021,12/23/2020
+209,0,10/9/2020,Arenas,Hesperaloe parviflora (Torr.) J.M. Coult.,135,"",6067,79060,2586.397,1.0962,164.4039,9/28/2020,10/13/2020
+210,1,11/23/2020,San Pablo,Crocidium Hook.,108,"",6640,63122,3170.542,4.2826,141.4375,3/26/2021,11/16/2020
+211,3,7/6/2021,Xiatang,Aesculus ×neglecta Lindl. (pro sp.),23,"",3402,52394,1509.322,1.94,129.948,2/10/2021,8/31/2021
+212,2,4/18/2021,Chandra,Endococcus Nyl.,47,"",890,64759,4280.575,2.4866,106.1131,10/9/2020,6/20/2021
+213,3,7/3/2021,Kuluran,Physaria dornii Lichvar,132,"",8922,65173,1801.442,1.0139,124.782,7/22/2021,5/11/2021
+214,0,12/29/2020,Binonga,Symphyotrichum spathulatum (Lindl.) G.L. Nesom var. spathulatum,62,"",511,49918,571.067,3.6314,112.3271,7/6/2021,2/1/2021
+215,0,5/27/2021,Tuusula,Chorizanthe biloba Goodman var. biloba,25,"",3283,88194,2518.836,3.6493,176.8042,6/16/2021,1/21/2021
+216,4,10/11/2020,Azenhas do Mar,Erigeron karvinskianus DC.,51,"",992,51486,3494.406,4.2603,134.5156,9/18/2020,9/10/2021
+217,4,5/11/2021,Tagiura,Littorella P.J. Bergius,68,"",5544,22113,1778.899,1.6375,175.5332,6/29/2021,2/8/2021
+218,4,1/19/2021,Shimabara,Malvaviscus Fabr.,93,"",4377,91249,1307.351,3.7365,194.4975,9/18/2020,1/27/2021
+219,1,11/29/2020,Thị Trấn Tà Lùng,Carex oronensis Fernald,113,"",8334,3480,1858.893,2.2756,159.9367,1/17/2021,10/1/2020
+220,4,6/6/2021,Loughrea,Leciophysma finmarkicum Th. Fr.,45,"",3040,2414,1138.423,1.3181,126.2335,5/20/2021,6/22/2021
+221,3,5/31/2021,Bil‘īn,Rosa spithamea S. Watson,36,"",7311,32389,2266.776,3.6965,174.5806,8/11/2021,8/21/2021
+222,0,11/23/2020,Podujeva,Castilla ulei Warb.,25,"",1132,4569,2205.567,0.0504,187.4579,1/20/2021,5/14/2021
+223,0,9/12/2021,Worcester,Xyris panacea L.C. Anderson & Kral,35,"",1891,96626,2573.52,3.6768,176.1274,5/8/2021,7/17/2021
+224,3,1/27/2021,Tingloy,Aesandra butyracea (Roxb.) Baehni,105,"",4034,73609,1081.885,4.3414,109.7525,8/8/2021,11/16/2020
+225,1,1/17/2021,Cukangpanjang,Smilax melastomifolia Sm.,118,"",6605,39499,1977.303,3.6071,176.3789,10/8/2020,7/17/2021
+226,3,5/27/2021,Cincinnati,Amsonia tabernaemontana Walter,59,"",3389,20751,784.326,1.452,199.2968,12/14/2020,4/20/2021
+227,3,9/17/2020,Nangong,Hymenoxys lemmonii (Greene) Cockerell,51,"",3649,33935,4729.59,4.6003,179.2993,4/9/2021,6/18/2021
+228,3,11/8/2020,Naagas,Eucalyptus rudis Endl.,142,"",1896,93144,720.575,0.8528,160.584,1/1/2021,6/29/2021
+229,1,5/20/2021,Meybod,Eragrostis prolifera (Sw.) Steud.,17,"",8262,6301,4458.563,0.914,107.4971,4/20/2021,8/9/2021
+230,4,1/30/2021,Jinzhou,Iris tenax Douglas ex Lindl.,39,"",4674,31412,793.055,0.8668,154.8002,8/29/2021,8/12/2021
+231,4,5/30/2021,Sartana,Erigeron glaucus Ker Gawl.,75,"",8014,47995,44.402,1.1716,187.2375,1/29/2021,12/22/2020
+232,4,3/13/2021,Caronoan West,Chasmanthium laxum (L.) Yates,89,"",6675,72228,4414.053,1.8653,199.9124,6/20/2021,3/14/2021
+233,0,3/17/2021,Chicago,Eubrachion ambiguum (Hook. & Arn.) Engl.,142,"",5094,24401,1056.78,4.117,107.7281,4/7/2021,9/26/2020
+234,0,8/10/2021,Chengbei,Dalea carnea (Michx.) Poir.,45,"",6176,45869,1380.613,3.9359,193.5631,5/27/2021,9/22/2020
+235,2,11/1/2020,Īlām,Andropogon leucostachyus Kunth,70,"",9877,80902,3172.055,0.6749,142.1308,1/8/2021,12/13/2020
+236,4,9/18/2020,Pará de Minas,Solidago missouriensis Nutt. var. tolmieana (A. Gray) Cronquist,7,"",1823,55479,4921.082,3.7823,171.0657,9/24/2020,8/30/2021
+237,3,3/10/2021,Richmond,Physalis cinerascens (Dunal) Hitchc. var. spathulifolia (Torr.) J.R. Sullivan,70,"",2863,60469,27.576,4.1177,125.2211,6/14/2021,10/16/2020
+238,2,11/10/2020,Kafr Miṣr,Mentzelia hirsutissima S. Watson,64,"",6561,62764,127.757,0.5388,172.6704,10/2/2020,9/3/2021
+239,1,3/3/2021,Saryaghash,Amsinckia vernicosa Hook. & Arn.,24,"",7697,26281,1854.594,0.9948,156.9206,3/5/2021,4/28/2021
+240,3,1/11/2021,Nantes,Trifolium monanthum A. Gray ssp. monanthum,146,"",987,99459,448.563,0.6906,176.4615,7/6/2021,10/28/2020
+241,3,1/23/2021,Sabana Grande de Boyá,Axonopus P. Beauv.,124,"",6216,4768,1276.957,0.6611,178.3482,1/2/2021,6/5/2021
+242,4,1/11/2021,Pasvalys,Astragalus lentiginosus Douglas ex Hook. var. salinus (Howell) Barneby,128,"",8111,62079,1127.192,3.9919,117.0272,12/3/2020,10/31/2020
+243,2,12/25/2020,Malilipot,Calamintha nepeta (L.) Savi ssp. nepeta,16,"",1248,24020,358.477,1.871,108.8077,12/6/2020,8/9/2021
+244,3,9/16/2020,Mzimba,Penstemon smallii A. Heller,84,"",4923,35062,3169.347,1.9941,107.2405,2/10/2021,12/13/2020
+245,0,1/11/2021,Čelinac,Pertusaria rhexostoma Nyl.,143,"",2990,20046,1191.694,4.1455,107.228,7/23/2021,8/20/2021
+246,2,3/28/2021,Lohayong,Digera muricata (L.) Mart.,30,"",7139,1712,1332.833,4.8847,150.2552,4/24/2021,7/4/2021
+247,1,10/30/2020,Kameda-honchō,Sphaeralcea rusbyi A. Gray ssp. gilensis Kearney,96,"",1074,69496,3538.633,3.6985,119.8988,8/29/2021,4/8/2021
+248,4,9/25/2020,Moravský Krumlov,Cnicus benedictus L.,69,"",5267,44793,895.147,3.9022,196.2944,5/12/2021,6/10/2021
+249,0,6/16/2021,Laon,Acarospora badiofusca (Nyl.) Th. Fr.,138,"",391,29311,2515.407,1.912,108.7169,2/10/2021,3/7/2021
+250,3,1/3/2021,Jelcz,Sidalcea malviflora (DC.) A. Gray ex Benth. ssp. laciniata C.L. Hitchc.,11,"",3990,19291,4019.088,0.2901,180.5299,6/2/2021,1/4/2021
+251,3,9/8/2021,Vista Hermosa,Streptanthus glandulosus Hook. ssp. secundus (Greene) Kruckeb. var. secundus,94,"",5672,42386,3779.199,2.1677,146.9731,3/6/2021,6/18/2021
+252,2,3/27/2021,Krajan Suko Kidul,Tridens Roem. & Schult.,10,"",3404,89984,759.543,2.5223,169.6095,6/28/2021,2/23/2021
+253,2,8/13/2021,Yegorlykskaya,Schoenocaulon A. Gray,30,"",7452,43701,2940.042,0.3169,102.4407,7/25/2021,2/18/2021
+254,3,12/13/2020,Rakhmanovo,Penstemon retrorsus Payson ex Pennell,128,"",6241,80889,3459.818,0.339,162.6261,5/15/2021,5/7/2021
+255,0,5/31/2021,Maripipi,Aster linosyris (L.) Bernh.,16,"",6955,16369,418.681,0.3449,120.7484,6/9/2021,10/18/2020
+256,4,8/25/2021,Grubišno Polje,Eustoma Salisb. ex G. Don,34,"",5457,7506,2061.573,3.3526,187.4073,7/27/2021,3/17/2021
+257,1,11/11/2020,Ježdovec,Rhynchosia cytisoides (Bertol.) Wilbur,117,"",624,36030,256.631,3.8916,199.3857,10/22/2020,5/7/2021
+258,2,11/7/2020,Liuhou,Thermopsis montana Nutt. var. hitchcockii (Isely) M. Mendenhall,96,"",3886,80790,1769.074,3.0971,114.1123,6/1/2021,9/26/2020
+259,0,6/16/2021,Muzambinho,Astranthium integrifolium (Michx.) Nutt. ssp. integrifolium,148,"",3956,42517,2785.253,2.4911,114.1783,4/18/2021,9/19/2020
+260,1,5/1/2021,Cogon,Muellerella lichenicola (Sommerf. ex Fr.) D. Hawksw.,31,"",2143,42399,1767.557,4.7527,104.1022,7/5/2021,3/13/2021
+261,4,9/16/2020,Tourcoing,Lysimachia hillebrandii Hook. f. ex A. Gray,142,"",5801,27197,1048.12,1.7095,144.3755,2/2/2021,1/22/2021
+262,3,12/8/2020,Severo-Zadonsk,Gomphillus americanus Essl.,42,"",4544,33150,398.529,3.9848,104.7092,5/2/2021,12/6/2020
+263,3,8/25/2021,Thị Trấn Tà Lùng,Cerastium alpinum L. ssp. alpinum,36,"",6650,7190,4797.45,2.8973,154.9846,6/16/2021,4/12/2021
+264,0,2/24/2021,Pingfeng,Phaeographis subfulgurata (Nyl.) Zahlbr.,78,"",4500,97054,2636.014,2.2669,138.8894,9/23/2020,8/8/2021
+265,2,2/6/2021,Tanjungbatu,Agave deserti Engelm.,39,"",8625,31747,1817.894,2.2655,135.7105,3/25/2021,10/16/2020
+266,4,4/24/2021,Al ‘Azīzīyah,Phlox variabilis Brand,105,"",1938,84401,4580.426,3.1077,183.0072,1/3/2021,10/3/2020
+267,3,4/28/2021,Uruobo-Okija,Chenopodium overi Aellen,140,"",7960,97354,726.312,4.7927,137.09,4/5/2021,7/23/2021
+268,4,5/31/2021,Xiaojian,Lomatogonium A. Braun,63,"",420,65912,3520.232,0.5298,144.0827,3/6/2021,8/15/2021
+269,1,9/10/2021,Mbala,Vezdaea Tsch.-Woess & Poelt,109,"",6260,14166,2754.95,1.2201,175.4262,12/25/2020,8/25/2021
+270,3,2/16/2021,Okhtyrka,Schizachyrium Nees,85,"",4089,35281,2445.749,2.7833,124.6783,3/18/2021,1/7/2021
+271,1,8/8/2021,Grimshaw,Abronia latifolia Eschsch.,12,"",9663,97302,581.363,3.3727,170.5393,4/28/2021,3/24/2021
+272,1,2/5/2021,Chifeng,Verrucaria phaeothelena Th. Fr.,96,"",2552,95299,720.502,3.455,194.8353,6/9/2021,11/21/2020
+273,2,1/21/2021,Catujal Velho,Goetzea elegans Wydler,86,"",8452,25321,121.458,0.3834,121.7728,11/13/2020,9/27/2020
+274,1,4/30/2021,Studená,Viola sororia Willd.,24,"",7088,40673,2945.851,0.8989,107.0331,3/31/2021,2/2/2021
+275,1,10/13/2020,Achada,Rhexophyllum subnigrum (Mitt.) Thér. ex Hilp.,135,"",2642,22167,3850.986,1.3503,131.9543,3/21/2021,9/14/2020
+276,4,4/23/2021,Campina Grande,Pulicaria arabica (L.) Cass.,91,"",3069,4203,3203.421,2.478,187.9361,1/5/2021,11/30/2020
+277,2,9/13/2020,Mokil,Bouteloua Lag.,5,"",267,57466,3703.236,4.7335,148.6408,6/27/2021,7/26/2021
+278,2,11/20/2020,Kuala Lumpur,Stanleya tomentosa Parry var. tomentosa,96,"",2262,88581,615.948,0.0531,108.2777,4/28/2021,9/11/2021
+279,1,4/12/2021,Peso da Régua,Hypericum mitchellianum Rydb.,56,"",2893,77142,3716.53,1.08,152.254,11/12/2020,8/9/2021
+280,2,4/8/2021,Baixo Guandu,Astragalus vexilliflexus Sheldon,54,"",2028,48824,4510.753,2.0286,181.6732,11/12/2020,2/7/2021
+281,0,7/16/2021,Barda,Tauschia tenuissima (Geyer ex Hook.) Mathias & Constance,35,"",2384,38015,4166.392,0.464,191.3617,7/20/2021,5/21/2021
+282,2,1/12/2021,Dongyuan,Berberis thunbergii DC.,92,"",865,17160,3328.306,4.8123,194.0647,7/22/2021,2/17/2021
+283,1,1/27/2021,Lolotique,Glyceria canadensis (Michx.) Trin.,32,"",3940,55754,1108.11,0.2818,118.9528,11/2/2020,8/28/2021
+284,0,2/13/2021,Cankuzo,Pinus contorta Douglas ex Loudon var. contorta,36,"",9262,56708,1023.232,0.1054,130.5622,3/23/2021,9/25/2020
+285,3,2/23/2021,Kabacan,Crataegus dodgei Ashe,33,"",1435,75686,1565.442,2.9747,108.6105,11/10/2020,8/20/2021
+286,1,11/14/2020,Semiluki,Verbena ×moechina Moldenke,11,"",8405,44909,2418.04,0.1543,108.1134,4/6/2021,3/3/2021
+287,4,2/6/2021,Ropcha,Achnatherum hymenoides (Roem. & Schult.) Barkworth,113,"",4076,87819,3666.89,3.6636,190.9078,9/9/2021,5/12/2021
+288,3,1/29/2021,Macau,Orthotrichum anomalum Hedw.,50,"",6399,52588,761.61,1.8851,147.9801,8/29/2021,1/19/2021
+289,1,2/15/2021,Moog,Andreaea rothii F. Weber & D. Mohr var. rothii,124,"",5860,80277,4876.174,1.2813,120.5916,2/17/2021,8/10/2021
+290,1,1/28/2021,Xiangshan,Thelypteris linkiana (C. Presl) R. Tryon,62,"",6395,5392,2206.5,0.8326,188.4798,6/22/2021,4/7/2021
+291,2,6/12/2021,Qādirpur Rān,Rhynchospora indianolensis Small,42,"",6146,88699,435.873,0.9753,150.1327,11/7/2020,8/8/2021
+292,3,11/2/2020,Libas,Quercus myrtifolia Willd.,25,"",430,34747,1241.904,2.3011,145.2547,5/17/2021,10/27/2020
+293,2,12/22/2020,Citeureup,Ptelea trifoliata L. ssp. polyadenia (Greene) V. Bailey,110,"",8787,86803,2935.1,0.0579,117.0921,9/14/2020,1/29/2021
+294,4,3/14/2021,Usulután,Collomia renacta E. Joyal,111,"",1509,40099,688.747,1.7079,160.7411,1/21/2021,10/17/2020
+295,3,7/8/2021,Rubizhne,Senecio cannabinifolius Hook. & Arn.,80,"",4381,34912,4253.049,2.5976,121.1148,12/30/2020,12/22/2020
+296,0,7/2/2021,Xinjiezhen,Arundinaria Michx.,10,"",3758,98095,4256.326,2.6602,148.6097,10/4/2020,1/28/2021
+297,1,8/24/2021,Baicun,Dicerandra christmanii R.B. Huck & W.S. Judd,121,"",5734,78805,511.145,1.7169,171.9334,12/29/2020,3/5/2021
+298,0,3/4/2021,Conde,Tectaria cicutaria (L.) Copeland,47,"",4535,36397,4429.523,4.2528,140.1607,11/19/2020,7/6/2021
+299,2,2/24/2021,Laiyuan,Neckera complanata (Hedw.) Hüb.,104,"",1074,41550,1983.854,1.41,169.3702,3/13/2021,1/4/2021
+300,3,10/8/2020,Tarariras,Tradescantia occidentalis (Britton) Smyth var. scopulorum (Rose) E.S. Anderson & Woodson,101,"",8940,71430,3548.01,1.1883,186.3015,12/31/2020,2/6/2021
+301,4,5/3/2021,São Leopoldo,Pyrrocoma racemosa (Nutt.) Torr. & A. Gray var. paniculata (Nutt.) Kartesz & Gandhi,78,"",7838,25329,86.422,0.4898,127.3886,11/29/2020,3/7/2021
+302,0,12/4/2020,Entebbe,Anomobryum leptostomoides Schimp.,27,"",3267,8357,1517.73,1.9046,111.4274,11/1/2020,7/30/2021
+303,3,5/10/2021,Kukurečani,Silene drummondii Hook. var. striata (Rydb.) Bocquet,115,"",6149,35951,4408.07,4.5372,117.291,10/13/2020,3/19/2021
+304,2,2/14/2021,Oof,Erythronium citrinum S. Watson var. roderickii Shevock & Allen,58,"",9680,31413,566.426,1.4543,144.6904,8/12/2021,2/16/2021
+305,3,8/14/2021,Langchuan,Machaerina mariscoides (Gaudich.) J. Kern ssp. meyenii (Kunth) T. Koyama,116,"",6655,37987,2080.798,4.7829,163.7524,7/26/2021,7/4/2021
+306,0,10/7/2020,Metz,Calophyllum antillanum Britton,137,"",9961,41739,1980.625,4.5392,152.4119,7/30/2021,5/7/2021
+307,4,3/27/2021,Yancheng,Vauquelinia Corrêa ex Bonpl.,55,"",9240,1981,1055.409,1.1076,183.5599,4/10/2021,10/12/2020
+308,0,7/24/2021,Raszków,Psidium friedrichsthalianum (O. Berg) Nied.,6,"",1736,28249,3270.019,3.5777,137.6417,10/28/2020,4/3/2021
+309,0,8/29/2021,Yantian,Hulsea algida A. Gray,47,"",2485,30071,4694.087,0.1008,140.0816,10/24/2020,3/10/2021
+310,2,4/5/2021,Qianjin,Koeberlinia Zucc.,68,"",9776,46089,1561.052,2.3745,138.7033,7/26/2021,4/22/2021
+311,1,7/15/2021,Inawashiro,Racopilum tomentosum (Hedw.) Brid.,21,"",5517,51294,2294.532,0.0595,147.1578,5/25/2021,6/7/2021
+312,1,7/3/2021,Dahua,"Gagea fistulosa (Ramond ex DC.) Ker Gawl., nom. illeg.",20,"",9709,20661,917.178,0.4019,105.7122,7/30/2021,8/31/2021
+313,0,5/29/2021,Ol’ginskaya,Chamaesyce ×keyensis Small,58,"",8976,41163,3659.317,1.5132,173.4756,11/8/2020,5/28/2021
+314,2,3/6/2021,Sobral,Juncus gerardii Loisel. var. pedicellatus Fernald,124,"",6737,21219,2852.581,1.5309,178.109,12/21/2020,11/11/2020
+315,2,1/27/2021,Viljakkala,Schizostachyum glaucifolium (Rupr.) Munro,134,"",9445,33022,4151.926,2.2998,147.7457,7/25/2021,8/14/2021
+316,4,3/25/2021,Llazicë,Potamogeton oakesianus J.W. Robbins,95,"",8660,68799,4531.662,2.7814,161.8153,8/18/2021,3/23/2021
+317,2,3/12/2021,Valencia,Ptychosperma macarthuri (H. Wendl. ex hort.) G. Nicholson,21,"",457,48053,746.227,4.3838,158.8189,7/26/2021,5/17/2021
+318,3,8/3/2021,Araripina,Caloplaca epithallina Lynge,79,"",7364,67565,3202.0,3.784,199.2874,3/12/2021,7/2/2021
+319,1,5/1/2021,El Cairo,Arabis shortii (Fernald) Gleason,45,"",7682,81422,2967.255,0.2146,120.6063,6/21/2021,11/25/2020
+320,4,12/20/2020,Mandalasari,Agave americana L. ssp. americana var. americana,44,"",3518,7119,3868.051,1.402,144.1782,6/12/2021,4/16/2021
+321,1,4/18/2021,Vostochnyy,Erigeron flagellaris A. Gray,149,"",9799,46002,305.956,1.7809,101.1012,11/9/2020,9/19/2020
+322,1,2/3/2021,Bojonglarang,Amphilophium Kunth,99,"",1841,58201,4954.316,3.8305,194.0409,1/23/2021,11/24/2020
+323,2,7/17/2021,Słubice,Chenopodium foliosum (Moench) Asch.,2,"",8606,63350,3157.373,0.6164,145.0408,6/3/2021,2/20/2021
+324,3,9/24/2020,Leones,Carex subbracteata Mack.,117,"",8423,28467,2979.369,4.297,113.5866,12/14/2020,1/28/2021
+325,0,2/1/2021,Banjeru,Polygonum cespitosum Blume var. longisetum (Bruijn) A.N. Steward,13,"",2042,90198,3916.945,0.0047,121.2361,2/10/2021,9/11/2021
+326,1,6/19/2021,La Dicha,Taenidia (Torr. & A. Gray) Drude,43,"",1796,93484,1522.483,2.221,166.4887,10/23/2020,3/18/2021
+327,0,11/4/2020,Marseille,Elodea nuttallii (Planch.) H. St. John,99,"",9260,98944,2796.232,1.7429,193.8058,12/14/2020,6/20/2021
+328,3,12/14/2020,Alagoinhas,Eriophorum altaicum Meinsh.,126,"",6054,81250,2440.474,1.0174,139.1371,11/7/2020,9/16/2020
+329,0,11/19/2020,Hexi,Cardamine parviflora L. var. arenicola (Britton) O.E. Schulz,143,"",711,34845,358.754,3.9092,163.2961,1/25/2021,5/21/2021
+330,3,3/19/2021,Dvinskoy,Verbena pinetorum Moldenke,124,"",3753,99303,795.879,3.4714,132.5533,4/15/2021,9/5/2021
+331,1,10/8/2020,Punat,Glandularia J.F. Gmel.,116,"",7977,29980,4547.306,1.0327,151.8308,3/1/2021,6/28/2021
+332,2,11/16/2020,Liberta,Pentadesma butyracea Sabine,26,"",4831,86249,4096.314,2.4321,173.1805,9/12/2021,3/10/2021
+333,4,3/15/2021,Huangshi,Astragalus bourgovii A. Gray,128,"",2429,83953,2594.481,3.0805,154.8801,12/14/2020,6/6/2021
+334,0,12/24/2020,El Gouna,Belonia Körb. ex Nyl.,57,"",5659,81018,1230.564,1.2351,169.3211,1/18/2021,6/10/2021
+335,3,1/22/2021,Kuchinarai,Epilobium glaberrimum Barbey,141,"",217,13204,1666.292,1.2689,199.2312,10/7/2020,9/14/2020
+336,0,4/6/2021,Cachón,Landolphia owariensis P. Beauv.,86,"",3965,13870,3497.039,2.5608,134.7661,10/20/2020,10/2/2020
+337,3,12/26/2020,San Buenaventura,Caulerpa J.V.F. Lamouroux,39,"",2647,85044,247.659,3.6383,163.0556,12/24/2020,11/28/2020
+338,1,1/24/2021,Avignon,Pyrenula confoederata R.C. Harris,46,"",5999,29659,3763.29,1.9441,105.9698,1/20/2021,4/10/2021
+339,1,7/29/2021,Turkestan,Bartonia paniculata (Michx.) Muhl. ssp. paniculata,43,"",1093,34816,3175.426,2.6411,171.1791,4/27/2021,11/25/2020
+340,3,7/31/2021,Cuauhtemoc,Desmodium pauciflorum (Nutt.) DC.,0,"",827,25494,4207.98,1.4934,165.1966,2/16/2021,7/20/2021
+341,4,11/1/2020,Shuishi,Coreopsis douglasii (DC.) H.M. Hall,103,"",6014,68126,2340.294,0.9807,129.2967,11/15/2020,7/18/2021
+342,2,1/10/2021,Khujirt,Barleria opaca (Vahl) Nees,16,"",9654,17840,4128.418,1.7611,141.8636,4/4/2021,1/27/2021
+343,0,5/8/2021,Jocotán,Peltigera horizontalis (Huds.) Baumg.,71,"",5370,14989,112.307,0.6264,184.9011,6/7/2021,5/20/2021
+344,0,8/10/2021,Nangtang,Achnatherum coronatum (Thurb.) Barkworth,13,"",7941,16614,19.983,1.2874,114.9457,9/5/2021,1/9/2021
+345,1,2/15/2021,Aripuanã,Gomidesia lindeniana Berg,128,"",5090,45144,1782.785,4.0024,199.8041,10/5/2020,8/1/2021
+346,1,3/2/2021,Huaqiao,Asperula orientalis Boiss. & Hohen.,84,"",6957,1400,1638.927,0.3692,168.1363,4/23/2021,10/10/2020
+347,2,5/3/2021,Höfn,Monardella follettii (Jeps.) Jokerst,101,"",9491,95876,4481.945,3.8655,106.408,11/1/2020,8/31/2021
+348,1,5/20/2021,Berlin,Layia munzii D.D. Keck,88,"",975,88995,1504.326,0.6156,198.176,9/2/2021,11/26/2020
+349,0,2/1/2021,Majiao,Leptogium cyanescens (Rabenh.) Körb.,104,"",8194,90512,4568.83,4.1591,178.895,12/9/2020,1/26/2021
+350,2,6/6/2021,Străşeni,Cetrelia monachorum (Zahlbr.) W.L. Culb. & C.F. Culb.,140,"",8209,72374,3732.176,1.2031,161.2914,2/5/2021,9/2/2021
+351,3,4/11/2021,Akarakar,Juncus filiformis L.,131,"",2147,32600,2497.883,0.4709,120.5204,6/19/2021,7/18/2021
+352,0,1/12/2021,Ukmerge,Cosmos Cav.,32,"",6727,23275,3955.532,2.4279,135.4381,8/15/2021,3/19/2021
+353,3,6/2/2021,Hezhi,Casasia A. Rich.,23,"",342,4012,1516.205,0.4278,108.3838,2/8/2021,4/26/2021
+354,1,7/20/2021,Yidu,Rhytidiopsis Broth.,68,"",4352,98116,3044.241,4.6954,118.3406,2/20/2021,4/14/2021
+355,2,7/18/2021,Long Beluah,Carex albicans Willd. ex Spreng. var. albicans,131,"",1886,88197,1137.957,4.9935,107.4243,5/19/2021,8/28/2021
+356,1,4/22/2021,Karangbungur,Scabiosa ochroleuca L.,136,"",9238,2901,4707.742,1.476,169.9062,7/8/2021,12/9/2020
+357,1,11/7/2020,Nuevo Emperador,Xolantha guttata (L.) Raf.,12,"",8836,43253,1724.985,2.28,127.2819,12/21/2020,4/19/2021
+358,0,12/9/2020,Gobernador Ingeniero Valentín Virasoro,Dichanthelium acuminatum (Sw.) Gould & C.A. Clark var. thermale (Bol.) Freckmann,150,"",9026,4788,178.999,4.622,113.3712,3/12/2021,9/25/2020
+359,1,12/2/2020,Dayang,Epidendrum amphistomum A. Rich.,118,"",5715,23669,939.031,2.4036,153.2573,11/9/2020,3/23/2021
+360,0,10/26/2020,Floriana,Hernandia L.,117,"",8648,40862,4153.823,0.8181,150.5796,6/24/2021,6/9/2021
+361,4,12/11/2020,Pasarnangka,Agalinis caddoensis Pennell,4,"",6723,89442,2071.852,1.925,177.7164,5/3/2021,8/19/2021
+362,4,1/15/2021,Psygansu,Adenium Roem. & Schult.,101,"",5048,27061,3022.945,4.0083,164.1496,9/2/2021,3/30/2021
+363,3,6/28/2021,Czarna Białostocka,Nerisyrenia Greene,82,"",2663,22932,372.779,0.0319,175.2919,11/3/2020,6/20/2021
+364,0,12/9/2020,Nýdek,Schiedea membranacea H. St. John,56,"",6104,14680,1201.967,1.8963,146.7577,4/11/2021,12/21/2020
+365,4,1/25/2021,Bima,Solanum bulbocastanum Dunal,58,"",7868,55845,3042.066,2.982,106.8411,1/31/2021,8/25/2021
+366,2,11/23/2020,Labao,Myurella Schimp.,51,"",7401,42201,4607.863,4.5233,153.8892,9/18/2020,8/1/2021
+367,3,6/10/2021,Xylókastro,Larix sibirica Ledeb.,61,"",296,64103,1838.416,3.547,150.4145,5/31/2021,1/8/2021
+368,3,5/29/2021,Lidingö,Lecanora texana W.A. Weber,64,"",9830,18142,54.501,3.35,165.1094,8/15/2021,2/22/2021
+369,1,1/14/2021,Ḏânan,Bouvardia Salisb.,139,"",3316,13703,244.227,3.6771,132.1476,6/15/2021,6/29/2021
+370,1,1/2/2021,Hetou,Bulbostylis juncoides (Vahl) Kük.,128,"",2231,77631,3987.824,4.8042,172.1423,2/23/2021,8/22/2021
+371,3,12/19/2020,Solna,Boesenbergia rotunda (L.) Mansf.,2,"",7437,5431,4435.943,1.0629,134.3755,11/29/2020,2/13/2021
+372,1,6/12/2021,Colquechaca,Heteranthera limosa (Sw.) Willd.,30,"",5126,11525,822.849,2.3739,183.7468,3/28/2021,12/4/2020
+373,1,5/6/2021,Limoges,Ruellia metziae Tharp,117,"",7137,41947,3985.421,1.5402,167.0955,2/23/2021,1/7/2021
+374,0,8/1/2021,Mtsensk,Subularia L.,63,"",2895,48719,1325.631,0.1657,162.4555,10/23/2020,3/20/2021
+375,1,9/18/2020,Jinshi,Plantago pusilla Nutt.,138,"",8846,44100,3566.056,0.7272,135.7695,6/14/2021,4/18/2021
+376,1,1/11/2021,Dahe,Heuchera rubescens Torr. var. alpicola Jeps.,86,"",5122,15699,4559.256,3.95,182.7203,3/1/2021,3/29/2021
+377,2,7/25/2021,Biaokou,Glinus radiatus (Ruiz & Pav.) Rohrb.,113,"",6253,40940,1380.257,1.3901,136.235,3/9/2021,6/6/2021
+378,4,8/3/2021,Gardēz,Carex scabriuscula Mack.,37,"",9086,8225,416.98,1.6882,150.5903,10/27/2020,8/12/2021
+379,0,6/20/2021,Enhe Hada,Danaea Sm.,70,"",8692,85078,4359.315,3.792,134.6612,10/8/2020,8/11/2021
+380,1,9/17/2020,Rancaerang,Salacca edulis Reinw.,136,"",5086,36881,3015.482,4.7874,145.6678,10/26/2020,11/29/2020
+381,3,12/14/2020,Igbaras,Chrysothamnus eremobius L.C. Anderson,10,"",4460,39326,2259.503,0.19,196.3151,12/18/2020,12/24/2020
+382,0,3/24/2021,Biny Selo,Asclepias sperryi Woodson,78,"",9964,11615,1151.884,4.9329,161.4622,5/16/2021,11/25/2020
+383,0,2/27/2021,Oslo,Teesdalia nudicaulis (L.) W.T. Aiton,88,"",6245,31640,407.285,3.3452,174.1998,6/25/2021,8/24/2021
+384,1,11/12/2020,Wilmington,Brachystigma wrightii (A. Gray) Pennell,100,"",1683,80695,488.19,4.477,177.191,5/9/2021,12/14/2020
+385,0,3/30/2021,Attard,Eriogonum viscidulum J.T. Howell,64,"",8736,59436,2326.868,0.1986,182.4929,1/7/2021,4/27/2021
+386,2,3/10/2021,Khodasy,Ochrolechia androgyna (Hoffm.) Arnold,76,"",1764,79899,4608.595,3.4862,186.5464,1/2/2021,3/17/2021
+387,1,12/21/2020,Norrköping,Carex leptalea Wahlenb.,57,"",1928,60442,2200.699,1.4498,147.1466,2/8/2021,10/16/2020
+388,3,4/13/2021,Tsaghkaber,Carphochaete bigelovii A. Gray,40,"",2929,21063,4683.961,3.4284,114.7668,11/13/2020,5/23/2021
+389,0,2/11/2021,Moussoro,Stellaria ruscifolia Pall. ex Schltdl. ssp. ruscifolia,120,"",1757,13318,4369.651,0.6882,128.548,11/13/2020,4/11/2021
+390,3,7/31/2021,Bantian,Hypericum lissophloeus P. Adams,10,"",3547,93771,2652.863,0.2739,175.9837,1/12/2021,12/8/2020
+391,3,11/25/2020,Kostarea Satu,Viguiera dentata (Cav.) Spreng. var. lancifolia S.F. Blake,137,"",9202,10290,4153.654,2.793,108.5817,12/8/2020,3/16/2021
+392,3,12/1/2020,Przyborów,Ipomopsis aggregata (Pursh) V.E. Grant ssp. bridgesii (A. Gray) V.E. Grant & A.D. Grant,44,"",7057,20770,4415.948,3.6965,147.9977,2/1/2021,7/14/2021
+393,3,5/12/2021,Besukrejo,Aspicilia desertorum (Krempelh.) Mereschk.,50,"",5333,74736,4271.436,4.9869,105.3657,8/26/2021,7/17/2021
+394,1,10/11/2020,Enshi,Rumex crispus L. ssp. fauriei (Rech. f.) Mosyakin & W.L. Wagner,20,"",9490,6759,2137.211,2.485,160.2785,6/20/2021,5/28/2021
+395,1,6/6/2021,Muke,Eriogonum roseum Durand & Hilg.,74,"",9249,21631,3214.282,2.7625,147.3526,3/5/2021,9/18/2020
+396,2,12/21/2020,Loum,Vulpia microstachys (Nutt.) Munro var. pauciflora (Scribn. ex Beal) Lonard & Gould,58,"",780,23388,3968.546,3.5111,122.4542,10/21/2020,7/31/2021
+397,3,1/25/2021,Kolbuszowa,Eriogonum zionis J.T. Howell var. coccineum J.T. Howell,43,"",8850,78622,3363.931,4.3817,133.3643,12/11/2020,11/3/2020
+398,1,4/17/2021,Ar Rumaythīyah,Crinum bulbispermum (Burm. f.) Milne-Redhead & Schweickerdt,58,"",2972,10714,1976.021,1.7274,188.1965,4/28/2021,11/10/2020
+399,1,12/19/2020,Mainque,Viola pedata L.,106,"",6987,14488,754.124,0.5801,136.0236,6/27/2021,10/4/2020
+400,2,12/21/2020,Vangaži,Lemna minuta Kunth,94,"",8077,3266,4896.093,3.8542,158.57,3/27/2021,6/13/2021
+401,0,9/23/2020,Áno Liósia,Lomagramma guianensis (Aubl.) Ching,8,"",6266,69751,303.506,4.1622,144.638,8/12/2021,8/13/2021
+402,3,10/28/2020,Debrecen,Kniphofia uvaria (L.) Oken,113,"",3032,69364,3517.202,2.2193,133.7183,5/28/2021,2/20/2021
+403,0,8/21/2021,Weetobula,Nemacaulis denudata Nutt.,148,"",9558,22333,590.41,3.1278,187.089,5/29/2021,11/28/2020
+404,0,8/20/2021,Quinta dos Frades,Phlox variabilis Brand,71,"",6441,80732,1466.03,3.333,107.4452,5/27/2021,11/24/2020
+405,0,6/8/2021,Fengchan,Nashia inaguensis Millsp.,42,"",6294,32647,661.753,0.009,139.4377,10/28/2020,1/31/2021
+406,3,6/29/2021,Longshan,Polygala grandiflora Walter var. angustifolia Torr. & A. Gray,61,"",179,26135,698.954,4.2337,195.4829,12/11/2020,1/6/2021
+407,3,10/27/2020,Tānk,Poa paludigena Fernald & Wiegand,18,"",626,31125,4712.014,4.1549,139.7431,11/21/2020,6/7/2021
+408,4,7/28/2021,Tiabaya,Peltigera lepidophora (Vain.) Bitter,34,"",1028,31847,112.256,4.3553,120.5024,6/4/2021,1/28/2021
+409,2,2/26/2021,Jaboticabal,Swallenia Söderst. & Decker,33,"",9593,18519,1210.427,0.5523,193.1531,4/6/2021,7/27/2021
+410,2,3/28/2021,Mojkovac,Erigeron piperianus Cronquist,141,"",5049,61483,3109.792,0.9518,164.8791,1/3/2021,2/26/2021
+411,4,9/25/2020,Jarash,Sisyrinchium septentrionale E.P. Bicknell,12,"",9266,81539,436.231,3.8764,131.3342,2/22/2021,7/12/2021
+412,1,10/15/2020,Vancouver,Siphonoglossa Oerst.,118,"",3215,96216,3517.384,2.6048,198.6567,9/6/2021,7/18/2021
+413,0,9/27/2020,Ryōtsu-minato,Astragalus pectinatus (Douglas ex Hook.) Douglas ex G. Don,9,"",5336,44330,4682.921,1.1646,166.2271,11/15/2020,1/18/2021
+414,3,2/9/2021,Karasgede,Symphyotrichum lateriflorum (L.) Á. Löve & D. Löve,33,"",6771,52103,3527.24,3.4867,137.5057,7/27/2021,8/13/2021
+415,1,4/4/2021,‘Anātā,Cyrtandra ×cupuliformis H. St. John & Storey (pro sp.),2,"",5882,59790,3688.16,2.7172,122.1333,10/22/2020,5/14/2021
+416,4,10/2/2020,Tiznit,Centaurea virgata Lam.,94,"",3275,36411,1728.26,3.4402,185.1295,6/18/2021,2/14/2021
+417,1,1/18/2021,Juyuan,Ipomoea cordatotriloba Dennst.,149,"",6963,89047,2734.644,2.8752,103.5455,5/7/2021,3/10/2021
+418,1,5/26/2021,Coaticook,Dysphania pumilio (R. Br.) Mosyakin & Clemants,109,"",7028,47263,261.539,1.1884,193.9333,7/4/2021,11/5/2020
+419,4,4/27/2021,Pécs,Downingia pusilla (G. Don) Torr.,114,"",8672,87388,2515.568,0.0874,198.3726,3/14/2021,8/31/2021
+420,1,2/3/2021,Huquan,Cryptantha sericea (A. Gray) Payson,83,"",6123,52905,1408.996,0.497,188.0473,4/19/2021,2/14/2021
+421,2,9/8/2021,Nepeña,Acacia caven (Molina) Molina,42,"",7504,11326,4830.934,0.3266,133.9696,9/2/2021,10/15/2020
+422,2,5/7/2021,Jinli,Wikstroemia oahuensis (A. Gray) Rock var. palustris (Hochr.) Peterson,73,"",9135,10774,3249.246,2.1949,156.4529,5/17/2021,7/8/2021
+423,2,2/24/2021,Gereneng,Wolffiella lingulata (Hegelm.) Hegelm.,69,"",5449,54548,3058.207,0.7715,141.1356,2/23/2021,12/19/2020
+424,3,5/31/2021,Vathýlakkos,Platanthera peramoena (A. Gray) A. Gray,144,"",4477,67776,3648.848,1.3968,177.5979,7/24/2021,2/17/2021
+425,4,12/14/2020,Francisco I Madero,Salvia regla Cav.,0,"",6631,9977,1107.499,1.0186,186.4412,11/8/2020,7/11/2021
+426,1,7/25/2021,Vladimir,Muhlenbergia fragilis Swallen,20,"",8232,65971,863.049,2.8498,198.0201,8/3/2021,10/9/2020
+427,2,8/20/2021,Nakatsu,Valeriana pauciflora Michx.,144,"",8871,5716,3699.413,4.9557,163.6379,2/26/2021,10/5/2020
+428,0,5/9/2021,Grijó,Thelypodium tenue Rollins,99,"",9939,20882,3268.08,2.7218,198.6117,9/20/2020,5/26/2021
+429,3,5/18/2021,Yaroslavl,Scutellaria ovata Hill ssp. venosa Epling,93,"",248,90128,642.624,3.4606,145.4284,1/7/2021,3/19/2021
+430,1,4/17/2021,Klyuchi,Arracacia xanthorrhiza E.N. Bancroft,135,"",8073,54700,994.043,3.4398,157.6841,10/13/2020,3/4/2021
+431,2,12/18/2020,Minas de Oro,Symphyotrichum campestre (Nutt.) G.L. Nesom var. campestre,5,"",120,81706,707.374,1.4673,191.1264,5/10/2021,2/16/2021
+432,2,1/28/2021,Ufimskiy,Crotalaria virgulata Klotzsch,12,"",9926,33417,3018.467,1.9518,184.859,8/25/2021,3/13/2021
+433,1,5/16/2021,Oslo,Ilex crenata Thunb.,2,"",8512,33857,3870.041,1.8559,180.8034,11/19/2020,5/3/2021
+434,0,4/16/2021,Tiandu,Sphinctospermum Rose,120,"",5931,13103,2018.128,2.006,137.1323,10/4/2020,4/7/2021
+435,2,2/25/2021,Mengdong,Penstemon davidsonii Greene var. davidsonii,48,"",911,65604,340.404,1.4086,150.4289,2/16/2021,4/10/2021
+436,2,6/29/2021,Florida,Oncostema Raf.,109,"",3380,1213,3854.351,2.2471,163.8518,6/20/2021,5/28/2021
+437,2,10/24/2020,Ami,Pistacia atlantica Desf.,130,"",8327,57791,4464.716,1.5989,139.9798,8/31/2021,8/31/2021
+438,2,12/3/2020,Iraray,Astragalus mollissimus Torr. var. earlei (Greene ex Rydb.) Tidestr.,67,"",2773,1882,4909.083,4.5944,155.6322,2/18/2021,12/8/2020
+439,1,7/13/2021,Yongfeng,Ceratodon purpureus (Hedw.) Brid.,26,"",6496,54145,3175.486,2.5557,107.6584,1/30/2021,8/25/2021
+440,0,1/14/2021,Confey,Lecidea ecrustacea (Anzi ex Arnold) Arnold,94,"",608,82529,3844.743,3.5371,182.5145,3/14/2021,5/7/2021
+441,1,11/25/2020,Cikarang,Oreoxis Raf.,1,"",4768,77630,3345.898,1.4392,157.5642,9/30/2020,11/19/2020
+442,0,11/1/2020,Muli,Montia diffusa (Nutt.) Greene,59,"",2836,19250,2222.824,3.9964,142.3974,11/24/2020,8/24/2021
+443,2,3/29/2021,Qixing,Melicope volcanica (A. Gray) T.G. Hartley & B.C. Stone,102,"",1907,98408,802.497,2.4992,115.8248,1/30/2021,11/9/2020
+444,2,6/1/2021,Qitai,Allocasuarina nana (Sieber ex Spreng.) L.A.S. Johnson,84,"",7533,70558,1207.653,1.1323,143.1235,2/27/2021,7/20/2021
+445,1,11/9/2020,Khuean Ubonrat,Liquidambar orientalis Mill.,36,"",2878,90044,3862.08,2.4036,168.2322,11/6/2020,3/1/2021
+446,3,5/30/2021,Karavan,Amblyodon dealbatus (Hedw.) Bruch & Schimp.,104,"",9714,70969,2944.46,0.0489,140.0251,2/21/2021,10/31/2020
+447,0,3/14/2021,Västra Frölunda,Plantago macrocarpa Cham. & Schltdl.,121,"",6034,41094,1124.972,2.0395,159.3321,2/5/2021,7/5/2021
+448,0,12/11/2020,Ngrejo,Micranthemum Michx.,127,"",281,19932,4587.066,2.7266,187.2238,5/8/2021,7/5/2021
+449,1,5/12/2021,Soukkouma,Bupleurum odontites L.,117,"",5581,81804,407.23,4.8618,126.5375,3/3/2021,9/19/2020
+450,1,11/7/2020,Kuleqi,Lindernia dubia (L.) Pennell var. anagallidea (Michx.) Cooperr.,5,"",8522,93501,1367.34,3.1699,181.8894,11/6/2020,2/9/2021
+451,4,8/16/2021,Bangelan,Hoheria populnea A. Cunn.,96,"",3357,92126,3922.766,3.5311,179.8426,2/25/2021,8/21/2021
+452,4,4/18/2021,El Hajeb,Brodiaea Sm.,99,"",3745,99846,4463.426,3.2774,105.2171,7/8/2021,8/15/2021
+453,1,11/24/2020,Ampanihy,Ranunculus auricomus L.,95,"",1539,96478,2980.56,2.2316,157.9281,5/7/2021,1/12/2021
+454,4,8/4/2021,Ugbokpo,Medicago truncatula Gaertn.,135,"",4038,85504,440.297,2.8375,186.9509,1/12/2021,12/19/2020
+455,3,12/20/2020,Isidro Fabela,Sansevieria trifasciata hort. ex Prain,144,"",5593,48118,4289.28,4.9798,178.2245,12/2/2020,10/11/2020
+456,1,2/10/2021,Seixezelo,Sidalcea malviflora (DC.) A. Gray ex Benth. ssp. laciniata C.L. Hitchc. var. laciniata,118,"",2645,32636,4140.235,1.1531,152.8552,1/23/2021,3/3/2021
+457,2,10/12/2020,Buenavista,Rhynchosia totta (Thunb.) DC.,47,"",2494,50674,3293.361,2.188,171.4883,3/20/2021,8/30/2021
+458,0,10/14/2020,Kuzhu,Stevia ovata Willd. var. ovata Willd. [excluded],51,"",5892,53571,225.373,4.284,187.8753,7/22/2021,12/4/2020
+459,3,8/23/2021,Qijing,Ilex amelanchier M.A. Curtis ex Chapm.,141,"",4427,66234,3712.164,4.967,151.0516,1/30/2021,4/19/2021
+460,1,11/26/2020,Oeri’u,Chamaecyparis pisifera Siebold & Zucc.,129,"",6698,10970,3187.908,2.0325,103.6931,11/13/2020,10/22/2020
+461,0,1/7/2021,San Marcos,Dubautia herbstobatae G.D. Carr,79,"",1218,97257,794.274,4.8542,188.2103,2/5/2021,1/29/2021
+462,2,5/9/2021,Bingfang,Pinguicula primuliflora Alph. Wood & Godfrey,116,"",928,71845,1504.79,1.2723,140.7253,9/14/2020,5/4/2021
+463,1,7/22/2021,Tengjia,Oreoxis bakeri J.M. Coult. & Rose,55,"",5417,2417,3589.949,2.8283,148.0664,2/26/2021,6/10/2021
+464,1,12/2/2020,Xinlong,Delphinium grandiflorum L.,106,"",7395,4581,4170.143,3.2884,112.3273,11/24/2020,8/24/2021
+465,4,9/16/2020,Malainen Luma,Arctostaphylos manzanita Parry ssp. wieslanderi P.V. Wells,148,"",7767,3060,1086.324,0.3073,142.7971,8/20/2021,3/4/2021
+466,3,2/4/2021,Kruisfontein,Lomatium simplex (Nutt.) J.F. Macbr.,53,"",1308,17897,4489.035,4.6952,139.5292,6/12/2021,6/12/2021
+467,3,1/9/2021,Shuiyang,Arabis microphylla Nutt. var. thompsonii Rollins,94,"",6626,12656,3044.888,0.4716,199.6137,9/25/2020,1/27/2021
+468,0,2/4/2021,San Juan de Mata,Spermacoce L.,148,"",1482,72036,1895.159,0.5309,170.4883,10/19/2020,11/11/2020
+469,2,12/12/2020,Otuke,Rhododendron catawbiense Michx.,17,"",8211,70563,55.42,2.2549,102.8479,7/19/2021,11/25/2020
+470,4,9/27/2020,Frakulla e Madhe,Symphyotrichum ×longulum (Sheldon) G.L. Nesom,9,"",2934,36136,1224.246,0.7418,130.1021,2/19/2021,2/2/2021
+471,2,8/27/2021,Xarrë,Coptis laciniata A. Gray,8,"",7788,54918,1591.186,2.8898,113.6497,1/29/2021,9/20/2020
+472,0,11/12/2020,Revda,Zigadenus virescens (Kunth) J.F. Macbr.,144,"",5103,89384,1431.375,0.0679,161.303,7/27/2021,4/7/2021
+473,4,11/19/2020,Punolu,Brassica cretica Lam.,150,"",1820,48850,4045.043,0.2457,145.542,12/27/2020,5/2/2021
+474,1,1/18/2021,Köln,Calopadia puiggarii (Müll. Arg.) Vezda,112,"",9633,26258,733.068,2.6721,118.9119,7/29/2021,6/8/2021
+475,0,6/7/2021,Vrsi,Lysimachia hillebrandii Hook. f. ex A. Gray,137,"",9520,15732,3743.234,4.4614,188.7443,2/11/2021,1/13/2021
+476,0,8/7/2021,Pakokku,Caloplaca agratum (Vain.) Zahlbr.,115,"",1973,77183,4611.312,4.8625,170.936,9/26/2020,3/22/2021
+477,0,10/24/2020,Sibaté,Astragalus tennesseensis A. Gray ex Chapm.,60,"",1628,55363,1475.05,0.7788,139.2269,6/17/2021,1/2/2021
+478,4,11/18/2020,Genet,Crassula solieri (Gay) F. Meigen,102,"",6086,71588,3767.744,3.3721,129.033,1/5/2021,9/16/2020
+479,2,8/30/2021,Necochea,Leptogium milligranum Sierk,22,"",415,75175,679.983,0.5356,173.5971,12/10/2020,1/14/2021
+480,3,10/22/2020,Rybatskoye,Chamaesyce geyeri (Engelm. & A. Gray) Small var. geyeri,40,"",8284,49131,1624.191,3.4534,159.5278,9/28/2020,2/27/2021
+481,4,3/19/2021,Dinghuo,Carex paysonis Clokey,91,"",9206,3763,4155.449,0.4897,104.4941,6/1/2021,2/7/2021
+482,4,6/6/2021,Fria,Polygonum hickmanii H. Hinds & R. Morgan,143,"",8488,16351,1992.431,1.1203,136.6065,12/8/2020,5/25/2021
+483,4,4/28/2021,Gudurica,Lespedeza virginica (L.) Britton,116,"",1001,60541,442.817,0.8114,161.0382,7/2/2021,7/1/2021
+484,1,12/25/2020,Sonta,Pinus rigida × serotina [unnamed hybrid],45,"",437,9910,818.693,1.5251,104.3703,8/8/2021,7/11/2021
+485,0,3/1/2021,Profítis Ilías,Schiedea Cham. & Schltdl.,66,"",5130,76232,4615.007,2.7318,180.2523,11/8/2020,2/4/2021
+486,1,3/15/2021,Ben Arous,Hazardia orcuttii (A. Gray) Greene,75,"",2427,20794,2913.863,3.5303,155.0942,1/8/2021,6/9/2021
+487,1,1/15/2021,Zhigulevsk,Brickellia conduplicata (B.L. Rob.) B.L. Rob.,137,"",7258,42959,4325.74,4.2159,193.7065,12/17/2020,4/12/2021
+488,0,9/22/2020,Kochenëvo,Coelorachis tuberculosa (Nash) Nash,103,"",511,26492,2610.679,0.6672,100.5384,1/3/2021,12/14/2020
+489,1,11/4/2020,Aracruz,Pityrogramma trifoliata (L.) R. Tryon,97,"",4355,7947,248.049,2.5049,108.4573,7/5/2021,1/29/2021
+490,3,1/25/2021,Nesebar,Bryum hagenii Limpr.,146,"",7853,85939,892.177,4.7862,191.916,7/4/2021,2/5/2021
+491,2,7/11/2021,Patiya,Potentilla pectinisecta Rydb.,70,"",3266,85411,397.598,0.6803,171.0409,11/22/2020,2/11/2021
+492,0,5/16/2021,Tibro,Chorizanthe robusta Parry var. robusta,148,"",6628,91056,2111.307,0.9031,140.865,8/14/2021,12/27/2020
+493,1,3/11/2021,Baishuitan,Mirabilis coccinea (Torr.) Benth. & Hook. f.,81,"",5712,51053,785.167,0.6535,187.5878,8/29/2021,3/26/2021
+494,2,12/20/2020,Taohua,Draba porsildii G. Mulligan var. porsildii,137,"",552,44394,560.056,0.5791,138.4969,9/30/2020,3/18/2021
+495,3,10/18/2020,Ciepielów,Dicerandra linearifolia (Elliott) Benth. var. linearifolia,43,"",7207,78916,1763.231,1.7045,128.6547,4/30/2021,8/7/2021
+496,0,4/30/2021,Chebba,Cyrtandra hematos H. St. John,147,"",5074,88268,3268.41,3.7359,156.176,12/21/2020,5/17/2021
+497,3,8/16/2021,Sumy,Pyrenula cuyabensis (Malme) R.C. Harris,129,"",2004,17552,2144.519,1.1226,154.8992,9/6/2021,2/6/2021
+498,2,7/25/2021,Lady Grey,Stylosanthes Sw.,124,"",445,23810,4937.867,3.5375,179.2207,9/5/2021,4/13/2021
+499,2,5/8/2021,Saint-Lambert-de-Lauzon,Arabis pulchra M.E. Jones ex S. Watson var. gracilis M.E. Jones,127,"",1500,95924,1445.13,4.4275,177.7419,1/26/2021,1/26/2021
+500,0,12/3/2020,Lipník nad Bečvou,Crotalaria pumila Ortega,141,"",285,11201,589.058,4.7559,147.6909,5/24/2021,2/14/2021
+501,4,11/27/2020,Chaltyr,Barbarea verna (Mill.) Asch.,75,"",2089,89548,2762.065,0.385,104.4921,6/23/2021,4/29/2021
+502,1,3/8/2021,Noenoni,Carex rariflora (Wahlenb.) Sm. var. rariflora,92,"",9807,65828,1319.156,0.4806,119.4806,2/6/2021,6/2/2021
+503,2,12/3/2020,Tiniguiban,Pertusaria zeorina Erichsen,149,"",3610,45662,4011.58,4.4787,133.9808,3/27/2021,12/23/2020
+504,1,4/25/2021,Outlook,Lecidea furvonigrans (Tuck.) Zahlbr.,35,"",2858,79583,1301.742,4.4357,103.4377,2/24/2021,7/19/2021
+505,2,7/13/2021,Verkhniye Achaluki,Homalia (Brid.) Schimp.,150,"",4793,65146,1233.011,4.4188,197.8395,11/20/2020,10/12/2020
+506,3,4/26/2021,Palestina de los Altos,Heterotheca camporum (Greene) Shinners,29,"",8481,58891,4990.82,1.3484,162.6932,4/4/2021,4/14/2021
+507,0,7/24/2021,Pigcawayan,Hieracium triste Willd. ex Spreng. var. triste,105,"",2063,94464,1032.94,2.5417,143.5093,9/1/2021,5/12/2021
+508,1,6/23/2021,Dongpu,Noccaea arctica (A.E. Porsild) Holub,120,"",767,76007,1200.458,3.1745,130.1464,6/30/2021,12/29/2020
+509,4,12/31/2020,Oslo,Thelypteris pilosa (M. Martens & Galeotti) Crawford,143,"",7437,24687,1166.977,3.5629,166.3891,9/7/2021,1/25/2021
+510,2,4/15/2021,Duut,Luzula comosa E. Mey.,66,"",7436,53242,3317.015,4.1129,155.0925,6/22/2021,2/7/2021
+511,0,12/13/2020,Nguluhan,Chloris canterai Arechav. var. grandiflora (Roseng. & Izag.) D.E. Anderson,18,"",3052,49027,614.597,4.5958,168.6827,8/23/2021,9/24/2020
+512,1,11/4/2020,Sentani,Jacquinia pauciflora B. Stähl & F. Axelrod,145,"",5047,7030,1166.94,2.495,170.8051,1/10/2021,6/8/2021
+513,4,11/4/2020,Mugango,Arctostaphylos ×repens (J.T. Howell) P.V. Wells,129,"",2871,81503,2596.896,4.9702,151.9664,3/2/2021,3/10/2021
+514,1,11/28/2020,Cancas,Xanthorhiza simplicissima Marshall,21,"",6775,29850,858.542,0.2591,129.308,9/21/2020,4/5/2021
+515,3,5/19/2021,Watodei,Solanum pumilum Dunal,57,"",167,76999,266.935,1.7544,115.0542,3/9/2021,11/29/2020
+516,1,4/7/2021,Qingshan,Medicago arabica (L.) Huds.,92,"",8867,75476,1091.677,1.3948,189.1044,12/7/2020,7/2/2021
+517,2,1/19/2021,Masis,Spiranthes amesiana Schltr.,53,"",2406,73062,4351.353,1.5499,140.9494,7/6/2021,1/21/2021
+518,1,9/10/2021,Santo Rosario,Adenium obesum (Forssk.) Roem. & Schult.,16,"",5004,44567,3429.284,2.7219,145.0555,1/31/2021,3/8/2021
+519,0,7/4/2021,San Isidro,Vigna juruana (Harms) Verdc.,71,"",1885,74819,4671.136,2.1091,183.4526,7/29/2021,4/10/2021
+520,1,5/27/2021,Buenavista,Begonia coccinea Hook.,9,"",4214,82669,3781.947,2.9167,133.9271,6/22/2021,8/10/2021
+521,3,3/14/2021,La Palma,Trifolium subterraneum L. var. yanninicum (Katzn. & Morley) Zohary,102,"",439,8300,3800.769,2.0771,189.3244,7/21/2021,2/25/2021
+522,1,2/21/2021,Selkirk,Bryoerythrophyllum recurvum (Griff.) K. Saito,1,"",8994,27032,3296.552,0.2723,167.9304,1/4/2021,3/23/2021
+523,0,1/22/2021,Takasaki,Silene campanulata S. Watson ssp. greenei (S. Watson) C.L. Hitchc. & Maguire,11,"",4549,47987,2184.348,4.8529,179.7449,8/31/2021,3/22/2021
+524,2,11/23/2020,Žagarė,Saxifraga hirculus L. ssp. hirculus,23,"",4900,66288,2157.792,1.6966,102.3703,7/7/2021,2/3/2021
+525,0,3/11/2021,Bang Kaeo,Placopsis (Nyl.) Lindsay,100,"",9870,70891,1111.278,4.7648,150.8153,11/20/2020,6/26/2021
+526,0,3/5/2021,Huaquirca,"Caloplaca rubrofusca (de Lesd.) ?, ined.?",90,"",2273,65222,4052.65,0.8542,138.7304,9/2/2021,7/26/2021
+527,1,6/28/2021,Cikalong,Lecidella bullata Körb.,51,"",513,49890,90.767,1.5145,125.463,6/30/2021,12/18/2020
+528,3,3/4/2021,Outlook,Myosotis asiatica (Vesterg.) Schischkin & Sergievskaja,82,"",7864,34033,844.271,2.5501,114.8885,1/17/2021,1/12/2021
+529,0,5/26/2021,Casa Quemada,Amyris elemifera L.,46,"",5302,57434,3603.723,0.0889,193.3554,2/7/2021,9/19/2020
+530,3,11/22/2020,Luopioinen,Antennaria pulcherrima (Hook.) Greene ssp. pulcherrima,118,"",2458,51111,3582.675,2.2826,171.652,10/27/2020,11/7/2020
+531,0,4/19/2021,Zadawa,Festuca altaica Trin.,79,"",7386,27925,2597.596,1.0523,193.5194,7/21/2021,2/4/2021
+532,4,1/1/2021,Leubatang,Carex vernacula L.H. Bailey,97,"",7976,83591,3029.919,0.2978,117.6668,11/9/2020,1/3/2021
+533,1,1/13/2021,Sukomulyo,Phacelia cicutaria Greene,143,"",3761,84458,146.594,4.5789,180.8155,5/14/2021,7/28/2021
+534,0,1/9/2021,Duotian,Bacopa monnieri (L.) Pennell,53,"",9537,9372,4660.152,4.2212,137.0181,8/7/2021,9/7/2021
+535,3,1/22/2021,Dayuan,Campylium stellatum (Hedw.) C.E.O. Jensen var. arcticum (R.S. Williams) Sav.-Ljub.,12,"",795,65819,3782.633,2.7745,152.0558,6/30/2021,4/1/2021
+536,0,1/25/2021,Zhuyeping,Juncus drummondii E. Mey.,47,"",4495,97116,1694.669,0.3615,174.5096,3/21/2021,7/26/2021
+537,0,10/30/2020,Kulun,Corrigiola L.,136,"",6743,40695,565.327,4.3939,156.1528,6/2/2021,8/17/2021
+538,4,12/4/2020,Donostia-San Sebastian,Polemonium reptans L. var. reptans,80,"",3967,95532,1144.781,0.505,188.1079,11/7/2020,11/25/2020
+539,0,9/14/2020,Cabangan,Argythamnia brandegeei Millsp. var. intonsa (I.M. Johnst.) J.W. Ingram ex L.C. Wheeler,121,"",9055,19650,895.371,3.6311,182.764,3/21/2021,4/18/2021
+540,3,3/23/2021,Sanshui,Agalinis obtusifolia Raf.,97,"",8812,46590,3243.606,1.5916,138.4251,4/6/2021,4/2/2021
+541,4,1/7/2021,Almere Haven,Millettia pinnata (L.) Panigrahi,92,"",631,5230,522.723,0.7006,173.204,8/8/2021,9/18/2020
+542,0,6/9/2021,Herby,Lupinus brevior (Jeps.) Christian & D. Dunn,95,"",634,48538,1176.912,2.37,118.0157,11/21/2020,9/28/2020
+543,0,2/5/2021,Galūgāh,Osmunda regalis L.,101,"",4066,11973,2627.752,0.377,131.7007,11/18/2020,3/5/2021
+544,2,9/6/2021,Fujia,Delphinium nuttallianum Pritz. ex Walp.,86,"",6842,21268,979.887,4.8653,117.9814,12/31/2020,10/3/2020
+545,3,1/11/2021,Sakule,Bougainvillea ×buttiana Holttum & Standl.,91,"",4043,7989,3946.192,0.2862,192.5783,8/5/2021,5/9/2021
+546,4,9/20/2020,Pataha,Gastridium P. Beauv.,150,"",9978,84871,711.329,2.2526,179.9271,9/25/2020,12/2/2020
+547,2,7/26/2021,Carusucan,Cornus nuttallii Audubon ex Torr. & A. Gray,114,"",3503,89878,2709.204,3.398,130.8167,5/5/2021,5/5/2021
+548,1,1/8/2021,Tagiura,Parmotrema crinitum (Ach.) M. Choisy,34,"",8233,8269,4148.719,3.0578,172.3726,1/25/2021,7/26/2021
+549,2,7/6/2021,Nanzamu,Trigonella corniculata (L.) L.,87,"",433,42604,3591.511,3.6752,127.0682,2/10/2021,4/1/2021
+550,3,8/2/2021,Columbia,Silene conica L.,125,"",883,4214,442.366,3.626,101.9992,12/13/2020,4/23/2021
+551,0,2/8/2021,Quận Năm,Ludwigia spathulata Torr. & A. Gray,94,"",2059,17469,4613.798,4.34,159.7868,12/6/2020,3/13/2021
+552,4,7/16/2021,Utrecht (stad),Euphorbia paralias L.,135,"",8540,2328,1822.209,2.2631,144.5991,2/1/2021,1/20/2021
+553,3,5/20/2021,Dadong’ao,Byrsonima lucida (Mill.) DC.,69,"",7221,8801,4747.969,1.985,173.9706,6/1/2021,10/26/2020
+554,4,8/2/2021,Kazan,Ceanothus confusus J.T. Howell,141,"",2000,66340,768.75,4.3671,180.6412,1/29/2021,5/24/2021
+555,2,8/8/2021,Boston,Eucalyptus andrewsii Maiden ssp. campanulata (R.T. Baker & H.G. Sm.) L.A.S. Johnson & Blaxell,43,"",8919,24813,1588.631,0.5452,189.4958,7/24/2021,9/12/2021
+556,3,12/16/2020,Tanjungpati,Arthonia ochrodiscodes Nyl.,73,"",6229,50398,4140.138,2.0692,195.7442,1/11/2021,5/24/2021
+557,4,10/1/2020,Wąsosz,Paeonia californica Nutt.,96,"",7913,49004,1642.039,2.6256,140.8387,11/13/2020,7/30/2021
+558,0,2/26/2021,Vel’sk,Calochortus elegans Pursh var. nanus Alph. Wood,9,"",9812,29274,932.142,3.8774,105.3106,6/21/2021,11/21/2020
+559,0,11/29/2020,Kagawasan,Polygala cruciata L. var. aquilonia Fernald & B.G. Schub.,3,"",4252,12543,2100.812,3.1893,169.0459,6/7/2021,9/19/2020
+560,0,3/15/2021,Norsborg,Chilopsis D. Don,30,"",8368,12796,231.463,3.3051,149.1023,10/31/2020,7/27/2021
+561,1,3/14/2021,Charqueadas,Aspicilia arctica (Lynge) Oksner,109,"",7863,13830,1799.417,2.0094,137.8906,6/23/2021,2/4/2021
+562,4,1/7/2021,Ivry-sur-Seine,Platismatia norvegica (Lynge) W.L. Culb. & C.F. Culb.,25,"",8557,31979,639.96,3.2308,120.7718,11/21/2020,11/8/2020
+563,1,8/3/2021,Planá,Nicotiana plumbaginifolia Viv.,82,"",942,36628,635.138,2.4899,182.8732,12/23/2020,3/28/2021
+564,4,9/1/2021,Sivers’k,Chenopodium album L. var. microphyllum Boenn.,81,"",7358,20163,4786.917,2.2064,171.4996,3/1/2021,5/7/2021
+565,2,11/24/2020,Pran Buri,Physalis peruviana L.,147,"",2143,11259,2897.658,2.348,143.3722,8/7/2021,3/2/2021
+566,0,9/27/2020,Tiannan,Scaevola chamissoniana Gaudich.,53,"",6260,92817,356.928,1.7566,174.7672,8/8/2021,4/28/2021
+567,3,6/8/2021,Paluan,Poa fendleriana (Steud.) Vasey ssp. fendleriana,84,"",3943,4783,1677.107,2.8448,107.55,12/23/2020,9/23/2020
+568,2,6/18/2021,Rafaela,Allium vineale L. ssp. compactum (Thuill.) Coss. & Germ.,76,"",2710,21639,1650.138,0.8789,181.8888,11/4/2020,1/5/2021
+569,0,1/23/2021,Maralal,Jasminum L.,127,"",6100,37125,1641.886,3.989,178.8747,6/20/2021,5/5/2021
+570,1,8/30/2021,Qal‘eh-ye Khvājeh,Vesicularia (Müll. Hal.) Müll. Hal.,148,"",3827,12771,350.363,2.0919,157.3687,11/9/2020,10/24/2020
+571,3,7/24/2021,San Fernando Apure,Xanthoparmelia stenophylloides (Müll. Arg.) Hale,105,"",8012,71405,2442.927,0.096,143.4125,9/1/2021,5/4/2021
+572,0,4/15/2021,Midland,Scybalium Schott & Endl.,61,"",4585,40267,2126.117,1.3175,199.7085,7/19/2021,11/28/2020
+573,4,10/9/2020,Kumagaya,Synthyris canbyi Pennell,134,"",6979,22175,1993.862,1.7965,135.1521,5/5/2021,1/11/2021
+574,0,7/3/2021,Kapunduk,Stylosanthes hamata (L.) Taubert,94,"",9074,76863,2893.529,1.9012,136.4734,2/14/2021,11/3/2020
+575,3,9/28/2020,Huolongping,Graphis rufula (Trevis.) Mont.,102,"",3044,52431,1963.663,3.5428,146.184,7/26/2021,11/21/2020
+576,2,9/5/2021,Klutuk,Downingia bicornuta A. Gray var. picta Hoover,68,"",8793,89411,4887.148,1.2024,140.5608,5/9/2021,7/13/2021
+577,1,10/23/2020,Şabāḩ as Sālim,Arceuthobium californicum Hawksw. & Wiens,57,"",4983,54528,1602.236,2.4847,137.8403,3/5/2021,1/24/2021
+578,0,7/28/2021,Sandao,Ferocactus cylindraceus (Engelm.) Orcutt var. cylindraceus,19,"",958,43557,2599.121,3.9323,199.7885,6/29/2021,9/13/2020
+579,0,10/30/2020,Stockholm,Tradescantia L.,104,"",3032,68856,3088.959,0.1881,106.0644,7/5/2021,10/8/2020
+580,2,11/9/2020,Chãos,Pleuridium palustre (Bruch & Schimp.) Bruch & Schimp.,102,"",5412,43843,1297.458,0.1923,146.9604,12/29/2020,11/21/2020
+581,3,10/14/2020,Kandete,Modiola Moench,39,"",5673,55301,771.898,0.2473,123.6451,5/16/2021,5/27/2021
+582,4,5/30/2021,Nangxian,Sagina nodosa (L.) Fenzl,39,"",5627,49121,181.383,3.9874,146.524,6/20/2021,3/26/2021
+583,4,6/23/2021,Sandyford,Vicia villosa Roth ssp. varia (Host) Corb.,118,"",6606,88895,1473.78,3.5482,151.2498,4/14/2021,8/5/2021
+584,0,12/29/2020,Napoli,Coccocarpia palmicola (Spreng.) Arv. & D.J. Galloway,3,"",5131,43226,4824.022,2.806,190.734,3/2/2021,6/27/2021
+585,4,1/10/2021,Majie,Thelotrema lathraeum Tuck.,10,"",8904,15511,3182.973,4.7867,121.0914,4/26/2021,3/23/2021
+586,1,1/20/2021,Tuncheng,Phyllanthus ericoides Torr.,135,"",7491,71533,264.477,2.1274,198.0019,3/29/2021,1/31/2021
+587,0,2/25/2021,Semibratovo,Layia fremontii (Torr. & A. Gray) A. Gray,98,"",7095,20635,4331.601,2.3154,197.64,11/8/2020,9/20/2020
+588,4,2/6/2021,Pak Phli,Vitex rotundifolia L. f.,14,"",4434,66866,4477.253,2.556,123.8302,6/15/2021,11/8/2020
+589,1,4/15/2021,Didou,Heterotheca villosa (Pursh) Shinners var. foliosa (Nutt.) V.L. Harms,88,"",914,52228,2492.98,4.4558,162.8437,6/14/2021,2/28/2021
+590,3,2/10/2021,Askersund,Schoenoplectus tabernaemontani (C.C. Gmel.) Palla,47,"",1744,97443,3831.905,4.3019,156.219,6/9/2021,11/6/2020
+591,4,9/29/2020,Ciawitali,Aechmea Ruiz & Pav.,27,"",9550,48573,4786.961,4.1955,189.772,3/21/2021,10/23/2020
+592,2,8/10/2021,Réo,Catillaria flavens (Willey) Fink,62,"",3771,47188,56.359,2.7769,150.1147,5/6/2021,6/9/2021
+593,0,2/26/2021,Eindhoven,Jatropha integerrima Jacq. var. integerrima,114,"",2523,62878,335.667,1.2793,100.5354,12/6/2020,5/16/2021
+594,4,11/6/2020,Saltsjö-Boo,Poa fendleriana (Steud.) Vasey ssp. fendleriana,12,"",8551,50328,1803.845,2.146,166.6816,10/18/2020,6/29/2021
+595,2,11/22/2020,Cotovia,Sidalcea calycosa M.E. Jones,2,"",4829,58321,4276.768,2.7487,158.4368,10/17/2020,7/15/2021
+596,2,2/4/2021,Piteå,Rosa bracteata J.C. Wendl.,52,"",2200,16469,1446.371,0.3558,103.5135,5/24/2021,10/5/2020
+597,2,1/22/2021,Sarvaš,Gossypianthus lanuginosus (Poir.) Moq.,111,"",6807,77933,1473.272,4.8419,177.1811,9/5/2021,11/8/2020
+598,4,12/11/2020,Khóra,Eriogonum collinum S. Stokes ex M.E. Jones,1,"",8143,73700,1895.485,2.7242,165.8505,4/18/2021,6/1/2021
+599,1,8/16/2021,Béziers,Eriogonum thornei (Reveal & Henrickson) L.M. Shultz,127,"",1818,75046,501.639,4.7835,193.1741,1/12/2021,1/10/2021
+600,0,12/25/2020,Valencia,Polygonum douglasii Greene ssp. austiniae (Greene) A.E. Murray,70,"",583,82728,2129.706,0.4686,195.8191,12/12/2020,8/7/2021
+601,1,4/11/2021,Balucawi,Cryptantha fendleri (A. Gray) Greene,87,"",9839,42254,4665.397,1.0704,191.5371,12/13/2020,5/28/2021
+602,4,1/20/2021,Makanya,Zephyranthes longifolia Hemsl.,87,"",9372,75056,1231.221,2.1009,180.5748,3/16/2021,10/30/2020
+603,3,12/2/2020,Dongting,Astragalus newberryi A. Gray var. newberryi,74,"",1455,51960,4057.035,0.6239,137.7369,4/27/2021,10/21/2020
+604,1,5/31/2021,Gorzów Wielkopolski,Spiraea trilobata L.,16,"",3221,98096,3059.299,2.607,168.4808,1/30/2021,1/1/2021
+605,0,5/27/2021,Shakhtars’k,Lathyrus tuberosus L.,58,"",3220,37388,746.613,3.3785,175.5583,10/1/2020,9/20/2020
+606,2,3/24/2021,Zebrzydowice,Salix melanopsis Nutt.,81,"",4635,2434,622.438,1.6641,146.7254,12/9/2020,10/19/2020
+607,2,4/26/2021,Babo-Pangulo,Abutilon trisulcatum (Jacq.) Urb.,74,"",6921,81550,534.006,4.8344,194.6903,1/9/2021,9/11/2021
+608,2,4/4/2021,Biograd na Moru,Allium lacunosum S. Watson var. kernense McNeal & Ownbey,14,"",4230,13124,704.073,1.5033,115.8323,1/18/2021,5/14/2021
+609,3,4/17/2021,Phanom Phrai,Sclerophora nivea (Hoffm.) Tibell,35,"",6260,34305,4784.523,2.0895,105.1529,8/24/2021,10/19/2020
+610,3,3/13/2021,Adzopé,Buxus sempervirens L.,83,"",7089,67873,4672.187,4.4471,119.8265,12/2/2020,11/13/2020
+611,2,1/5/2021,Plužine,Liatris ×orzellii G.L Nesom,150,"",7410,9794,1771.45,3.2504,117.897,9/8/2021,3/22/2021
+612,1,6/13/2021,Belo Blato,Swertia perennis L.,90,"",4217,39282,2370.346,0.1949,110.2859,8/13/2021,3/31/2021
+613,3,5/2/2021,Lakeland,Gymnopogon P. Beauv.,71,"",4296,81385,4833.827,4.2049,131.7722,3/3/2021,9/15/2020
+614,4,2/26/2021,Wanju,Dipogon Liebm.,14,"",8474,44097,4911.667,0.4277,147.2076,1/1/2021,11/9/2020
+615,2,3/4/2021,Salamanca,Potentilla hookeriana Lehm.,95,"",5878,3073,2830.009,0.5332,102.9679,11/23/2020,4/7/2021
+616,2,2/8/2021,Kranjska Gora,Araucaria bidwillii Hook.,73,"",4964,83702,2564.556,0.7061,105.3767,3/23/2021,8/18/2021
+617,3,8/18/2021,Leticia,Lobelia siphilitica L. var. siphilitica,36,"",6870,44190,465.122,4.657,124.6924,3/24/2021,9/29/2020
+618,3,10/31/2020,Carvalho,Chamaesyce serpens (Kunth) Small,88,"",9025,42425,1210.602,3.3609,154.7617,4/19/2021,8/23/2021
+619,0,12/6/2020,Regnów,Ericameria arborescens (A. Gray) Greene,20,"",1904,20655,2526.938,0.672,178.7749,8/26/2021,11/29/2020
+620,1,9/26/2020,Dembī Dolo,Vaccinium ×margarettiae Ashe (pro sp.),10,"",6686,25319,3662.968,4.26,132.6169,7/22/2021,11/1/2020
+621,4,1/17/2021,Xinrong,Verbesina virginica L. var. virginica,149,"",4413,21161,1980.195,3.5472,136.6114,8/28/2021,6/5/2021
+622,3,2/21/2021,Kawengan,Citrullus lanatus (Thunb.) Matsum. & Nakai var. lanatus,140,"",2571,84112,3454.378,1.7826,139.9724,3/3/2021,2/24/2021
+623,3,2/13/2021,Kroczyce,Zingiber zerumbet (L.) Sm.,145,"",9819,30152,3792.636,2.9398,169.8046,10/20/2020,4/21/2021
+624,4,8/31/2021,Xingfu,Argusia gnaphalodes (L.) Heine,94,"",7754,36630,4940.785,0.3946,141.9763,1/15/2021,10/11/2020
+625,3,1/2/2021,Corbeil-Essonnes,Achillea filipendulina Lam.,48,"",1459,48954,447.065,3.2949,163.8233,2/21/2021,10/3/2020
+626,2,12/9/2020,Daguo,Hedysarum boreale Nutt. ssp. mackenziei (Richardson) S.L. Welsh,97,"",5080,38989,3990.832,2.0226,100.1671,11/19/2020,9/2/2021
+627,2,3/9/2021,Manticao,Alternanthera Forssk.,38,"",9709,73949,4153.069,4.4025,153.1346,3/21/2021,12/31/2020
+628,3,4/8/2021,Tucheng,Hyptis lantanifolia Poit.,70,"",6771,74439,4157.673,2.665,146.1604,8/30/2021,1/24/2021
+629,0,12/7/2020,Janów,Akebia quinata (Houtt.) Decne.,39,"",6900,58532,1352.781,3.3989,191.2035,12/23/2020,11/4/2020
+630,4,2/7/2021,Punta Gorda,Piper retrofractum Vahl,105,"",725,62930,2640.509,1.7787,156.3638,4/28/2021,6/29/2021
+631,2,6/13/2021,Taremskoye,Gamochaeta argyrinea G.L. Nesom,13,"",8538,41391,4081.185,4.9471,104.1631,5/6/2021,10/2/2020
+632,1,9/15/2020,Modot,Heuchera americana L. var. americana,49,"",664,61976,1827.231,0.5899,188.0434,1/29/2021,5/22/2021
+633,3,9/15/2020,Ochota,Lecidea nemoralis Lowe,146,"",4662,42202,1959.208,2.258,159.8203,2/23/2021,7/8/2021
+634,1,11/5/2020,Liufang,Cirsium scariosum Nutt.,14,"",3674,71749,2186.138,3.5985,118.0717,9/17/2020,10/20/2020
+635,1,2/28/2021,Bol’shaya Setun’,Zanthoxylum caribaeum Lam.,143,"",867,28951,791.396,1.142,160.5369,12/30/2020,6/9/2021
+636,2,3/6/2021,Soroti,Populus ×smithii B. Boivin,85,"",1499,66707,3008.915,3.1949,185.1192,2/6/2021,1/21/2021
+637,2,11/9/2020,Héroumbili,Hymenophyllum fucoides (Sw.) Sw.,134,"",7788,64236,3462.095,3.6973,144.6772,6/16/2021,7/25/2021
+638,1,8/12/2021,Badarganj,Euphorbia wrightii Torr. & A. Gray,64,"",7015,11366,4606.377,4.5467,147.5527,10/24/2020,11/26/2020
+639,1,12/20/2020,Xinyang,Fulgensia fulgens (Sw.) Elenkin,0,"",6388,93983,3935.631,3.5909,110.5038,9/7/2021,8/4/2021
+640,2,1/3/2021,Ouricuri,Viola charlestonensis M.S. Baker & J.C. Clausen,78,"",6326,61942,3697.575,1.9524,117.8891,2/22/2021,9/18/2020
+641,3,2/13/2021,Linhares,Camissonia guadalupensis (S. Watson) P.H. Raven ssp. clementina (P.H. Raven) P.H. Raven,9,"",6697,5154,2804.338,2.8592,152.1673,5/21/2021,7/22/2021
+642,1,6/17/2021,Ōdate,Sphinctrina turbinata (Pers. ex Fr.) De Not.,16,"",9786,31497,1031.493,0.5074,117.9603,4/20/2021,4/10/2021
+643,0,9/22/2020,Bhairab Bāzār,Linum lewisii Pursh var. alpicola Jeps.,127,"",4903,78612,2867.589,0.208,114.2925,10/1/2020,4/11/2021
+644,1,9/29/2020,Spanish Town,Poa pratensis L. ssp. alpigena (Fr. ex Blytt) Hiitonen,65,"",8881,16359,4488.921,4.7258,130.4911,8/5/2021,1/18/2021
+645,0,12/23/2020,Eido,Gyalecta truncigena (Ach.) Hepp,42,"",6101,41288,1215.758,2.201,127.9592,5/18/2021,4/29/2021
+646,1,6/29/2021,Issy-les-Moulineaux,Malacothrix sonorae W.S. Davis & P.H. Raven,93,"",4843,62139,1465.026,1.2961,126.8694,2/23/2021,9/6/2021
+647,3,5/18/2021,Were,Veronica alpina L.,111,"",6564,58584,2447.166,1.855,173.6822,7/5/2021,4/14/2021
+648,2,1/1/2021,Hengyang,Bolboschoenus novae-angliae (Britton) S.G. Sm.,73,"",5736,68198,4871.217,3.9651,162.0747,6/15/2021,1/19/2021
+649,4,4/24/2021,Niort,Clarkia xantiana A. Gray,31,"",6719,44447,3961.041,3.8165,176.3756,11/16/2020,7/1/2021
+650,0,2/15/2021,Luoyang,Psora montana Timdal,56,"",876,62068,3952.89,0.3542,158.2671,2/25/2021,10/7/2020
+651,1,11/9/2020,Heydərabad,Dubautia pauciflorula H. St. John & G.D. Carr,133,"",8352,78614,2364.807,4.8883,145.9124,4/22/2021,10/3/2020
+652,3,6/26/2021,Charlotte,Carlowrightia arizonica A. Gray,128,"",4264,67598,565.956,4.064,113.0323,9/5/2021,4/9/2021
+653,2,11/15/2020,Carapelhos,Taraxacum phymatocarpum J. Vahl,8,"",409,4153,1554.14,0.9356,156.3976,11/2/2020,4/28/2021
+654,1,6/14/2021,Inabaan Sur,Torreyochloa erecta (Hitchc.) Church,11,"",6415,57183,888.732,2.2129,115.6376,4/19/2021,4/13/2021
+655,3,7/7/2021,Celica,Rapistrum Crantz,40,"",5681,66708,3899.95,2.6001,177.7226,4/12/2021,2/5/2021
+656,1,7/17/2021,Kebonkalapa,Dulichium arundinaceum (L.) Britton var. boreale Lepage,62,"",3991,89278,1150.536,1.7901,151.9018,12/5/2020,8/25/2021
+657,0,8/8/2021,Dongjingcheng,Callitriche trochlearis Fassett,59,"",2074,16658,2758.948,3.6568,170.0947,8/7/2021,7/17/2021
+658,1,4/30/2021,Shchelkovo,Ligusticum canadense (L.) Britton,143,"",7281,68637,3678.916,0.0249,154.9145,9/28/2020,9/25/2020
+659,4,9/18/2020,Huilelot,Salix floridana Chapm.,117,"",2972,32372,577.56,3.1166,171.9808,4/22/2021,9/10/2021
+660,3,11/20/2020,Kalapagada,Eriogonum deflexum Torr. var. deflexum,21,"",366,49335,4025.563,3.1291,143.6802,6/2/2021,11/7/2020
+661,4,7/29/2021,Wengaingo,Stylosanthes scabra Vog.,118,"",2021,55294,3383.41,1.8429,191.7684,2/18/2021,5/19/2021
+662,0,2/20/2021,San Jose,Corydalis scouleri Hook.,53,"",4594,4625,1079.029,3.1617,109.1145,9/6/2021,2/22/2021
+663,3,7/25/2021,Västra Frölunda,Cyperus flavidus Retz.,38,"",1437,54078,2185.555,2.3908,196.6367,9/22/2020,2/12/2021
+664,3,11/24/2020,Sérvia,Camissonia pygmaea (Douglas ex Lehm.) P.H. Raven,139,"",9326,48770,121.885,1.6402,177.2882,7/24/2021,2/21/2021
+665,3,10/20/2020,Daqian,Sphaeralcea angustifolia (Cav.) G. Don,129,"",8404,19820,746.894,3.898,111.6732,6/22/2021,6/5/2021
+666,1,5/2/2021,Casal do Sapo,Ficus drupacea Thunb.,29,"",8945,82329,1200.318,4.3043,153.0841,2/9/2021,5/24/2021
+667,3,5/14/2021,Ngrayun,Leptogium adpressum Nyl.,129,"",7147,93808,3470.113,2.2766,194.032,5/21/2021,11/5/2020
+668,0,3/11/2021,Leninsk,Leavenworthia aurea Torr. var. aurea,141,"",7460,11817,792.851,0.9203,125.4279,2/16/2021,3/26/2021
+669,4,12/7/2020,Voznesenskoye,Hypocenomyce castaneocinerea (Rasanen) Timdal,150,"",3384,63999,4302.89,1.4759,173.5649,4/12/2021,8/22/2021
+670,3,9/1/2021,Jingyang,Lablab purpureus (L.) Sweet ssp. purpureus,108,"",388,76683,2703.461,4.1569,166.4001,1/8/2021,7/15/2021
+671,4,1/30/2021,Calbuco,Dodecatheon jeffreyi Van Houtte ssp. pygmaeum (H.M. Hall) H.J. Thomp.,133,"",2070,1790,4578.137,2.4073,139.2872,8/21/2021,9/4/2021
+672,4,4/24/2021,Huilong,Symphyotrichum oolentangiense (Riddell) G.L. Nesom var. poaceum (Burgess) G.L. Nesom,13,"",3759,90286,4320.7,0.9966,142.6107,11/30/2020,12/10/2020
+673,1,6/17/2021,Karangpawitan,Quercus robusta C.H. Mull.,42,"",5085,82984,2987.941,2.3943,168.409,10/2/2020,12/15/2020
+674,0,2/9/2021,Maundai,Phaeospora rimosicola (Leight. ex Mudd) Hepp ex Stein,136,"",5735,74207,4037.115,3.5491,101.6973,2/3/2021,6/2/2021
+675,3,7/30/2021,Sumbawa Besar,Stereocaulon intermedium (Savicz) H. Magn.,53,"",1989,33495,375.076,2.448,170.7472,6/29/2021,1/3/2021
+676,3,4/17/2021,Preserje pri Radomljah,Hazardia detonsa (Greene) Greene,53,"",1516,49799,2547.481,0.3021,106.7092,12/9/2020,2/15/2021
+677,0,3/9/2021,Xigaoshan,Lecidea despecta Th. Fr.,132,"",1324,4917,2586.923,4.885,195.2193,12/5/2020,3/22/2021
+678,4,5/22/2021,Batu,Sphaeralcea rusbyi A. Gray ssp. rusbyi,101,"",3181,38814,622.385,1.0362,117.3019,10/21/2020,1/1/2021
+679,2,12/5/2020,Võhma,Astragalus alpinus L. var. alpinus,22,"",3279,48362,4056.305,4.0433,142.6741,5/5/2021,2/3/2021
+680,2,1/7/2021,Xin’an,"Arabis procurrens Waldst. & Kit., nom. inq.",114,"",5991,51435,2793.586,0.3161,163.6779,8/30/2021,4/14/2021
+681,2,6/20/2021,Tangtou,Papaver alpinum L.,37,"",2052,46320,4977.213,0.8744,181.526,12/1/2020,1/30/2021
+682,3,3/28/2021,Vitoria-Gasteiz,Sabicea Aubl.,10,"",6976,95068,665.946,3.9512,154.1215,2/11/2021,12/9/2020
+683,4,6/22/2021,كاف الجاع,Potamogeton oakesianus J.W. Robbins,15,"",2638,64937,2067.819,1.7354,114.2861,1/11/2021,4/11/2021
+684,2,3/3/2021,Changling,Draba stenopetala Trautv.,93,"",996,11579,3585.653,1.7004,159.8104,9/5/2021,5/31/2021
+685,1,12/21/2020,Hongjiang,Melicope ovata (H. St. John & Hume) T.G. Hartley & B.C. Stone,27,"",2682,55328,2820.064,2.5316,139.0852,12/15/2020,6/26/2021
+686,1,2/27/2021,Montpellier,Ribes hudsonianum Richardson,66,"",7401,87337,1613.979,2.5433,141.3846,4/24/2021,1/28/2021
+687,2,3/21/2021,Sukabatu,Helianthella Torr. & A. Gray,141,"",5860,86026,623.412,3.5042,155.5875,2/27/2021,8/14/2021
+688,1,12/3/2020,Kudowa-Zdrój,Pseudophoenix sargentii H. Wendl. ex Sarg. ssp. saonae (O.F. Cook) Read,73,"",7486,13495,2731.051,1.3555,136.9354,5/14/2021,8/29/2021
+689,1,9/17/2020,Sumbawa Besar,Myosoton aquaticum (L.) Moench,96,"",977,69426,283.775,3.264,155.4834,6/20/2021,11/18/2020
+690,4,11/18/2020,Tailing,Carex straminea Willd. ex Schkuhr,37,"",9741,11415,4960.781,4.0669,170.7869,3/18/2021,11/7/2020
+691,4,6/25/2021,Lyon,Brachythecium glaciale Schimp.,117,"",8238,79228,2227.365,4.7523,111.533,5/2/2021,5/8/2021
+692,3,7/22/2021,Atlasovo,Psidium guineense Sw.,56,"",4994,41300,4054.129,2.4015,105.9103,3/28/2021,3/5/2021
+693,3,8/31/2021,Chumen,Lithophragma maximum Bacig.,71,"",5836,24498,2418.763,2.4775,184.8849,7/7/2021,1/18/2021
+694,4,10/31/2020,Miami,Diphysa thurberi (A. Gray) Rydb.,55,"",4885,16025,794.864,0.6158,119.2334,2/22/2021,1/12/2021
+695,0,4/18/2021,Alqueva,Cinnamomum sessilifolium Kaneh.,53,"",5774,63330,2501.765,1.2216,171.8091,4/16/2021,10/20/2020
+696,0,3/15/2021,Catalina,Plantago bigelovii A. Gray ssp. bigelovii,149,"",9211,30606,2740.356,2.9833,156.5677,11/11/2020,9/6/2021
+697,2,1/8/2021,Níkaia,Cuphea glutinosa Cham. & Schltdl.,76,"",7486,14813,4923.317,2.0961,103.0435,11/5/2020,8/1/2021
+698,1,2/20/2021,Bessonovka,Asarum hartwegii S. Watson,137,"",466,51625,3382.766,0.9498,141.213,11/15/2020,12/13/2020
+699,2,8/12/2021,Vetluga,Thalictrum thalictroides (L.) Eames & B. Boivin,55,"",6824,28606,4118.201,2.0971,115.2327,7/19/2021,8/31/2021
+700,4,4/15/2021,Quimilí,Coriandrum L.,32,"",3100,76524,4963.564,3.8376,149.6147,2/14/2021,8/31/2021
+701,0,9/2/2021,Struga,Teucrium L.,100,"",6104,48227,3203.899,3.5519,125.3529,11/21/2020,11/23/2020
+702,4,12/16/2020,Bali,Thelypodiopsis vermicularis (S.L. Welsh & Reveal) Rollins,52,"",168,42533,3145.168,0.6285,134.4033,8/4/2021,9/14/2020
+703,2,3/12/2021,Khirbat Tīn Nūr,Encalypta vulgaris Hedw.,6,"",9728,12470,2194.14,4.6637,105.7476,9/22/2020,7/22/2021
+704,0,4/11/2021,Severnyy,"Notholithocarpus P.S. Manos, C.H. Cannon, & S.H. Oh",13,"",6629,87997,2701.108,3.8066,189.8995,5/22/2021,5/25/2021
+705,3,12/23/2020,Pasuruan,Polygonum fowleri B.L. Rob.,103,"",4890,20708,1692.642,4.8637,131.4745,8/5/2021,2/1/2021
+706,3,7/31/2021,Nartkala,Ludwigia grandiflora (Michx.) Greuter & Burdet,58,"",6017,79036,4470.792,4.528,168.3475,3/5/2021,1/27/2021
+707,3,10/11/2020,Panitan,Catillaria nigroclavata (Nyl.) Schuler,133,"",438,74981,903.415,0.8615,173.3152,7/10/2021,4/29/2021
+708,2,12/30/2020,Casal Novo,Malperia tenuis S. Watson,51,"",8654,26383,3821.815,2.4204,115.9465,6/13/2021,12/11/2020
+709,4,9/16/2020,Zhuxi Chengguanzhen,Phacelia breweri A. Gray,99,"",3154,40412,2872.714,4.3445,127.0141,10/20/2020,8/8/2021
+710,0,8/31/2021,Ringin Kembar,Gaura macrocarpa Rothr.,28,"",415,90592,1385.287,1.3157,186.0551,5/14/2021,3/22/2021
+711,1,8/17/2021,Komsomolets,Chamaecrista mimosoides (L.) Greene,75,"",4796,71533,2711.389,4.8431,174.2677,12/30/2020,2/7/2021
+712,4,11/24/2020,Baiyang,Didymodon subandreaeoides (Kindb.) R.H. Zander,37,"",7930,42628,1977.602,2.7634,192.1613,9/1/2021,7/22/2021
+713,0,10/7/2020,Shatou,Grindelia adenodonta (Steyerm.) G.L. Nesom,29,"",7452,59907,854.104,2.541,110.8432,9/25/2020,1/8/2021
+714,4,10/6/2020,Obukhiv,Dimelaena weberi Sheard,30,"",7762,17247,730.083,3.8352,166.9579,2/3/2021,7/9/2021
+715,1,5/8/2021,Guozhai,Phacelia lutea (Hook. & Arn.) J.T. Howell,13,"",4396,41782,582.67,1.1999,185.149,11/10/2020,4/10/2021
+716,2,10/10/2020,Erími,Polygonella articulata (L.) Meisn.,136,"",5597,23753,4877.012,2.9462,195.5761,9/20/2020,6/3/2021
+717,1,3/18/2021,Huizhai,Peperomia cogniauxii Urb.,11,"",5443,89072,4357.136,3.5072,130.611,7/4/2021,9/23/2020
+718,4,8/26/2021,Birowo,Tetraneuris brandegeei (Porter ex A. Gray) K.F. Parker,99,"",9516,19080,2302.03,3.3424,195.894,10/7/2020,5/24/2021
+719,0,12/18/2020,Kinna,Enceliopsis (A. Gray) A. Nelson,93,"",1263,10394,4396.302,1.3622,106.4465,5/14/2021,9/12/2021
+720,0,8/15/2021,Szemud,Sagina apetala Ard.,1,"",6121,44205,2562.761,1.0686,125.1505,5/26/2021,2/5/2021
+721,2,12/13/2020,Łobżenica,Platanthera chapmanii (Small) Luer,60,"",493,15779,4812.729,4.7081,186.4594,1/24/2021,10/25/2020
+722,2,10/21/2020,Dongqinggou,Olearia Moench,134,"",3571,33217,4153.898,4.6739,132.7846,4/24/2021,12/9/2020
+723,2,6/26/2021,Kalisari,Lecanora kariana Rasanen,6,"",6964,67904,4496.628,1.6101,195.9593,10/14/2020,2/13/2021
+724,3,3/6/2021,Sloboda,Bouteloua radicosa (Fourn.) Griffiths,144,"",4220,40374,2786.461,4.4916,144.1274,4/8/2021,9/9/2021
+725,4,1/20/2021,Voznesen’ye,Paspalum minus Fourn.,97,"",9423,82452,4609.04,4.6326,155.4867,8/6/2021,12/12/2020
+726,1,9/13/2020,Krajan Selatan,Stigmidium psorae (Anzi) Hafellner,81,"",5860,46114,2228.943,0.4582,104.7705,2/2/2021,6/24/2021
+727,4,8/16/2021,Mariestad,Agrostis clavata Trin.,14,"",8706,22892,2777.746,0.878,176.3523,7/20/2021,9/21/2020
+728,2,2/3/2021,Miami,Eugenia haematocarpa Alain,77,"",5822,35391,2661.195,4.3954,156.1625,8/19/2021,12/16/2020
+729,2,5/26/2021,Villa Yapacaní,Pseudoleskea Schimp.,60,"",7454,73437,4798.836,1.968,105.2743,6/29/2021,6/28/2021
+730,1,10/5/2020,Mafeng,Carex grisea Wahlenb.,88,"",7661,84108,1564.155,1.6563,120.4359,12/13/2020,7/25/2021
+731,0,8/2/2021,Staraya Mayna,Eleusine coracana (L.) Gaertn. ssp. africana (Kennedy & O'Byrne) Hilu & de Wet,42,"",6633,97974,4234.386,1.6119,199.3131,10/8/2020,3/22/2021
+732,0,1/25/2021,Gelemso,Lecanora microfusca Lynge,87,"",292,65572,665.82,4.6015,174.4338,6/11/2021,4/2/2021
+733,1,8/12/2021,Pyra,Agropyron desertorum (Fisch. ex Link) Schult.,36,"",586,1077,2424.003,4.2968,148.829,2/10/2021,2/6/2021
+734,0,10/9/2020,Železný Brod,Sesbania tomentosa Hook. & Arn.,116,"",8857,17633,1439.348,3.1937,199.2366,12/7/2020,10/18/2020
+735,0,7/9/2021,Petropavlovsk,Melinis minutiflora P. Beauv.,125,"",3931,40030,321.144,2.9405,163.5484,4/30/2021,4/26/2021
+736,2,9/2/2021,Husów,Thrombium mongolicum H. Magn.,16,"",2922,94739,2186.654,4.0439,172.8215,3/16/2021,12/13/2020
+737,0,3/12/2021,Naples,Phlox glabriflora (Brand) Whitehouse,107,"",6229,31711,180.773,2.6739,191.4779,9/22/2020,5/21/2021
+738,2,4/8/2021,Roliça,Salix ×waghornei Rydb. (pro sp.),134,"",6504,59583,3792.003,1.1586,191.4781,7/14/2021,8/22/2021
+739,1,10/4/2020,Capim Grosso,Tetrazygia crotonifolia (Desr.) DC.,108,"",1732,31148,4437.681,2.4995,154.8065,5/15/2021,8/11/2021
+740,3,6/18/2021,Chợ Lầu,Didymodon fallax (Hedw.) R.H. Zander var. fallax,26,"",9699,34653,3350.875,0.0933,160.3483,3/7/2021,11/4/2020
+741,1,4/23/2021,Rukem,Echinocactus polycephalus Engelm. & J.M. Bigelow,60,"",3961,51919,2412.275,0.6307,105.0878,3/26/2021,10/5/2020
+742,0,7/15/2021,Chelgard,Peucephyllum A. Gray,146,"",3550,10272,114.583,3.8733,134.8436,4/15/2021,11/5/2020
+743,4,6/27/2021,Solntsevo,Brassica oleracea L.,24,"",6623,11615,1654.803,4.9724,179.3331,6/13/2021,6/18/2021
+744,0,11/6/2020,Kumlinge,Silphium pinnatifidum Elliott,118,"",2705,39931,4258.682,3.643,185.4019,8/7/2021,4/7/2021
+745,4,2/13/2021,Echeng,Nicotiana repanda Willd. ex Lehm.,128,"",7086,97437,1968.314,3.4054,170.3891,1/11/2021,10/9/2020
+746,4,9/24/2020,Tosno,Penstemon procerus Douglas ex Graham var. formosus (A. Nelson) Cronquist,69,"",2372,48629,2037.832,1.8381,192.2012,2/6/2021,1/5/2021
+747,4,9/9/2021,Dayr Sāmit,Calyptocarpus Less.,5,"",743,57778,4449.874,0.3815,190.2343,11/25/2020,2/18/2021
+748,3,11/15/2020,Mosoc Llacta,Liatris punctata Hook. var. punctata,89,"",790,47764,3989.03,2.3808,174.434,2/12/2021,1/27/2021
+749,3,2/9/2021,Tobilolong,Zingiber officinale Roscoe,142,"",7191,82894,1420.3,2.3477,122.3982,8/3/2021,11/6/2020
+750,0,11/10/2020,Krasnyye Chetai,Layia pentachaeta A. Gray ssp. pentachaeta,27,"",7913,5848,1946.363,1.5849,159.0029,5/10/2021,3/7/2021
+751,4,2/19/2021,Hongjiaguan,Pericallis hybrida B. Nord.,62,"",6448,38000,2101.064,3.4632,159.4482,11/3/2020,6/12/2021
+752,4,6/25/2021,Setonokalong,Pseudognaphalium obtusifolium (L.) Hilliard & B.L. Burtt ssp. saxicola (Fassett) Kartesz,106,"",7400,85161,4073.826,4.2331,184.6569,8/10/2021,10/4/2020
+753,0,3/3/2021,Bologna,Hieracium praealtum Vill. ex Gochnat,33,"",5867,45068,2854.794,0.2239,150.6603,11/5/2020,4/7/2021
+754,1,1/20/2021,Timon,Allium drummondii Regel,83,"",2714,80786,3780.064,3.7341,139.1543,5/2/2021,3/26/2021
+755,2,4/8/2021,Oroqen Zizhiqi,Briza maxima L.,92,"",762,95380,4313.311,4.7322,149.0446,9/17/2020,12/27/2020
+756,4,3/18/2021,Kesheng,Arabis missouriensis Greene,91,"",6053,81467,1194.843,0.4333,133.0788,10/1/2020,9/28/2020
+757,0,4/11/2021,Sanlicheng,Nipponanthemum nipponicum (Franch. ex Maxim.) Kitam.,97,"",1228,47921,1063.062,3.6771,101.633,6/16/2021,10/12/2020
+758,1,6/7/2021,Sarzedo,Eriogonum davidsonii Greene,21,"",1209,63427,4356.388,0.5838,106.2375,8/24/2021,7/4/2021
+759,3,12/29/2020,Tarqūmyā,Lipocarpha drummondii (Nees) G. Tucker,11,"",7634,76125,2898.625,4.5765,154.5503,7/8/2021,7/6/2021
+760,4,11/22/2020,Baizhong,Schedonorus P. Beauv.,19,"",2242,79520,1234.134,1.6143,142.1426,9/25/2020,12/11/2020
+761,4,3/24/2021,Nanaimo,Botrychium rugulosum W.H. Wagner,26,"",2685,84608,1309.01,0.6194,194.7617,9/17/2020,12/15/2020
+762,2,10/8/2020,Admiralteisky,Cyanea tritomantha A. Gray,114,"",7924,34114,4024.855,3.1965,179.8968,4/6/2021,6/4/2021
+763,4,7/16/2021,Boronów,Tetraneuris linearifolia (Hook.) Greene var. arenicola Bierner,150,"",7215,82870,214.781,3.0612,159.3236,10/8/2020,10/12/2020
+764,1,9/28/2020,Chicago,Penstemon caesius A. Gray,71,"",3594,57401,246.426,3.8582,186.6231,3/11/2021,6/29/2021
+765,2,6/30/2021,Caotang,Strigula wilsonii (Riddle) R.C. Harris,2,"",9032,58353,2353.718,2.0149,100.2461,6/25/2021,5/28/2021
+766,1,6/8/2021,Chile Chico,Chrysopsis godfreyi Semple,57,"",140,68685,4015.567,0.5265,124.816,3/17/2021,10/13/2020
+767,4,2/9/2021,Bystra,Smilax bona-nox L. var. bona-nox,95,"",8609,16697,4593.197,0.7621,160.0262,3/28/2021,10/5/2020
+768,3,5/9/2021,Hartswater,Rhynchosia difformis (Elliott) DC.,28,"",8026,20552,1439.375,4.2235,143.2173,2/28/2021,7/6/2021
+769,0,1/5/2021,Taksimo,Mirabilis multiflora (Torr.) A. Gray,81,"",5731,77783,3037.702,4.339,123.9829,10/25/2020,4/21/2021
+770,1,9/3/2021,Liangjing,Tetraclinis articulata (Vahl) Masters,25,"",7099,34812,803.407,3.6274,106.2003,6/14/2021,1/27/2021
+771,2,4/3/2021,Babakan,Glycyrrhiza glabra L.,117,"",7972,73838,3062.632,0.7867,166.3329,7/12/2021,5/9/2021
+772,3,11/9/2020,Lorient,Pera Mutis,9,"",6959,86842,466.049,1.3687,147.9063,3/16/2021,1/25/2021
+773,0,3/5/2021,Bonnyville,Arthothelium anastomosans (Ach.) Arnold,36,"",4249,55273,4716.484,1.2582,101.9908,1/26/2021,7/13/2021
+774,3,9/30/2020,Caijiang,Blumea lacera (Burm. f.) DC.,96,"",1514,91476,834.887,2.9453,171.6289,9/27/2020,9/16/2020
+775,4,12/12/2020,Pankshin,Viola praemorsa Douglas ex Lindl. ssp. flavovirens (Pollard) Fabijan,140,"",7764,84526,4488.731,0.2088,112.2864,5/4/2021,3/26/2021
+776,1,11/26/2020,Pīrgaaj,Maurandella (A. Gray) Rothm.,150,"",9692,38161,1374.919,2.6532,127.6604,4/8/2021,3/1/2021
+777,3,3/3/2021,Sungaikupang,Liatris lancifolia (Greene) Kittell,48,"",431,11552,2229.965,3.632,130.119,10/25/2020,11/26/2020
+778,0,10/23/2020,Gukovo,Commelina rufipes Seubert,88,"",4267,99255,875.404,2.0687,129.9273,9/22/2020,1/31/2021
+779,3,7/22/2021,Paris 08,Acacia nigrescens Oliv.,68,"",6196,64112,4703.248,4.4702,100.5941,11/26/2020,7/28/2021
+780,0,4/13/2021,Arroio do Meio,Hexastylis minor (Ashe) Blomquist,107,"",4174,8556,4356.473,3.1709,137.1626,12/5/2020,3/3/2021
+781,1,1/14/2021,La Bélgica,Sicyosperma gracile A. Gray,78,"",3216,98560,3016.019,1.443,175.2994,5/29/2021,11/6/2020
+782,4,7/8/2021,Cartagena,Croton argenteus L.,6,"",5658,11877,56.062,4.656,121.3665,11/12/2020,10/17/2020
+783,0,11/21/2020,Negararatu,Ipomopsis tenuifolia (A. Gray) V.E. Grant,7,"",4801,38816,2993.839,3.874,180.0443,4/7/2021,5/5/2021
+784,3,2/11/2021,Pedro II,Penstemon linarioides A. Gray ssp. maguirei D.D. Keck,1,"",250,45464,4960.39,2.4237,193.2336,5/18/2021,12/17/2020
+785,2,11/15/2020,Shirochanka,Mentzelia nitens Greene,71,"",6854,48645,1914.924,2.4323,177.5794,5/2/2021,4/26/2021
+786,0,4/16/2021,Alqueva,Pinus pumila (Pall.) Regel,28,"",6036,16084,2330.657,0.2304,124.0887,10/1/2020,12/16/2020
+787,3,1/8/2021,Krajan,Costus scaber Ruiz & Pav.,4,"",8072,79804,4875.373,1.4106,116.3533,1/14/2021,7/22/2021
+788,0,12/10/2020,Chapayeve,Erigeron eatonii A. Gray var. sonnei (Greene) G.L. Nesom,72,"",6190,80105,4821.116,3.6959,154.1048,7/10/2021,3/2/2021
+789,4,11/26/2020,Pule,Cerastium terrae-novae Fernald & Wiegand,5,"",4050,6798,1881.747,1.6391,141.7517,3/29/2021,3/29/2021
+790,1,10/2/2020,Ojo de Agua,Pistacia vera L.,56,"",2603,94751,2324.213,2.2531,157.6422,1/11/2021,5/17/2021
+791,3,12/14/2020,Vratsa,Blepharizonia plumosa (Kellogg) Greene,66,"",5222,27639,4273.606,1.9111,112.5554,4/21/2021,1/17/2021
+792,1,1/4/2021,Chorente,Erigeron argentatus A. Gray,145,"",1606,12401,46.677,4.5214,141.9261,9/10/2021,5/14/2021
+793,4,2/7/2021,Calango,Hedeoma nana (Torr.) Briq. ssp. macrocalyx W.S. Stewart,34,"",9518,26226,1225.367,4.7684,134.8029,10/15/2020,8/27/2021
+794,3,12/18/2020,Dongqiao,"Abronia bolackii N.D. Atwood, S.L. Welsh & K.D. Heil",50,"",4939,35391,2025.399,3.2226,192.5372,12/1/2020,10/31/2020
+795,3,4/27/2021,Včelná,Astragalus iodopetalus (Rydb.) Barneby,45,"",3331,48743,4043.1,1.514,139.4787,1/21/2021,3/8/2021
+796,2,6/15/2021,Madruga,Oligoneuron ×krotkovii (B. Boivin) G.L. Nesom,65,"",4014,49942,4616.274,0.0526,145.656,6/21/2021,2/24/2021
+797,1,7/17/2021,Wysoka Strzyżowska,Potentilla glandulosa Lindl. ssp. hansenii (Greene) D.D. Keck,121,"",9940,99680,3604.079,0.2195,140.1824,2/19/2021,11/19/2020
+798,2,10/21/2020,Thatta,Galium aristatum L.,99,"",6508,90999,4233.344,2.5056,147.0332,9/10/2021,4/11/2021
+799,2,2/7/2021,Al Ain,Silphium laciniatum L. var. robinsonii L.M. Perry,47,"",9283,14020,3858.482,1.0922,138.2664,2/11/2021,11/2/2020
+800,2,4/5/2021,Prozor,Ivesia pickeringii Torr. ex A. Gray,25,"",5736,95373,2543.286,4.9351,125.8468,5/5/2021,2/9/2021
+801,1,5/27/2021,Avon,Yucca treculeana Carrière,35,"",4645,14119,1660.693,3.0059,127.128,6/20/2021,1/23/2021
+802,0,11/25/2020,Bahuang,Prenanthes roanensis (Chickering) Chickering,137,"",7505,49792,959.837,2.9783,175.6888,5/17/2021,9/28/2020
+803,2,5/8/2021,Fangyan,Musineon tenuifolium (Nutt. ex Torr. & A. Gray) J.M. Coult. & Rose,108,"",6344,62052,1954.468,0.9211,101.7979,6/22/2021,4/30/2021
+804,0,8/31/2021,Pervomayskoye,Dioclea multiflora (Torr. & A. Gray) C. Mohr,12,"",2726,25995,4934.94,4.7064,164.743,12/29/2020,10/31/2020
+805,0,3/2/2021,Kalodu,Crotalaria verrucosa L.,55,"",6214,38656,1679.575,2.3216,176.1075,9/18/2020,3/30/2021
+806,4,5/31/2021,Shamkhor,Cyanea mauiensis (Rock) Lammers,30,"",3426,21338,4381.151,2.7257,146.7666,6/26/2021,2/28/2021
+807,4,4/12/2021,Paris 14,Cirsium foliosum (Hook.) DC.,67,"",894,46755,1623.098,4.0819,186.9935,10/31/2020,2/13/2021
+808,2,11/1/2020,Gimry,Kalanchoe integra (Medik.) Kuntze var. verea (Jacq.) Cufod.,4,"",165,48954,4482.02,2.2841,118.3073,11/3/2020,2/9/2021
+809,4,4/7/2021,At Samat,Oxytropis sericea Nutt. var. speciosa (Torr. & A. Gray) S.L. Welsh,5,"",5092,75613,727.322,2.7322,161.9504,8/28/2021,3/18/2021
+810,1,9/9/2021,Mętków,Centaurium venustum (A. Gray) B.L. Rob.,108,"",9839,56041,3736.481,2.3231,113.266,5/7/2021,3/9/2021
+811,4,9/8/2021,Praingkareha,Monardella lanceolata A. Gray,105,"",653,49727,4117.242,4.5157,188.2822,1/25/2021,10/6/2020
+812,1,7/31/2021,Bukavu,Cullen corylifolia (L.) Medik.,24,"",6369,79903,1517.756,3.2467,139.9851,3/17/2021,1/24/2021
+813,0,11/1/2020,Béthune,Sphagnum platyphyllum (Lindb. ex Braithw.) Sull. ex Warnst.,38,"",3313,93747,4107.616,0.6979,163.6137,5/13/2021,5/24/2021
+814,1,12/9/2020,Huayllati,Chione venosa (Sw.) Urb.,148,"",6303,80895,3831.335,4.5887,101.9334,4/1/2021,2/20/2021
+815,3,2/17/2021,Zapatero,Selaginella stellata Spring,25,"",8751,18925,452.535,1.2101,176.1464,10/8/2020,7/7/2021
+816,1,7/30/2021,Shazikou,Caloplaca grimmiae (Nyl.) H. Olivier,112,"",4500,28656,4295.619,2.6088,166.1487,1/14/2021,3/16/2021
+817,2,4/3/2021,Verona,Flueggea virosa (Roxb. ex Willd.) Voigt,104,"",2724,55825,1020.209,4.4999,176.931,7/30/2021,7/14/2021
+818,0,8/2/2021,Montijo,Caloplaca quercicola H. Magn.,47,"",2337,53025,2974.507,2.4036,161.3771,3/19/2021,11/28/2020
+819,1,10/8/2020,Registro,Hypnum jutlandicum Holmen & Warncke,12,"",8578,64394,4303.066,0.799,102.1218,9/10/2021,9/15/2020
+820,1,12/4/2020,Kambove,Tragia urticifolia Michx.,24,"",1668,28141,4294.657,2.294,147.9843,6/10/2021,10/2/2020
+821,2,3/1/2021,Lafiagi,Rinodina pachysperma H. Magn.,38,"",949,27629,1199.467,2.7537,155.2603,8/17/2021,1/31/2021
+822,2,12/22/2020,Limonade,Papaver radicatum Rottb.,142,"",9616,96102,1059.71,1.3603,142.9479,11/10/2020,9/18/2020
+823,3,3/29/2021,Zagreb,Fraxinus pennsylvanica Marshall,21,"",9389,45747,2007.92,1.1235,113.7927,5/25/2021,4/9/2021
+824,3,1/13/2021,Qiryat Yam,Lathyrus polymorphus Nutt. ssp. polymorphus,59,"",5569,43195,1193.463,2.3415,156.6034,1/31/2021,12/12/2020
+825,4,9/10/2021,Tulungrejo,Scrophularia umbrosa Dumort.,109,"",5846,97985,4345.276,1.8485,119.7976,5/25/2021,3/1/2021
+826,1,5/21/2021,Orillia,Gastridium phleoides (Nees & Meyen) C.E. Hubbard,45,"",2872,52244,1301.476,2.0619,156.3627,9/27/2020,8/1/2021
+827,3,10/19/2020,Qingfenglin,Lesquerella arctica (Wormsk. ex Hornem.) S. Watson,8,"",9391,84029,787.021,4.8554,176.2412,2/8/2021,6/16/2021
+828,3,10/25/2020,Liulin,Erigeron cronquistii Maguire,7,"",5815,50166,2985.332,0.629,182.208,1/6/2021,8/29/2021
+829,2,11/12/2020,Si Satchanalai,Lathyrus nevadensis S. Watson ssp. lanceolatus (Howell) C.L. Hitchc. var. nuttallii (S. Watson) C.L. Hitchc.,41,"",4049,59885,3182.729,1.6387,136.6993,4/12/2021,3/29/2021
+830,4,2/3/2021,Mangaran,Galeopsis ladanum L. var. latifolia (Hoffm.) Wallr.,95,"",4922,43120,1985.627,2.0453,117.5707,11/9/2020,3/28/2021
+831,0,2/6/2021,Kuala Terengganu,Pimenta Lindl.,22,"",9418,60176,2387.556,2.8039,154.4368,2/7/2021,2/20/2021
+832,0,8/7/2021,San Teodoro,Ruellia caroliniensis (J.F. Gmel.) Steud. ssp. ciliosa (Pursh) R.W. Long,25,"",8720,68633,1573.498,3.7748,152.6963,10/15/2020,6/1/2021
+833,3,5/27/2021,Marugame,Anulocaulis annulatus (Coville) Standl.,65,"",272,10649,871.833,1.5711,104.1733,5/27/2021,12/25/2020
+834,0,10/22/2020,Syntul,Galium porrigens Dempster var. tenue (Dempster) Dempster,4,"",8237,87116,1177.242,2.1554,123.65,5/26/2021,1/23/2021
+835,2,6/8/2021,Palykavichy Pyershyya,Tripogon major Hook. f.,76,"",5146,50914,1036.735,3.0827,144.3168,4/10/2021,2/5/2021
+836,4,7/1/2021,Mendefera,Pterocarpus santalinus L. f.,26,"",9285,62213,3820.068,4.541,180.3238,12/3/2020,10/22/2020
+837,0,6/26/2021,Chikola,Solidago odora Aiton var. chapmanii (A. Gray) Cronquist,92,"",9329,72471,1758.028,4.0104,131.9484,4/25/2021,12/18/2020
+838,1,5/27/2021,San Diego,Erigeron glaucus Ker Gawl.,130,"",7706,52420,921.728,3.7516,129.2313,3/6/2021,8/13/2021
+839,4,4/12/2021,Béboto,Myrciaria cauliflora (Mart.) O. Berg,146,"",3115,36625,1623.772,0.6415,151.512,4/30/2021,7/3/2021
+840,1,3/10/2021,Atlanta,Sisymbrium irio L.,108,"",2734,94833,750.014,3.111,140.1591,8/25/2021,5/17/2021
+841,4,4/2/2021,Tiandian,Pityopsis graminifolia (Michx.) Nutt.,105,"",6758,66495,1358.019,1.3396,176.899,11/21/2020,5/11/2021
+842,2,8/29/2021,Mahdishahr,Townsendia gypsophila T.K. Lowrey & P.J. Knight,16,"",7957,51064,299.326,2.4306,152.912,6/3/2021,8/25/2021
+843,4,4/27/2021,Quwaysinā,Claopodium whippleanum (Sull.) Renauld & Cardot,138,"",9877,31458,69.934,2.1707,192.2282,4/15/2021,1/7/2021
+844,2,4/23/2021,Hongmiao,Vitex negundo L.,1,"",1280,87179,495.193,4.0781,139.1803,11/8/2020,4/25/2021
+845,1,9/9/2021,Kinh Môn,Geranium wislizeni S. Watson,6,"",1485,35050,695.076,4.034,121.9397,8/6/2021,9/12/2021
+846,2,8/30/2021,Correia Pinto,Schaereria fuscocinerea (Nyl.) Clauzade & Roux,39,"",1386,33490,2034.434,4.1877,159.1451,9/3/2021,11/8/2020
+847,2,11/20/2020,Heerlen,Bacidia bagliettoana (A. Massal. & De Not.) Jatta,134,"",9372,71951,2035.746,3.1065,174.5107,7/18/2021,3/9/2021
+848,4,10/4/2020,Talisay,Argemone albiflora Hornem. ssp. albiflora,98,"",8734,67543,4838.624,4.2703,117.571,12/11/2020,4/2/2021
+849,4,9/6/2021,Banjar Kelodan,Oxytropis arctica R. Br. var. koyukukensis (A.E. Porsild) S.L. Welsh,84,"",3797,20128,3501.229,4.2313,157.0678,9/3/2021,8/2/2021
+850,3,6/24/2021,Zakupne,Jasminum fluminense Vell.,51,"",7731,43600,2122.378,0.0078,152.3796,3/8/2021,5/10/2021
+851,2,5/30/2021,Pasadena,Cladonia pleurota (Flörke) Schaerer,32,"",1297,92958,2363.517,0.7911,109.6753,10/28/2020,5/7/2021
+852,3,6/26/2021,Chrast,Epilobium hirsutum L.,61,"",4134,70139,3974.516,2.3779,112.6755,1/7/2021,1/31/2021
+853,1,6/5/2021,Saint-Denis,Penstemon elegantulus Pennell,62,"",1893,39346,1940.531,3.5682,143.8017,12/27/2020,2/17/2021
+854,3,9/9/2021,Río Tercero,Quercus ×rolfsii Small (pro sp.),95,"",8417,8143,1650.861,4.4456,122.7814,9/5/2021,12/3/2020
+855,0,7/3/2021,Ashbourne,Carex arkansana (L.H. Bailey) L.H. Bailey,44,"",8595,93197,2845.397,2.2711,177.3418,11/19/2020,4/2/2021
+856,0,4/25/2021,Xingbin,Schiedea diffusa A. Gray,105,"",2772,35291,3703.782,4.2856,115.8839,9/24/2020,6/19/2021
+857,3,3/21/2021,Bohdalov,Hedychium gardnerianum Shepard ex Ker Gawl.,57,"",2656,38420,4884.077,4.6619,163.2982,8/17/2021,6/15/2021
+858,2,11/1/2020,Calvário,Arctostaphylos ×repens (J.T. Howell) P.V. Wells,9,"",8281,69732,2349.277,2.7642,112.1668,4/8/2021,3/9/2021
+859,0,3/19/2021,San Juan Atitán,Brodiaea elegans Hoover,143,"",193,71424,3416.56,4.0277,171.9077,7/15/2021,8/16/2021
+860,0,7/23/2021,Whittier,Rubus leucodermis Douglas ex Torr. & A. Gray var. leucodermis,12,"",1668,15980,3115.064,0.6014,194.7362,4/27/2021,11/3/2020
+861,2,6/7/2021,Maruoka,Spiranthes torta (Thunb.) Garay & H.R. Sweet,126,"",7960,99337,1660.807,1.843,168.4063,2/18/2021,1/1/2021
+862,4,7/11/2021,Norrköping,Dichanthium sericeum (R. Br.) A. Camus,110,"",3832,70392,4012.345,4.0177,140.5293,5/5/2021,9/23/2020
+863,1,7/28/2021,Presnenskiy,Rosa ×rehderiana Blackb.,99,"",7922,82015,2101.159,3.8143,191.3273,10/15/2020,11/3/2020
+864,1,6/1/2021,Carrascal,Urochloa panicoides P. Beauv.,132,"",2505,48295,3392.714,3.895,189.6789,8/22/2021,8/11/2021
+865,1,10/27/2020,Bailang,Draba breweri S. Watson var. cana (Rydb.) Rollins,38,"",9152,14129,1417.438,1.1523,182.4209,12/9/2020,6/23/2021
+866,0,8/19/2021,Huangshapu,Costus villosissimus Jacq.,133,"",226,43000,1166.447,1.5933,172.8563,9/11/2021,8/21/2021
+867,3,4/26/2021,Malanów,Geum rossii (R. Br.) Ser. var. turbinatum (Rydb.) C.L. Hitchc.,7,"",4734,32300,566.096,1.9364,139.6307,5/26/2021,1/8/2021
+868,4,1/30/2021,Tessalit,Cyclachaena Fresen.,78,"",6836,39607,84.259,4.2391,150.8355,6/7/2021,6/27/2021
+869,3,2/24/2021,Xiangang,Acacia cultriformis A. Cunn. ex G. Don,129,"",220,13739,3775.568,4.2231,141.7136,10/31/2020,3/23/2021
+870,1,8/19/2021,Sumqayıt,Ageratina altissima (L.) R.M. King & H. Rob.,85,"",8903,86896,2449.817,0.8864,166.1406,5/27/2021,3/7/2021
+871,1,6/21/2021,Crespo,Ribes velutinum Greene var. velutinum,74,"",8412,77949,4315.894,0.9034,130.7356,4/15/2021,8/26/2021
+872,2,1/28/2021,Qelëz,Pedicularis furbishiae S. Watson,23,"",8457,69302,1256.792,1.5565,187.6632,5/4/2021,7/8/2021
+873,1,7/9/2021,Parung,Leptobryum (Bruch & Schimp.) Wilson,46,"",7217,91537,1014.85,4.5087,113.7422,2/8/2021,9/17/2020
+874,3,2/24/2021,Uvarovo,Xyris isoetifolia Kral,32,"",6965,73354,203.215,2.1542,158.762,5/14/2021,10/13/2020
+875,0,1/13/2021,Chishui,Carex arcta Boott,70,"",2358,63570,3229.843,1.3205,145.984,2/28/2021,5/15/2021
+876,3,8/14/2021,Acopampa,Eriophorum ×medium Andersson ssp. ×medium ,141,"",3236,94773,4989.445,0.4653,145.5622,11/3/2020,1/10/2021
+877,0,3/4/2021,Carbonear,Cyanea calycina (Cham.) Lammers,5,"",6862,7274,4458.253,1.4284,154.2946,4/5/2021,10/23/2020
+878,3,4/13/2021,Jiangshan,Ambrosia artemisiifolia L. var. artemisiifolia,108,"",8673,14528,1125.551,1.2054,177.9585,11/8/2020,2/3/2021
+879,0,5/3/2021,Nombre de Jesús,Potentilla fragiformis Willd. ex Schltdl.,46,"",7197,52852,3180.815,4.6106,145.7695,4/2/2021,3/18/2021
+880,0,3/12/2021,Feuknoni,Casearia arborea (Rich.) Urb.,16,"",960,81230,40.818,4.3336,111.8009,2/22/2021,1/29/2021
+881,3,9/11/2021,Maia,Populus heterophylla L.,140,"",8380,36252,2348.038,3.7834,137.4965,1/5/2021,10/27/2020
+882,3,10/25/2020,Koźle,Lecidea marylandensis H. Magn.,114,"",2774,85171,2614.616,1.1687,186.4977,4/5/2021,11/7/2020
+883,4,8/19/2021,Wyszogród,Calamovilfa (A. Gray) Hack. ex Scribn. & Southworth,17,"",3938,22721,4784.71,4.6526,102.0786,1/25/2021,11/10/2020
+884,3,2/24/2021,Megáli Khóra,Carduus ×orthocephalus Wallr.,101,"",2802,24549,3274.132,2.4698,178.146,6/9/2021,2/8/2021
+885,2,1/22/2021,Aş Şaff,Coreopsis bigelovii (A. Gray) H.M. Hall,112,"",9049,14212,1296.112,0.1209,120.3372,3/22/2021,8/4/2021
+886,2,8/17/2021,Zhongzuiling,Claopodium pellucinerve (Mitt.) Best,63,"",3741,69985,1814.781,3.1261,105.7703,12/1/2020,8/1/2021
+887,4,10/20/2020,Ortiga,Chamaecytisus prolifera (L. f.) Link,96,"",9307,4864,2866.844,2.7404,191.8192,4/5/2021,11/29/2020
+888,0,10/1/2020,Kipini,Lactuca hirsuta Muhl. ex Nutt. var. hirsuta,45,"",5090,99804,3359.069,1.9822,168.6993,5/8/2021,6/27/2021
+889,1,1/25/2021,São Pedro,Ginkgo biloba L.,142,"",9588,70481,2931.449,1.0169,170.8211,9/11/2021,8/2/2021
+890,2,10/28/2020,Głuchów,Sherardia arvensis L.,85,"",6504,80312,4614.158,3.9954,108.4896,10/11/2020,1/15/2021
+891,4,3/17/2021,Sibreh,Xylococcus Nutt.,106,"",6563,50874,4153.164,3.5657,105.1419,3/1/2021,9/3/2021
+892,1,3/16/2021,Egbe,Lecanora varia (Hoffm.) Ach.,113,"",6559,4559,2884.587,2.2809,132.8967,1/3/2021,2/1/2021
+893,4,1/1/2021,San-Pédro,Calathea G. Mey.,145,"",8858,65294,2884.287,0.1094,178.216,3/26/2021,9/14/2020
+894,1,6/10/2021,Antanhol,Platanthera cristata (Michx.) Lindl.,46,"",9230,94970,1750.58,2.918,176.5184,9/8/2021,4/7/2021
+895,4,11/14/2020,Karlsruhe,Downingia Torr.,58,"",1712,4899,4125.598,0.4749,105.7714,8/7/2021,3/15/2021
+896,2,1/26/2021,Huntington Beach,Calymperes afzelii Sw.,85,"",471,18616,3442.615,0.4962,187.0931,12/11/2020,4/29/2021
+897,0,9/3/2021,Dno,Sedum stelliforme S. Watson,28,"",3143,81804,56.126,1.6198,132.631,6/24/2021,11/26/2020
+898,2,3/11/2021,Quận Phú Nhuận,Bryoria simplicior (Vain.) Brodo & D. Hawksw.,34,"",6075,73680,154.114,1.5749,115.5575,9/13/2020,8/25/2021
+899,2,6/26/2021,Xinxu,"Lecania groenlandica (Lynge) ?, ined.?",112,"",4306,43170,3399.004,4.2709,165.4891,3/13/2021,9/4/2021
+900,3,3/7/2021,Hostěradice,Solanum dimidiatum Raf.,58,"",6977,41744,4485.156,2.9086,132.6252,10/30/2020,12/16/2020
+901,3,11/7/2020,Chartres,Diellia leucostegioides (Baker) W.H. Wagner,105,"",6980,28449,3922.293,2.4623,144.2117,8/1/2021,5/12/2021
+902,1,6/19/2021,San Agustin,Aquilegia brevistyla Hook.,130,"",2004,76942,1272.076,2.5015,121.1456,4/28/2021,2/19/2021
+903,2,12/9/2020,Mazongshan,Loeseliastrum (Brand) Timbrook,134,"",4421,10448,2358.283,2.4986,121.1099,8/4/2021,7/3/2021
+904,1,10/23/2020,Vrede,Huperzia nutans (Brack.) Rothm.,147,"",7676,12003,2958.926,0.8062,166.4147,4/14/2021,8/29/2021
+905,3,12/10/2020,Kenitra,Camissonia campestris (Greene) P.H. Raven ssp. campestris,102,"",9234,65139,450.879,3.7613,187.9652,4/17/2021,4/6/2021
+906,0,3/7/2021,Wojsławice,Pediocactus paradinei B.W. Benson,134,"",9273,22099,1290.594,1.006,161.5563,3/22/2021,8/17/2021
+907,3,5/18/2021,Tuanalepe,Limnophila R. Br.,141,"",1939,78369,3971.123,0.6796,180.1406,3/4/2021,9/21/2020
+908,3,8/10/2021,Elekmonar,Brighamia rockii H. St. John,95,"",2169,68705,4786.613,1.5946,167.8866,8/1/2021,8/2/2021
+909,4,9/22/2020,Planken,Astragalus villosus Michx.,139,"",8721,67719,2146.404,0.9787,150.7088,6/6/2021,8/10/2021
+910,1,12/26/2020,Limon,Viola ×palmata L. (pro sp.),81,"",8587,90509,4156.999,1.639,183.102,10/16/2020,11/11/2020
+911,1,3/16/2021,Berdyans’k,Nephelium lappaceum L.,63,"",3975,70253,3366.297,4.6931,129.0427,1/22/2021,11/7/2020
+912,3,10/29/2020,Thị Trấn Bắc Yên,Potamogeton ×saxonicus Hagstr.,38,"",8721,2697,224.08,4.626,187.9536,4/7/2021,4/15/2021
+913,3,3/30/2021,Colonia Nicolich,Hypocenomyce M. Choisy,88,"",6344,94176,4805.894,2.7771,119.1497,5/30/2021,5/17/2021
+914,2,9/29/2020,Črenšovci,Cryptantha crymophila I.M. Johnst.,12,"",6940,19594,1423.312,4.0832,117.7606,2/19/2021,12/9/2020
+915,4,12/14/2020,Trat,Agoseris glauca (Pursh) Raf. var. laciniata (D.C. Eaton) Smiley,19,"",2572,9021,343.382,2.4473,142.9292,2/19/2021,7/8/2021
+916,3,9/25/2020,Copán,Porotrichum (Brid.) Hampe,111,"",7863,99965,1419.376,1.4418,149.5697,3/2/2021,2/16/2021
+917,4,9/2/2021,Maroantsetra,Polygala nitida Brandegee var. nitida Brandegee [excluded],0,"",7268,55403,2892.296,2.7245,150.9797,8/13/2021,10/1/2020
+918,1,5/30/2021,Arias,Trichospermum ledermannii Burret,22,"",7512,86654,730.285,4.9379,173.6072,5/16/2021,10/2/2020
+919,4,8/7/2021,Morelos,Lopadium dodgei Herre,145,"",1269,70014,3800.08,1.8782,103.8107,11/28/2020,5/5/2021
+920,4,1/19/2021,Głuchów,Marsilea vestita Hook. & Grev.,27,"",8938,84848,1209.614,0.8748,138.235,7/25/2021,8/16/2021
+921,1,8/4/2021,Brodnica,Pinaropappus parvus S.F. Blake,130,"",5613,51959,4695.581,0.4272,181.7499,5/25/2021,10/25/2020
+922,2,11/9/2020,Sadabe,Rubus pervarius (L.H. Bailey) L.H. Bailey,80,"",4978,72546,3662.701,4.8112,118.2689,5/21/2021,9/24/2020
+923,3,6/6/2021,Charlottesville,Cardiospermum corindum L.,132,"",3033,45128,3536.383,0.8554,189.8065,12/9/2020,9/27/2020
+924,3,1/14/2021,Arjasari,Dichanthelium wrightianum (Scribn.) Freckmann,40,"",2947,48931,1788.123,4.0181,111.5144,8/25/2021,3/22/2021
+925,3,10/20/2020,Kafr al Labad,Usnea stuppea (Rasanen) Mot.,53,"",4912,17691,1261.995,4.9624,186.3753,4/25/2021,2/6/2021
+926,2,2/9/2021,Kuching,Dodecatheon meadia L. ssp. brachycarpum (Small) R. Knuth,74,"",5716,47011,769.565,4.3548,115.7255,5/19/2021,5/4/2021
+927,2,1/13/2021,Krivaja,Hura crepitans L.,7,"",4557,73618,812.892,0.1718,102.9344,11/9/2020,8/28/2021
+928,3,12/29/2020,Ovsyanka,Diplazium grandifolium (Sw.) Sw.,0,"",5202,37885,308.13,4.0718,153.4201,7/15/2021,5/10/2021
+929,0,6/14/2021,Tallinn,Brachyelytrum erectum (Schreb. ex Spreng.) P. Beauv.,78,"",9081,37597,1490.45,0.7096,196.8748,5/6/2021,5/10/2021
+930,0,1/4/2021,Carepa,Medicago sativa L. ssp. sativa,77,"",8836,7431,2689.283,2.6424,118.4817,3/7/2021,11/30/2020
+931,4,9/25/2020,Altos,Lupinus subvexus C.P. Sm. var. phoeniceus C.P. Sm.,61,"",9557,47059,4621.241,3.3951,145.1484,12/13/2020,9/25/2020
+932,4,1/7/2021,Sinarharapan,Tetragastris Gaertn.,70,"",3826,59283,4926.995,2.4743,156.1671,11/21/2020,4/7/2021
+933,2,1/11/2021,Baru,Solidago odora Aiton var. chapmanii (A. Gray) Cronquist,53,"",6733,8435,2454.371,3.6114,121.6134,2/7/2021,9/28/2020
+934,4,3/7/2021,Bunirasa,Cupressus L.,53,"",6123,52950,4052.066,3.4114,144.6238,2/2/2021,1/1/2021
+935,1,1/20/2021,Tegalalang,Gladiolus ×colvillei Sweet,36,"",4901,21900,376.583,3.8615,130.4176,6/16/2021,12/3/2020
+936,2,4/20/2021,Gonayiv,Orthotrichum cupulatum Brid.,39,"",7673,21089,2987.957,0.8953,108.1343,5/15/2021,1/8/2021
+937,1,6/9/2021,Gataivai,Arabis fructicosa A. Nelson,47,"",4185,50464,1299.926,4.6174,147.0931,6/17/2021,1/7/2021
+938,3,1/1/2021,Xifengshan,Amelanchier humilis Wiegand,122,"",6856,30328,734.116,3.8293,116.6999,7/22/2021,1/10/2021
+939,3,11/6/2020,Kutorejo,Trifolium alexandrinum L.,123,"",8490,89685,2597.134,1.8387,125.3004,7/14/2021,4/19/2021
+940,0,8/29/2021,Sokolnice,Sedum lanceolatum Torr. ssp. nesioticum (G.N. Jones) R.T. Clausen,149,"",6887,11386,769.228,0.7886,190.7564,9/19/2020,1/29/2021
+941,4,7/5/2021,Hushan,Arabis breweri S. Watson var. austiniae (Greene) Rollins,129,"",4998,68558,3316.415,3.4405,130.2703,2/20/2021,12/2/2020
+942,4,1/23/2021,Krajan,Pennisetum petiolare (Hochst.) Chiov.,100,"",4287,78807,2658.661,2.8659,194.5483,3/22/2021,8/30/2021
+943,0,6/6/2021,Sanjō,Scabrethia scabra (Hook.) W.A. Weber ssp. canescens (W.A. Weber) W.A. Weber,38,"",9558,91870,1810.546,2.8182,198.9353,8/8/2021,11/15/2020
+944,4,9/8/2021,Amarillo,Homalothecium arenarium (Lesq.) E. Lawton,79,"",1507,71440,3745.159,1.6895,173.1556,4/19/2021,8/11/2021
+945,4,11/14/2020,Zhetian,Linaria bipartita (Vent.) Willd.,63,"",6136,22723,1705.114,3.9898,137.2526,4/10/2021,10/19/2020
+946,2,10/13/2020,Vitória de Santo Antão,Peperomia degeneri Yunck.,62,"",7134,22664,780.692,4.231,152.1283,6/2/2021,10/21/2020
+947,0,3/28/2021,Gibgos,Hypotrachyna subsaxatilis (de Lesd.) Hale,23,"",7442,1023,1444.956,1.9594,134.6769,11/13/2020,11/3/2020
+948,3,11/26/2020,Qal‘ah-ye Na‘īm,Hypocenomyce castaneocinerea (Rasanen) Timdal,150,"",7259,90470,3162.654,1.763,157.7932,1/16/2021,1/29/2021
+949,3,1/9/2021,Nagrak,Asplenium radicans L.,10,"",3673,33137,3873.797,4.3184,100.85,10/8/2020,3/18/2021
+950,4,9/1/2021,Bohicon,Verrucaria aquilella Nyl.,38,"",9487,77894,3806.325,2.5358,120.863,4/13/2021,7/31/2021
+951,1,12/26/2020,Wuyang,Asclepias scaposa Vail,128,"",2488,29646,2224.841,0.0723,166.6314,8/29/2021,8/21/2021
+952,3,5/1/2021,Phetchaburi,Zigadenus venenosus S. Watson var. venenosus,21,"",9096,79237,3590.218,4.2705,184.7373,5/30/2021,4/5/2021
+953,1,11/27/2020,Shikhany,Pyrus ussuriensis Maxim.,122,"",5061,93252,2386.442,2.5221,193.8083,7/16/2021,10/25/2020
+954,2,5/7/2021,Vidnoye,Lachnanthes Elliott,34,"",9521,9497,1775.358,1.4848,118.8024,11/22/2020,4/17/2021
+955,0,5/19/2021,Tselinnoye,Sedum lanceolatum Torr. ssp. subalpinum (Blank.) R.T. Clausen,96,"",4885,25223,1589.951,0.7399,199.8802,5/24/2021,5/2/2021
+956,0,4/3/2021,Versailles,Acer negundo L. var. interius (Britton) Sarg.,16,"",4429,95135,2255.951,0.2357,135.8764,6/13/2021,6/12/2021
+957,1,10/20/2020,Bohai,Lupinus argenteus Pursh ssp. argenteus var. argenteus,0,"",4667,92123,1630.018,1.8008,198.1026,3/9/2021,9/28/2020
+958,0,5/13/2021,Ganggawang,Verrucaria sordida Servit,11,"",8186,83015,3027.263,2.3466,154.8415,4/8/2021,2/15/2021
+959,2,8/9/2021,Pilar,Penstemon tidestromii Pennell,86,"",159,14492,1002.264,1.5764,115.0061,9/2/2021,3/23/2021
+960,1,5/10/2021,Opochka,Silene parishii S. Watson var. latifolia C.L. Hitchc. & Maguire,17,"",2745,78090,1849.842,0.5557,111.2754,7/25/2021,10/26/2020
+961,1,3/29/2021,Balong,Amsinckia spectabilis Fisch. & C.A. Mey.,95,"",9350,25606,3658.625,1.6211,119.5759,5/31/2021,11/18/2020
+962,4,2/16/2021,Muraharjo,Dudleya blochmaniae (Eastw.) Moran,117,"",7020,85372,4492.284,0.1209,168.583,1/30/2021,6/29/2021
+963,4,9/5/2021,Glogovac,Ochrolechia arborea (Kreyer) Almb.,8,"",7193,31484,2375.626,2.8303,121.204,1/2/2021,8/4/2021
+964,2,9/17/2020,Yongfa,Erigeron concinnus (Hook. & Arn.) Torr. & A. Gray var. concinnus,133,"",5149,9986,1128.631,3.5567,149.0974,7/12/2021,5/13/2021
+965,1,3/9/2021,Diego de Almagro,Philadelphus incanus Koehne,60,"",3314,35464,1123.623,1.3565,125.2705,8/22/2021,9/5/2021
+966,3,4/29/2021,Moshenskoye,Lithospermum incisum Lehm.,28,"",1717,48087,1327.034,0.7076,197.5887,5/15/2021,6/1/2021
+967,4,6/11/2021,Mandalay,Turpinia Vent.,40,"",8315,4165,4564.646,4.5486,185.895,3/1/2021,3/19/2021
+968,0,5/13/2021,Sugihan,Carex salina Wahlenb.,90,"",5674,13137,4306.317,3.9042,173.3003,10/14/2020,9/1/2021
+969,0,8/5/2021,Ciudad Ojeda,Hibiscus brackenridgei A. Gray,74,"",4302,83642,2876.085,3.3123,196.0811,10/2/2020,5/12/2021
+970,2,2/15/2021,Novoul’yanovsk,Baptisia alba (L.) Vent. var. macrophylla (Larisey) Isely,140,"",2684,14311,3130.515,2.7696,107.2752,5/20/2021,12/6/2020
+971,4,2/13/2021,Canmang,Penstemon degeneri Crosswh.,148,"",4770,46802,4294.68,1.7506,174.9995,8/4/2021,11/29/2020
+972,3,4/20/2021,Norrköping,Lomatium tuberosum Hoover,11,"",4684,18893,212.647,3.0379,169.3314,1/6/2021,1/26/2021
+973,0,9/4/2021,Zipaquirá,Xyris drummondii Malme,16,"",9767,31980,1420.315,2.657,183.1202,9/13/2020,9/27/2020
+974,1,8/17/2021,Jiabei,Eucalyptus cloeziana F. Muell.,14,"",8649,28141,1752.262,3.4195,167.7841,1/7/2021,7/26/2021
+975,3,12/5/2020,Semanding,Arthrostylidium Rupr.,47,"",333,51687,3995.101,2.2536,176.5238,4/14/2021,7/17/2021
+976,2,1/28/2021,Chantilly,Arenaria hookeri Nutt. ssp. desertorum (Maguire) W.A. Weber,25,"",1274,24959,569.569,2.3237,196.3288,10/21/2020,5/18/2021
+977,4,6/8/2021,Hanjianglu,Urochloa panicoides P. Beauv.,79,"",9791,8375,3593.606,0.8692,112.1887,7/7/2021,1/21/2021
+978,3,3/12/2021,Siaya,Oncoba Forssk.,93,"",3752,93986,2601.616,4.9685,136.4557,12/30/2020,7/13/2021
+979,2,7/7/2021,Bal Chirāgh,Philadelphus incanus Koehne,135,"",2042,30745,4417.835,3.5745,157.6317,4/3/2021,1/29/2021
+980,1,10/17/2020,Santa Catalina - Dique Lujan,Oxalis priceae Small,116,"",9270,73427,828.1,1.4353,157.8354,11/20/2020,2/28/2021
+981,2,8/29/2021,Adelaide,Dendropemon caribaeus Krug & Urb.,59,"",9598,44755,4007.906,1.6811,101.1114,1/8/2021,10/16/2020
+982,1,12/19/2020,Barberena,Erythrodes Blume,97,"",3444,75255,4096.219,0.4847,173.8992,6/25/2021,10/17/2020
+983,4,12/21/2020,Haveliān,Ammophila breviligulata Fernald,70,"",1791,36671,1692.782,2.7222,149.9963,12/12/2020,8/16/2021
+984,3,2/20/2021,Huizhou,Euclasta Franch.,145,"",6389,65694,774.077,3.4389,160.1477,8/31/2021,9/17/2020
+985,2,3/4/2021,Melekyne,Mentzelia chrysantha Engelm. ex Brandegee,118,"",5629,15660,4312.157,4.9152,102.7492,3/10/2021,1/11/2021
+986,3,3/19/2021,Koronganayam,Astragalus gilviflorus Sheldon,89,"",2280,81861,4045.41,2.9681,146.415,3/30/2021,4/19/2021
+987,4,6/10/2021,Kungur,Cynanchum L.,11,"",5358,64111,1071.136,2.0765,194.8498,9/13/2020,7/7/2021
+988,2,7/21/2021,Libertad,Hymenopappus tenuifolius Pursh,68,"",8256,13147,4418.867,3.9193,187.7379,7/20/2021,12/4/2020
+989,4,12/3/2020,Nowlamary,Geum ×macneillii J.-P. Bernard & R. Gauthier,111,"",5106,13012,2007.455,1.2782,155.2631,11/10/2020,4/26/2021
+990,1,1/24/2021,Mibu,Navarretia eriocephala H. Mason,101,"",8145,12456,2951.575,4.5157,103.3761,6/23/2021,2/15/2021
+991,2,3/4/2021,Lailunggi,Rubus semisetosus Blanch.,73,"",4226,76914,1360.951,3.0241,122.7587,10/5/2020,12/13/2020
+992,2,3/16/2021,Turrialba,Escobaria alversonii (J.M. Coult.) N.P. Taylor,15,"",1761,48225,2387.159,4.2477,124.2853,6/9/2021,6/1/2021
+993,4,3/6/2021,Lianhe,Cylindropuntia ×multigeniculata (Clokey) Backeb. (pro sp.),12,"",9606,16150,2915.588,2.7826,144.2561,5/31/2021,5/1/2021
+994,2,1/29/2021,Vilela,Argythamnia simulans J.W. Ingram,136,"",612,9674,115.239,1.8179,170.045,2/27/2021,12/10/2020
+995,4,2/17/2021,Mandepa Barat,Cinchona L.,100,"",9835,62145,575.998,0.316,174.5553,9/14/2020,11/11/2020
+996,1,5/21/2021,Dubna,Mimosa hystricina (Small ex Britton & Rose) B.L. Turner,112,"",5756,95417,4100.533,0.2981,160.7788,11/8/2020,8/27/2021
+997,0,10/16/2020,Dagup,Lupinus albifrons Benth. var. douglasii (J. Agardh) C.P. Sm.,52,"",3494,50836,3366.197,1.549,156.3948,4/2/2021,6/28/2021
+998,2,9/26/2020,Panadtaban,Dactylorhiza Neck. ex Nevski,77,"",4269,66022,4613.154,1.5019,134.9562,5/24/2021,12/5/2020
+999,2,1/31/2021,Luorong,Draba trichocarpa Rollins,3,"",9302,88574,4029.075,3.0237,105.9713,9/24/2020,7/17/2021
+1000,1,12/10/2020,Sebedo,Malaxis unifolia Michx.,112,"",4451,22881,1744.141,3.3705,135.8242,1/19/2021,12/23/2020
