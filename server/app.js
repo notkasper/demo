@@ -7,6 +7,7 @@ const helmet = require('helmet');
 const xssClean = require('xss-clean');
 const hpp = require('hpp');
 const cors = require('cors');
+const yield = require('./handlers/yield');
 require('express-async-errors'); // catching async errors, that arent caught anywhere else, only needs to be required here
 
 const start = async () => {
@@ -47,7 +48,10 @@ const start = async () => {
   // Set static folder (build folder)
   app.use('/', express.static(path.join(__dirname, './build')));
 
-  app.use('/api/v1/test', (req, res) => res.status(200).send({ message: 'OK' }));
+  app.get('/api/v1/test', (req, res) => res.status(200).send({ message: 'OK' }));
+  app.get('/api/v1/crops', yield.getCrops);
+  app.get('/api/v1/proposals', yield.getproposals);
+  app.get('/api/v1/areaYield', yield.getAreaYieldModel);
 
   const port = process.env.SERVER_PORT || 5000;
 

@@ -5,7 +5,7 @@ import Content from './content';
 
 const App = () => {
   const load = async () => {
-    const response = await request.get('/api/v1/test');
+    let response = await request.get('/api/v1/test');
     console.log(JSON.stringify(response.body));
   };
 
