@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect } from 'react';
+import request from 'superagent';
 
-function App() {
+const App = () => {
+  const load = async () => {
+    const response = await request.get('/api/v1/test');
+    console.log(JSON.stringify(response.body));
+  };
+
+  useEffect(() => {
+    load();
+  }, []);
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img className="App-logo" alt="logo" />
       </header>
     </div>
   );
-}
+};
 
 export default App;
