@@ -12,19 +12,24 @@ const Title = styled.h1`
 `;
 
 const Crumb = styled.p`
-  font-family: myriad-pro, sans-serif;
+  font-family: Myriad-Light;
+  font-size: 1rem;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
 `;
 
 const Text = styled.p`
-  font-family: myriad-pro, sans-serif;
+  font-family: Myriad-Light;
+  font-size: 1rem;
 `;
 
 const Header = () => {
   return (
     <Container maxwidth="sm">
-      <Crumb>Rural Benchmarking tool &gt;</Crumb>
+      <div style={{ display: 'flex' }}>
+        <Crumb>Rural Benchmarking tool</Crumb>
+        <Crumb style={{ marginLeft: '1.5rem' }}>&gt;</Crumb>
+      </div>
       <Title>Rural benchmark</Title>
       <div style={{ display: 'flex', height: '32px', margin: '1rem 0' }}>
         <div style={{ borderRadius: '100%', backgroundColor: '#FD6400', width: '32px', color: 'white' }}>

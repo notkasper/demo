@@ -13,9 +13,9 @@ const Container = styled.div`
 `;
 
 const StyledLink = styled.a`
-  font-family: myriad-pro, sans-serif;
-  font-weight: 700;
-  font-style: normal;
+  font-family: Myriad-Light;
+  font-size: 1rem;
+  font-weight: 1000;
   padding: 0 12px;
   :hover {
     cursor: pointer;
