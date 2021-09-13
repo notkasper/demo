@@ -51,7 +51,7 @@ const start = async () => {
   app.get('/api/v1/test', (req, res) => res.status(200).send({ message: 'OK' }));
   app.get('/api/v1/crops', yield.getCrops);
   app.get('/api/v1/proposals', yield.getproposals);
-  app.get('/api/v1/areaYield', yield.getAreaYieldModel);
+  app.get('/api/v1/areaYield', yield.getAreaYieldGraph);
 
   const port = process.env.SERVER_PORT || 5000;
 

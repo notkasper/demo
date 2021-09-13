@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const spawn = require('child_process').spawn;
 
-const yieldPath = path.join(__dirname, '../fixtures/Yield_MOCK.csv');
+const yieldPath = path.join(__dirname, '../engine/Yield_MOCK.csv');
 
 const yield = [];
 
@@ -40,13 +40,15 @@ const getproposals = async (req, res) => {
   res.status(200).send({ data: proposals });
 };
 
-const getAreaYieldModel = async (req, res) => {
-  const process = spawn('python', ['./engine/app.py', 7, 3]);
+const getAreaYieldGraph = async (req, res) => {
+  spawn('python', ['./engine/polynomial_model.py', 7, 3]);
 
-  process.stdout.on('data', (data) => {
-    result = JSON.parse(data.toString());
-    console.log('Sum ' + result.sum);
-  });
+  // super ugly temporary workaround
+  setTimeout(() => {
+    filename = 'area-yield.png';
+    filepath = path.join(__dirname, `../engine/${filename}`);
+    res.status(200).sendFile(filepath);
+  }, 2000);
 };
 
-module.exports = { getCrops, getproposals, getAreaYieldModel };
+module.exports = { getCrops, getproposals, getAreaYieldGraph };
