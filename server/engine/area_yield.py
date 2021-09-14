@@ -7,11 +7,13 @@ import matplotlib.pyplot as plt
 
 crop = str(sys.argv[1])
 print(crop)
-print(crop)
 
 filepath = "./Yield_MOCK.csv"
 
 df = pd.read_csv(filepath)
+
+indices = df['Crop'] == crop
+df = df[indices]
 
 x = df["Area"]
 y = df["Yield"]

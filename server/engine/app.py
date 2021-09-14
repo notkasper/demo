@@ -1,8 +1,8 @@
 import sys
 import json
 
-x = {
-    "sum": int(sys.argv[1]) + int(sys.argv[2])
-}
+print(str(sys.argv[1]))
+print(str(sys.argv[1]))
+print(str(sys.argv[1]))
 
-print(json.dumps(x))
+print(json.dumps({"x": str(sys.argv[1])}))

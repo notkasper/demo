@@ -7,14 +7,16 @@ import matplotlib.pyplot as plt
 
 crop = str(sys.argv[1])
 print(crop)
-print(crop)
 
 filepath = "./Yield_MOCK.csv"
 
 df = pd.read_csv(filepath)
 
-x = df["Yield"]
-y = df["Cost"]
+indices = df['Crop'] == crop
+df = df[indices]
+
+x = df["Area"]
+y = df["Yield"]
 
 mymodel = np.poly1d(np.polyfit(x, y, 3))
 
