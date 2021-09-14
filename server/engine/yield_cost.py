@@ -16,7 +16,7 @@ indices = df['Crop'] == crop
 df = df[indices]
 
 x = df["Area"]
-y = df["Yield"]
+y = df["Cost"]
 
 mymodel = np.poly1d(np.polyfit(x, y, 3))
 

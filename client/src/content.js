@@ -86,6 +86,22 @@ const Content = () => {
     setLoading(false);
   };
 
+  const getSize = () => {
+    return ['small', 'mediun', 'large'][selectedCrop];
+  };
+
+  const getArea = () => {
+    return [950, 4200, 8700][selectedCrop];
+  };
+
+  const getYield = () => {
+    return [1150, 427000, 498000][selectedCrop];
+  };
+
+  const getCost = () => {
+    return [0.35, 2, 8, 0.7][selectedCrop];
+  };
+
   const loadGraphs = async () => {
     if (!crops) return; // if crops have not been loading, dont make calls
     setLoading(true);
@@ -126,24 +142,22 @@ const Content = () => {
         </div>
         <Text style={{ marginTop: '5px', marginLeft: '10px' }}>Download report</Text>
       </div>
-      {loading ? null : (
-        <>
-          <Subtitle>Select crop</Subtitle>
-          <Select
-            labelId="demo-simple-select-label"
-            id="demo-simple-select"
-            style={{ marginBottom: '1rem', minWidth: '10rem' }}
-            value={selectedCrop}
-            onChange={handleCropChange}
-          >
-            {crops.map((crop, index) => (
-              <MenuItem key={`${index}-${selectedCrop}`} value={index}>
-                {crop}
-              </MenuItem>
-            ))}
-          </Select>
-        </>
-      )}
+      <>
+        <Subtitle>Select crop</Subtitle>
+        <Select
+          labelId="demo-simple-select-label"
+          id="demo-simple-select"
+          style={{ marginBottom: '1rem', minWidth: '10rem' }}
+          value={selectedCrop}
+          onChange={handleCropChange}
+        >
+          {crops.map((crop, index) => (
+            <MenuItem key={`${index}-${selectedCrop}`} value={index}>
+              {crop}
+            </MenuItem>
+          ))}
+        </Select>
+      </>
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: '1rem', marginBottom: '1rem' }}>
         <Card>
           <CardContent>
@@ -151,7 +165,7 @@ const Content = () => {
               <AspectRatioOutlinedIcon
                 style={{ color: '#19196c', height: 'auto', width: '3rem', marginRight: '1rem' }}
               />
-              <CardText>50 acres</CardText>
+              <CardText>{getArea()} acres</CardText>
             </div>
           </CardContent>
         </Card>
@@ -161,7 +175,7 @@ const Content = () => {
               <LocalFloristOutlinedIcon
                 style={{ color: '#19196c', height: 'auto', width: '3rem', marginRight: '1rem' }}
               />
-              <CardText>10 tonnes</CardText>
+              <CardText>{getYield()} tonnes</CardText>
             </div>
           </CardContent>
         </Card>
@@ -171,7 +185,7 @@ const Content = () => {
               <AttachMoneyOutlinedIcon
                 style={{ color: '#19196c', height: 'auto', width: '3rem', marginRight: '1rem' }}
               />
-              <CardText>34.5</CardText>
+              <CardText>{getCost()}</CardText>
             </div>
           </CardContent>
         </Card>
@@ -184,7 +198,7 @@ const Content = () => {
             <>
               <Subtitle>Statistics</Subtitle>
               <Neutral>Based on your proposals, you are classified as a </Neutral>
-              <BlueHighlight>medium </BlueHighlight>
+              <BlueHighlight>{`${getSize()} `}</BlueHighlight>
               <Neutral>sized farm for crop: </Neutral>
               <BlueHighlight>{crops[selectedCrop]}</BlueHighlight>
             </>
@@ -200,7 +214,7 @@ const Content = () => {
               <>
                 <Subtitle>Area / Yield</Subtitle>
                 <Neutral>Your yield is </Neutral>
-                <GreenHighlight>slightly higher </GreenHighlight>
+                <GreenHighlight>significantly higher </GreenHighlight>
                 <Neutral>than the average of comparable farms.</Neutral>
                 <div />
                 <img src={areaYieldPath} alt="graph of area vs yield" style={{ width: '100%', height: 'auto' }} />
