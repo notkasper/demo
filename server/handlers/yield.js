@@ -44,7 +44,9 @@ const delay = 500;
 
 const getAreaYieldGraph = async (req, res) => {
   const crop = req.params.crop;
-  spawn('python', ['./engine/area_yield.py', crop]);
+  const proces = spawn('python', ['./engine/area_yield.py', crop]);
+
+  proces.stderr.pipe(process.stderr);
 
   // super ugly temporary workaround
   setTimeout(() => {
@@ -55,7 +57,9 @@ const getAreaYieldGraph = async (req, res) => {
 
 const getYieldCost = async (req, res) => {
   const crop = req.params.crop;
-  spawn('python', ['./engine/yield_cost.py', crop]);
+  const proces = spawn('python', ['./engine/yield_cost.py', crop]);
+
+  proces.stderr.pipe(process.stderr);
 
   // super ugly temporary workaround
   setTimeout(() => {
