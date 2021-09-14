@@ -8,10 +8,9 @@ import Select from '@material-ui/core/Select';
 import InsertDriveFileOutlinedIcon from '@material-ui/icons/InsertDriveFileOutlined';
 import MenuItem from '@material-ui/core/MenuItem';
 import CircularProgress from '@material-ui/core/CircularProgress';
-import Accordion from '@material-ui/core/Accordion';
-import AccordionSummary from '@material-ui/core/AccordionSummary';
-import AccordionDetails from '@material-ui/core/AccordionDetails';
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
+import AspectRatioOutlinedIcon from '@material-ui/icons/AspectRatioOutlined';
+import LocalFloristOutlinedIcon from '@material-ui/icons/LocalFloristOutlined';
+import AttachMoneyOutlinedIcon from '@material-ui/icons/AttachMoneyOutlined';
 
 const Title = styled.h1`
   color: #19196c;
@@ -58,11 +57,26 @@ const BlueHighlight = styled.span`
   font-size: 1rem;
 `;
 
+const OrangeHighlight = styled.span`
+  color: #fd6400;
+  font-family: Myriad-Light;
+  font-weight: bold;
+  font-size: 1rem;
+`;
+
+const CardText = styled.h1`
+  color: #19196c;
+  font-family: myriad-pro, sans-serif;
+  margin: 0;
+  font-size: 32px;
+`;
+
 const Content = () => {
   const [crops, setCrops] = useState([]);
   const [loading, setLoading] = useState(false);
   const [selectedCrop, setSelectedCrop] = useState(0);
   const [areaYieldPath, setAreaYieldPath] = useState(0);
+  const [yieldCostPath, setYieldCostPath] = useState(0);
 
   const load = async () => {
     setLoading(true);
@@ -71,6 +85,9 @@ const Content = () => {
 
     response = await request.get('api/v1/areaYield');
     setAreaYieldPath(response.body.data);
+
+    response = await request.get('api/v1/yieldCost');
+    setYieldCostPath(response.body.data);
     setLoading(false);
   };
 
@@ -79,13 +96,16 @@ const Content = () => {
   }, []);
 
   const handleCropChange = (event) => {
+    console.log('CHANGE CROPP');
     setSelectedCrop(event.target.value);
   };
 
-  console.log(crops);
+  console.log(selectedCrop);
+  console.log(selectedCrop);
+  console.log(selectedCrop);
 
   return (
-    <Container maxwidth="sm">
+    <Container maxwidth="xs">
       <div style={{ display: 'flex' }}>
         <Crumb>Rural Benchmarking tool</Crumb>
         <Crumb style={{ marginLeft: '1.5rem' }}>&gt;</Crumb>
@@ -108,12 +128,44 @@ const Content = () => {
             onChange={handleCropChange}
           >
             {crops.map((crop) => (
-              <MenuItem value={10}>{crop}</MenuItem>
+              <MenuItem value={selectedCrop}>{crop}</MenuItem>
             ))}
           </Select>
         </>
       )}
-      <Card>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridGap: '1rem', marginBottom: '1rem' }}>
+        <Card>
+          <CardContent>
+            <div style={{ display: 'flex' }}>
+              <AspectRatioOutlinedIcon
+                style={{ color: '#19196c', height: 'auto', width: '3rem', marginRight: '1rem' }}
+              />
+              <CardText>50 acres</CardText>
+            </div>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent>
+            <div style={{ display: 'flex' }}>
+              <LocalFloristOutlinedIcon
+                style={{ color: '#19196c', height: 'auto', width: '3rem', marginRight: '1rem' }}
+              />
+              <CardText>10 tonnes</CardText>
+            </div>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent>
+            <div style={{ display: 'flex' }}>
+              <AttachMoneyOutlinedIcon
+                style={{ color: '#19196c', height: 'auto', width: '3rem', marginRight: '1rem' }}
+              />
+              <CardText>34.5</CardText>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+      <Card style={{ marginBottom: '1rem' }}>
         <CardContent>
           {loading ? (
             <CircularProgress />
@@ -124,16 +176,44 @@ const Content = () => {
               <BlueHighlight>medium </BlueHighlight>
               <Neutral>sized farm for crop: </Neutral>
               <BlueHighlight>{crops[selectedCrop]}</BlueHighlight>
-              <Subtitle>Area / Yield</Subtitle>
-              <Neutral>Your yield is </Neutral>
-              <GreenHighlight>slightly higher </GreenHighlight>
-              <Neutral>than the average of comparable farms.</Neutral>
-              <div />
-              <img src={areaYieldPath} alt="graph of area vs yield" style={{ width: '50%', height: 'auto' }} />
             </>
           )}
         </CardContent>
       </Card>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gridGap: '1rem' }}>
+        <Card>
+          <CardContent>
+            {loading ? (
+              <CircularProgress />
+            ) : (
+              <>
+                <Subtitle>Area / Yield</Subtitle>
+                <Neutral>Your yield is </Neutral>
+                <GreenHighlight>slightly higher </GreenHighlight>
+                <Neutral>than the average of comparable farms.</Neutral>
+                <div />
+                <img src={areaYieldPath} alt="graph of area vs yield" style={{ width: '100%', height: 'auto' }} />
+              </>
+            )}
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent>
+            {loading ? (
+              <CircularProgress />
+            ) : (
+              <>
+                <Subtitle>Yield / Cost</Subtitle>
+                <Neutral>Your cost is </Neutral>
+                <OrangeHighlight>slightly higher </OrangeHighlight>
+                <Neutral>than the average of farms with a comparable yield.</Neutral>
+                <div />
+                <img src={yieldCostPath} alt="graph of area vs yield" style={{ width: '100%', height: 'auto' }} />
+              </>
+            )}
+          </CardContent>
+        </Card>
+      </div>
     </Container>
   );
 };

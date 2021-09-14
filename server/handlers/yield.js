@@ -43,7 +43,7 @@ const getproposals = async (req, res) => {
 const delay = 500;
 
 const getAreaYieldGraph = async (req, res) => {
-  spawn('python', ['./engine/polynomial_model.py', 7, 3]);
+  spawn('python', ['./engine/area_yield.py', 7, 3]);
 
   // super ugly temporary workaround
   setTimeout(() => {
@@ -52,4 +52,14 @@ const getAreaYieldGraph = async (req, res) => {
   }, delay);
 };
 
-module.exports = { getCrops, getproposals, getAreaYieldGraph };
+const getYieldCost = async (req, res) => {
+  spawn('python', ['./engine/yield_cost.py', 7, 3]);
+
+  // super ugly temporary workaround
+  setTimeout(() => {
+    filename = 'yield-cost.png';
+    res.status(200).send({ data: filename });
+  }, delay);
+};
+
+module.exports = { getCrops, getproposals, getAreaYieldGraph, getYieldCost };

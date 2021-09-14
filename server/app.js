@@ -52,6 +52,7 @@ const start = async () => {
   app.get('/api/v1/crops', yield.getCrops);
   app.get('/api/v1/proposals', yield.getproposals);
   app.get('/api/v1/areaYield', yield.getAreaYieldGraph);
+  app.get('/api/v1/yieldCost', yield.getYieldCost);
 
   const port = process.env.SERVER_PORT || 5000;
 
