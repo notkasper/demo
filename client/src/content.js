@@ -74,7 +74,7 @@ const CardText = styled.h1`
 const Content = () => {
   const [crops, setCrops] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [selectedCrop, setSelectedCrop] = useState(0);
+  const [selectedCrop, setSelectedCrop] = useState(null);
   const [areaYieldPath, setAreaYieldPath] = useState(0);
   const [yieldCostPath, setYieldCostPath] = useState(0);
 
@@ -82,12 +82,15 @@ const Content = () => {
     setLoading(true);
     let response = await request.get('api/v1/crops');
     setCrops(response.body.data);
+    setSelectedCrop(0);
+    setLoading(false);
   };
 
   const loadGraphs = async () => {
-    if (loading) return;
+    if (!crops) return; // if crops have not been loading, dont make calls
     setLoading(true);
     const cropParam = crops[selectedCrop];
+    if (!cropParam) return;
     let response = await request.get(`api/v1/areaYield/${cropParam}`);
     setAreaYieldPath(response.body.data);
 

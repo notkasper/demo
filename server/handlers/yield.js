@@ -40,7 +40,7 @@ const getproposals = async (req, res) => {
   res.status(200).send({ data: proposals });
 };
 
-const delay = 500;
+const delay = 1000;
 
 const getAreaYieldGraph = async (req, res) => {
   const crop = req.params.crop;

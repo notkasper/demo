@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 crop = str(sys.argv[1])
 print(crop)
 
-filepath = "./Yield_MOCK.csv"
+filepath = "C:/Users/31640/Documents/demo/server/engine/Yield_MOCK.csv"
 
 df = pd.read_csv(filepath)
 
@@ -26,7 +26,7 @@ plt.scatter(x, y, 5, color="#19196c")
 plt.plot(myline, mymodel(myline), color="#fd6400", linewidth=4)
 plt.xlabel("Area (acres)")
 plt.ylabel("Yield (tonnes)")
-plt.savefig('../static/area-yield.png')
+plt.savefig('C:/Users/31640/Documents/demo/server/static/area-yield.png')
 
 output = {"filename": "area-yield.png"}
 print(json.dumps(output))
