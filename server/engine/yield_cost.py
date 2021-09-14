@@ -5,6 +5,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+crop = str(sys.argv[1])
+print(crop)
+print(crop)
+
 filepath = "./Yield_MOCK.csv"
 
 df = pd.read_csv(filepath)

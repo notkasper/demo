@@ -43,10 +43,8 @@ const getproposals = async (req, res) => {
 const delay = 500;
 
 const getAreaYieldGraph = async (req, res) => {
-  console.log(req.params.crop);
-  console.log(req.params.crop);
-  console.log(req.params.crop);
-  spawn('python', ['./engine/area_yield.py', 7, 3]);
+  const crop = req.params.crop;
+  spawn('python', ['./engine/area_yield.py', crop]);
 
   // super ugly temporary workaround
   setTimeout(() => {
@@ -56,10 +54,8 @@ const getAreaYieldGraph = async (req, res) => {
 };
 
 const getYieldCost = async (req, res) => {
-  console.log(req.params.crop);
-  console.log(req.params.crop);
-  console.log(req.params.crop);
-  spawn('python', ['./engine/yield_cost.py', 7, 3]);
+  const crop = req.params.crop;
+  spawn('python', ['./engine/yield_cost.py', crop]);
 
   // super ugly temporary workaround
   setTimeout(() => {

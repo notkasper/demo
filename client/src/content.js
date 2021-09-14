@@ -85,8 +85,9 @@ const Content = () => {
   };
 
   const loadGraphs = async () => {
+    if (loading) return;
+    setLoading(true);
     const cropParam = crops[selectedCrop];
-    if (!cropParam) return;
     let response = await request.get(`api/v1/areaYield/${cropParam}`);
     setAreaYieldPath(response.body.data);
 
