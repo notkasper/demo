@@ -78,31 +78,36 @@ const Content = () => {
   const [areaYieldPath, setAreaYieldPath] = useState(0);
   const [yieldCostPath, setYieldCostPath] = useState(0);
 
-  const load = async () => {
+  const loadCrops = async () => {
     setLoading(true);
     let response = await request.get('api/v1/crops');
     setCrops(response.body.data);
+  };
 
-    response = await request.get('api/v1/areaYield');
+  const loadGraphs = async () => {
+    const cropParam = crops[selectedCrop];
+    if (!cropParam) return;
+    let response = await request.get(`api/v1/areaYield/${cropParam}`);
     setAreaYieldPath(response.body.data);
 
-    response = await request.get('api/v1/yieldCost');
+    response = await request.get(`api/v1/yieldCost/${cropParam}`);
     setYieldCostPath(response.body.data);
     setLoading(false);
   };
 
   useEffect(() => {
-    load();
+    loadCrops();
   }, []);
 
+  useEffect(() => {
+    loadGraphs();
+  }, [selectedCrop]);
+
   const handleCropChange = (event) => {
-    console.log('CHANGE CROPP');
     setSelectedCrop(event.target.value);
   };
 
-  console.log(selectedCrop);
-  console.log(selectedCrop);
-  console.log(selectedCrop);
+  console.log(`${selectedCrop}: ${crops[selectedCrop]}`);
 
   return (
     <Container maxwidth="xs">
@@ -127,8 +132,10 @@ const Content = () => {
             value={selectedCrop}
             onChange={handleCropChange}
           >
-            {crops.map((crop) => (
-              <MenuItem value={selectedCrop}>{crop}</MenuItem>
+            {crops.map((crop, index) => (
+              <MenuItem key={`${index}-${selectedCrop}`} value={index}>
+                {crop}
+              </MenuItem>
             ))}
           </Select>
         </>
